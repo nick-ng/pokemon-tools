@@ -1,5 +1,5 @@
 import * as PokeapiWrapper from "pokeapi-js-wrapper";
-import z, { unknown } from "zod";
+import z from "zod";
 
 const RawMoveInfoSchema = z.object({
   damage_class: z.object({ name: z.string() }),
@@ -31,7 +31,6 @@ export const getMoveByName = async (
         const result = RawMoveInfoSchema.safeParse(a);
 
         if (!result.success) {
-          console.log("a", a);
           return null;
         }
 
