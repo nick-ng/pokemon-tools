@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import z from "zod";
 
-import { getMoveByName, pokedex, MoveInfo } from "./pokedex";
+import type { MoveInfo } from "./schemas";
+import { getMovesByName } from "./pokedex";
 
 interface MatchupDetailsProps {
   pokemon: string;
@@ -16,7 +16,7 @@ export default function MatchupDetails({
 
   useEffect(() => {
     (async () => {
-      setMoveDetails(await getMoveByName(moves));
+      setMoveDetails(await getMovesByName(moves));
     })();
   }, [moves.join(",")]);
 

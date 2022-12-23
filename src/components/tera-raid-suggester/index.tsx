@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 
 import { TeraRaidPokemon, TeraRaidArraySchema } from "./schemas";
 import MatchupDetails from "./matchup-details";
-import { pokedex, getMoveByName } from "./pokedex";
 
 export default function TeraRaidSuggester() {
   const [raidPokemon, setRaidPokemon] = useState<TeraRaidPokemon[]>([]);
