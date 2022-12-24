@@ -1,4 +1,4 @@
-import { IV_RANGE, otherStat } from "./utils";
+import { IV_RANGE, otherStat } from "../../utils";
 
 export interface MinIVProps {
   id: string;

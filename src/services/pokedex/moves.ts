@@ -69,7 +69,7 @@ export const getMove = (name: string): MoveInfo | null => {
       return {
         name,
         power: 90,
-        type: "stab1",
+        type: 1,
         damageClass: "physical",
       };
     case "Salt Cure":

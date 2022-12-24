@@ -2,6 +2,11 @@ export const IV_RANGE = Object.freeze(
   new Array(32).fill(null).map((_, i) => i)
 );
 
+export const hpStat = (base: number, level = 50, iv = 31, ev = 0) => {
+  const a = (2 * base + iv + Math.floor(ev / 4)) * level;
+  return Math.floor(a / 100) + level + 10;
+};
+
 export const otherStat = (
   base: number,
   level = 50,

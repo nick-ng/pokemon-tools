@@ -1,6 +1,9 @@
 import { useEffect, useState } from "react";
 
-import { TeraRaidPokemon, TeraRaidArraySchema } from "./schemas";
+import {
+  TeraRaidPokemon,
+  TeraRaidArraySchema,
+} from "../../services/pokedex/schemas";
 import MatchupDetails from "./matchup-details";
 
 export default function TeraRaidSuggester() {
@@ -22,9 +25,16 @@ export default function TeraRaidSuggester() {
 
   return (
     <div>
-      {raidPokemon.map((p) => (
-        <MatchupDetails key={p.id} pokemon={p.pokemon} moves={p.moves} />
-      ))}
+      <div className="">
+        {raidPokemon.map((p) => (
+          <MatchupDetails
+            key={p.id}
+            pokemon={p.pokemon}
+            moves={p.moves}
+            raidStars={p.stars}
+          />
+        ))}
+      </div>
     </div>
   );
 }
