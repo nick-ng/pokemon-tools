@@ -1,4 +1,4 @@
-import { IV_RANGE, otherStat } from "./utils";
+import { IV_RANGE, otherStat } from "../../utils";
 
 export interface MinIVProps {
   id: string;
@@ -33,9 +33,9 @@ export default function OneIV({
   const minStat = otherStat(baseStat, level, 0, 0, nature);
 
   return (
-    <div className="relative mr-2">
+    <div className="m-1 inline-block border border-gray-300 p-1 align-top">
       <input
-        className="w-full rounded border border-gray-300 dark:bg-gray-800"
+        className="w-full rounded border border-gray-300 px-1 dark:bg-gray-800"
         type="text"
         value={note}
         onChange={(e) => {
@@ -52,7 +52,7 @@ export default function OneIV({
       <label className="flex justify-between">
         <span>Base Stat:</span>
         <input
-          className="w-14 rounded border border-gray-300 text-right dark:bg-gray-800"
+          className="w-14"
           type="number"
           value={baseStat}
           onChange={(e) => {
@@ -70,7 +70,6 @@ export default function OneIV({
       <label className="flex justify-between">
         <span>Nature:</span>
         <select
-          className="rounded border border-gray-300 bg-white dark:bg-gray-800"
           onChange={(e) => {
             onUpdate({
               id,
@@ -90,7 +89,7 @@ export default function OneIV({
       <label className="flex justify-between">
         <span>Final Level:</span>
         <input
-          className="w-14 rounded border border-gray-300 text-right dark:bg-gray-800"
+          className="w-14"
           type="number"
           value={level}
           onChange={(e) => {
@@ -108,7 +107,7 @@ export default function OneIV({
       <label className="flex justify-between">
         <span>Catch Level:</span>
         <input
-          className="w-14 rounded border border-gray-300 text-right dark:bg-gray-800"
+          className="w-14"
           type="number"
           value={catchLevel}
           onChange={(e) => {

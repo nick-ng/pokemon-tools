@@ -1,6 +1,40 @@
+import type { PokemonType } from "./schemas";
+import { TYPE_MATCHUP } from "./constants";
+
+export const capFirst = (s: string) => {
+  const [firstLetter, ...otherLetters] = [...s];
+  return [firstLetter.toUpperCase(), ...otherLetters].join("");
+};
+
+export const getTypeEffectiveness = (
+  attackType: PokemonType,
+  defenderTypes: PokemonType[]
+) => {
+  if (attackType === "typeless" || attackType === "none") {
+    return 1;
+  }
+
+  const temp = TYPE_MATCHUP[attackType];
+
+  const temp2 = defenderTypes.map((t) => {
+    if (t === "typeless" || t === "none") {
+      return 1;
+    }
+
+    return temp[t];
+  });
+
+  return temp2.reduce((prev, curr) => prev * curr, 1);
+};
+
 export const IV_RANGE = Object.freeze(
   new Array(32).fill(null).map((_, i) => i)
 );
+
+export const hpStat = (base: number, level = 50, iv = 31, ev = 0) => {
+  const a = (2 * base + iv + Math.floor(ev / 4)) * level;
+  return Math.floor(a / 100) + level + 10;
+};
 
 export const otherStat = (
   base: number,
