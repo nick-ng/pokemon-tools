@@ -1,4 +1,4 @@
-import type { MoveInfo } from "./schemas";
+import type { MoveInfo } from "../../schemas";
 
 export const getMove = (name: string): MoveInfo | null => {
   switch (name) {
@@ -105,7 +105,7 @@ export const getMove = (name: string): MoveInfo | null => {
       return {
         name,
         power: null,
-        type: "unknown",
+        type: "typeless",
         damageClass: "status",
       };
     default:

@@ -1,16 +1,21 @@
 import { useEffect, useState } from "react";
 
-import type { TeraRaidPokemon } from "../../services/pokedex/schemas";
+import { PokemonTypeSchema, TeraRaidPokemon } from "../../schemas";
 
 import { useOptions } from "../../hooks/options-context";
-import { TeraRaidArraySchema } from "../../services/pokedex/schemas";
+import { TeraRaidArraySchema } from "../../schemas";
+import { POKEMON_TYPES } from "../../constants";
+import { capFirst } from "../../utils";
 import MatchupDetails from "./matchup-details";
 import YourPokemon from "./your-pokemon";
 
 export default function TeraRaidSuggester() {
   const { options, setOptions } = useOptions();
+
+  const { raidYourPokemon, raidTeraType, raidAttackAdjustment } = options;
+
   const [raidPokemon, setRaidPokemon] = useState<TeraRaidPokemon[]>([]);
-  const { raidYourPokemon } = options;
+  const [raidFilter, setRaidFilter] = useState("");
 
   useEffect(() => {
     (async () => {
@@ -87,15 +92,66 @@ export default function TeraRaidSuggester() {
         </div>
       </details>
       <h2>Raid Pokemon</h2>
-      <div>
-        {raidPokemon.map((p) => (
-          <MatchupDetails
-            key={p.id}
-            pokemon={p.pokemon}
-            moves={p.moves}
-            raidStars={p.stars}
+      <div className="inline-block">
+        <label className="flex justify-between">
+          <span className="mr-1">Tera Type:</span>
+          <select
+            value={raidTeraType}
+            onChange={(e) => {
+              setOptions({
+                raidTeraType: PokemonTypeSchema.parse(e.target.value),
+              });
+            }}
+          >
+            {POKEMON_TYPES.map((t) => {
+              return (
+                <option key={t} value={t}>
+                  {capFirst(t)}
+                </option>
+              );
+            })}
+          </select>
+        </label>
+        <label className="flex justify-between">
+          <span className="mr-1">Attack Adjustment:</span>
+          <input
+            className="w-14"
+            type="number"
+            value={raidAttackAdjustment}
+            onChange={(e) => {
+              setOptions({ raidAttackAdjustment: parseInt(e.target.value) });
+            }}
           />
-        ))}
+        </label>
+        <label className="flex justify-between">
+          <span className="mr-1">Filter:</span>
+          <input
+            type="text"
+            value={raidFilter}
+            onChange={(e) => {
+              setRaidFilter(e.target.value);
+            }}
+          />
+        </label>
+      </div>
+      <div>
+        {raidPokemon
+          .filter(
+            (r) =>
+              !raidFilter ||
+              r.pokemon.toLowerCase().includes(raidFilter.toLowerCase())
+          )
+          .map((p) => (
+            <MatchupDetails
+              key={p.id}
+              pokemon={p.pokemon}
+              moves={p.moves}
+              raidStars={p.stars}
+              raidTeraType={raidTeraType}
+              yourPokemon={raidYourPokemon}
+              attackAdjustment={raidAttackAdjustment}
+            />
+          ))}
       </div>
     </div>
   );

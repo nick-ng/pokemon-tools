@@ -1,4 +1,4 @@
-import type { PokedexEntry } from "./schemas";
+import type { PokedexEntry } from "../../schemas";
 
 export const getPokemon = (name: string): PokedexEntry | null => {
   switch (name) {

@@ -1,5 +1,30 @@
 import z from "zod";
 
+export const PokemonTypeSchema = z.enum([
+  "normal",
+  "fighting",
+  "flying",
+  "poison",
+  "ground",
+  "rock",
+  "bug",
+  "ghost",
+  "steel",
+  "fire",
+  "water",
+  "grass",
+  "electric",
+  "psychic",
+  "ice",
+  "dragon",
+  "dark",
+  "fairy",
+  "none",
+  "typeless",
+]);
+
+export type PokemonType = z.infer<typeof PokemonTypeSchema>;
+
 export const TeraRaidSchema = z.object({
   id: z.string(),
   stars: z.number(),
@@ -14,7 +39,7 @@ export const TeraRaidArraySchema = z.array(TeraRaidSchema);
 export const RawMoveInfoSchema = z.object({
   damage_class: z.object({ name: z.enum(["physical", "special", "status"]) }),
   power: z.number().nullable(),
-  type: z.object({ name: z.string() }),
+  type: z.object({ name: PokemonTypeSchema }),
 });
 
 export type RawMoveInfo = z.infer<typeof RawMoveInfoSchema>;
@@ -23,7 +48,7 @@ export const MoveInfoSchema = z.object({
   name: z.string(),
   damageClass: z.enum(["physical", "special", "status", "both"]),
   power: z.number().nullable(),
-  type: z.union([z.string(), z.number()]),
+  type: z.union([PokemonTypeSchema, z.number(), z.literal("tera")]),
 });
 
 export type MoveInfo = z.infer<typeof MoveInfoSchema>;
@@ -32,7 +57,7 @@ export const RawPokemonInfoSchema = z.object({
   types: z.array(
     z.object({
       slot: z.number(),
-      type: z.object({ name: z.string() }),
+      type: z.object({ name: PokemonTypeSchema }),
     })
   ),
   stats: z.array(
@@ -63,7 +88,7 @@ export type PokemonStats = z.infer<typeof PokemonStatsSchema>;
 
 export const PokedexEntrySchema = z.object({
   name: z.string(),
-  types: z.array(z.string()),
+  types: z.array(PokemonTypeSchema),
   baseStats: PokemonStatsSchema,
   abilities: z.array(z.string()),
   hiddenAbility: z.string().nullable(),
@@ -73,8 +98,8 @@ export type PokedexEntry = z.infer<typeof PokedexEntrySchema>;
 
 export const PokemonInfoSchema = z.object({
   name: z.string(),
-  types: z.array(z.string()),
-  teraType: z.string(),
+  types: z.array(PokemonTypeSchema),
+  teraType: PokemonTypeSchema,
   finalStats: PokemonStatsSchema,
   ability: z.string(),
 });

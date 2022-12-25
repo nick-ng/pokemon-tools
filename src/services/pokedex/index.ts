@@ -1,11 +1,11 @@
 import localforage from "localforage";
 
-import { MoveInfo, PokedexEntry, PokedexEntrySchema } from "./schemas";
+import { MoveInfo, PokedexEntry, PokedexEntrySchema } from "../../schemas";
 import {
   MoveInfoSchema,
   RawMoveInfoSchema,
   RawPokemonInfoSchema,
-} from "./schemas";
+} from "../../schemas";
 import { getMove } from "./moves";
 import { getPokemon } from "./pokemon";
 

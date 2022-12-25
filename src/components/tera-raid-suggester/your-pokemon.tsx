@@ -1,35 +1,13 @@
-import type {
-  MoveInfo,
-  PokemonInfo,
-  YourRaidPokemon,
-} from "../../services/pokedex/schemas";
+import type { YourRaidPokemon } from "../../schemas";
+import { PokemonTypeSchema } from "../../schemas";
+import { POKEMON_TYPES } from "../../constants";
+import { capFirst } from "../../utils";
 
 interface YourPokemonProps {
   yourRaidPokemon: YourRaidPokemon;
   onChange: (newRaidPokemon: YourRaidPokemon) => void | Promise<void>;
   onDelete: () => void | Promise<void>;
 }
-
-const POKEMON_TYPES = [
-  "normal",
-  "fighting",
-  "flying",
-  "poison",
-  "ground",
-  "rock",
-  "bug",
-  "ghost",
-  "steel",
-  "fire",
-  "water",
-  "grass",
-  "electric",
-  "psychic",
-  "ice",
-  "dragon",
-  "dark",
-  "fairy",
-];
 
 export default function YourPokemon({
   yourRaidPokemon,
@@ -73,7 +51,7 @@ export default function YourPokemon({
           value={types[0]}
           onChange={(e) => {
             const temp = [...yourRaidPokemon.pokemon.types];
-            temp[0] = e.target.value;
+            temp[0] = PokemonTypeSchema.parse(e.target.value);
             onChange({
               id: yourRaidPokemon.id,
               pokemon: {
@@ -84,14 +62,11 @@ export default function YourPokemon({
             });
           }}
         >
-          {POKEMON_TYPES.map((t) => {
-            const [firstLetter, ...otherLetters] = [...t];
-            return (
-              <option key={t} value={t}>
-                {[firstLetter.toUpperCase(), ...otherLetters].join("")}
-              </option>
-            );
-          })}
+          {POKEMON_TYPES.map((t) => (
+            <option key={t} value={t}>
+              {capFirst(t)}
+            </option>
+          ))}
         </select>
       </label>
       <label className="flex justify-between">
@@ -104,9 +79,9 @@ export default function YourPokemon({
               temp = [temp[0]];
             } else {
               if (temp.length === 1) {
-                temp.push(e.target.value);
+                temp.push(PokemonTypeSchema.parse(e.target.value));
               } else {
-                temp[1] = e.target.value;
+                temp[1] = PokemonTypeSchema.parse(e.target.value);
               }
             }
 
@@ -120,14 +95,11 @@ export default function YourPokemon({
             });
           }}
         >
-          {["none", ...POKEMON_TYPES].map((t) => {
-            const [firstLetter, ...otherLetters] = [...t];
-            return (
-              <option key={t} value={t}>
-                {[firstLetter.toUpperCase(), ...otherLetters].join("")}
-              </option>
-            );
-          })}
+          {["none", ...POKEMON_TYPES].map((t) => (
+            <option key={t} value={t}>
+              {capFirst(t)}
+            </option>
+          ))}
         </select>
       </label>
       <label className="flex justify-between">
@@ -139,20 +111,17 @@ export default function YourPokemon({
               id: yourRaidPokemon.id,
               pokemon: {
                 ...yourRaidPokemon.pokemon,
-                teraType: e.target.value,
+                teraType: PokemonTypeSchema.parse(e.target.value),
               },
               mainMoves: yourRaidPokemon.mainMoves,
             });
           }}
         >
-          {POKEMON_TYPES.map((t) => {
-            const [firstLetter, ...otherLetters] = [...t];
-            return (
-              <option key={t} value={t}>
-                {[firstLetter.toUpperCase(), ...otherLetters].join("")}
-              </option>
-            );
-          })}
+          {POKEMON_TYPES.map((t) => (
+            <option key={t} value={t}>
+              {capFirst(t)}
+            </option>
+          ))}
         </select>
       </label>
       <div className="-mx-1 mt-1 block border-t border-t-gray-300 px-1 pt-1">
@@ -407,19 +376,16 @@ export default function YourPokemon({
                         .filter((mm) => mm.id !== move.id)
                         .concat({
                           ...move,
-                          type: e.target.value,
+                          type: PokemonTypeSchema.parse(e.target.value),
                         }),
                     });
                   }}
                 >
-                  {["none", ...POKEMON_TYPES].map((t) => {
-                    const [firstLetter, ...otherLetters] = [...t];
-                    return (
-                      <option key={t} value={t}>
-                        {[firstLetter.toUpperCase(), ...otherLetters].join("")}
-                      </option>
-                    );
-                  })}
+                  {["none", ...POKEMON_TYPES].map((t) => (
+                    <option key={t} value={t}>
+                      {capFirst(t)}
+                    </option>
+                  ))}
                 </select>
               </label>
             </div>

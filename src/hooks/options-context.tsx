@@ -7,7 +7,7 @@ import {
 } from "react";
 import z from "zod";
 
-import { YourRaidPokemonSchema } from "../services/pokedex/schemas";
+import { YourRaidPokemonSchema, PokemonTypeSchema } from "../schemas";
 
 const OPTIONS_STORE = "POKEMON_TOOLS_OPTIONS";
 
@@ -25,6 +25,8 @@ const optionsSchema = z.object({
   ),
   minIVMaxShow: z.number(),
   raidYourPokemon: z.array(YourRaidPokemonSchema),
+  raidTeraType: PokemonTypeSchema,
+  raidAttackAdjustment: z.number(),
 });
 
 export type Options = z.infer<typeof optionsSchema>;
@@ -85,6 +87,8 @@ export const defaultOptions = Object.freeze({
       ],
     },
   ],
+  raidTeraType: "normal",
+  raidAttackAdjustment: 100,
 }) as Readonly<Options>;
 
 const toggleDarkMode = (darkMode: Options["darkMode"]) => {
