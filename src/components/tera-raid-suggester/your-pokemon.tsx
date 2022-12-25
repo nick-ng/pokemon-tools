@@ -15,7 +15,7 @@ export default function YourPokemon({
   onDelete,
 }: YourPokemonProps) {
   const { pokemon } = yourRaidPokemon;
-  const { name, ability, finalStats, teraType, types } = pokemon;
+  const { name, finalStats, teraType, types } = pokemon;
   return (
     <div className="m-1 inline-block border border-gray-300 p-1 align-top">
       <div>
