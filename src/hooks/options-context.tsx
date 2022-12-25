@@ -7,6 +7,8 @@ import {
 } from "react";
 import z from "zod";
 
+import { YourRaidPokemonSchema } from "../services/pokedex/schemas";
+
 const OPTIONS_STORE = "POKEMON_TOOLS_OPTIONS";
 
 const optionsSchema = z.object({
@@ -22,6 +24,7 @@ const optionsSchema = z.object({
     })
   ),
   minIVMaxShow: z.number(),
+  raidYourPokemon: z.array(YourRaidPokemonSchema),
 });
 
 export type Options = z.infer<typeof optionsSchema>;
@@ -46,8 +49,43 @@ export const defaultOptions = Object.freeze({
       catchLevel: 72,
     },
   ],
-  minIVMaxShow: 15,
-});
+  minIVMaxShow: 10,
+  raidYourPokemon: [
+    {
+      id: "a",
+      pokemon: {
+        name: "Azumaril",
+        types: ["water", "fairy"],
+        teraType: "fairy",
+        ability: "Huge Power",
+        finalStats: {
+          hp: 207,
+          atk: 102,
+          def: 101,
+          spa: 80,
+          spd: 100,
+          spe: 70,
+        },
+      },
+      mainMoves: [
+        {
+          id: "a",
+          name: "Play Rough",
+          damageClass: "physical",
+          power: 90,
+          type: "fairy",
+        },
+        {
+          id: "b",
+          name: "Waterfall",
+          damageClass: "physical",
+          power: 80,
+          type: "water",
+        },
+      ],
+    },
+  ],
+}) as Readonly<Options>;
 
 const toggleDarkMode = (darkMode: Options["darkMode"]) => {
   if (

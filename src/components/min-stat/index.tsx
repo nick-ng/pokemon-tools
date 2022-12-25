@@ -27,7 +27,7 @@ export default function MinIV() {
           }}
         />
       </label>
-      <div className="flex flex-row items-start">
+      <div>
         {minIVs.map(({ id, note, baseStat, level, nature, catchLevel }, i) => (
           <OneStat
             key={id}
@@ -51,6 +51,7 @@ export default function MinIV() {
           />
         ))}
         <button
+          className="my-1 rounded-lg border border-gray-500 p-2 align-top"
           onClick={() => {
             setOptions({
               minIVs: [
@@ -66,7 +67,6 @@ export default function MinIV() {
               ],
             });
           }}
-          className="rounded-lg border border-gray-500 p-2"
         >
           New Pokemon
         </button>

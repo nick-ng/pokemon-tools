@@ -80,3 +80,13 @@ export const PokemonInfoSchema = z.object({
 });
 
 export type PokemonInfo = z.infer<typeof PokemonInfoSchema>;
+
+export const YourRaidPokemonSchema = z.object({
+  id: z.string(),
+  pokemon: PokemonInfoSchema,
+  mainMoves: z.array(
+    z.intersection(MoveInfoSchema, z.object({ id: z.string() }))
+  ),
+});
+
+export type YourRaidPokemon = z.infer<typeof YourRaidPokemonSchema>;
