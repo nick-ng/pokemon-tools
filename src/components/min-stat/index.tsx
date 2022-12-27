@@ -48,6 +48,18 @@ export default function MinIV() {
                 minIVs: minIVs.filter((pokemon) => pokemon.id !== id),
               });
             }}
+            onDuplicate={(newCatchLevel) => {
+              const temp = [...minIVs];
+              temp.splice(i + 1, 0, {
+                id: `${Date.now()}-${minIVs.length}`,
+                note: `${note} (${newCatchLevel})`,
+                baseStat,
+                level,
+                nature,
+                catchLevel: newCatchLevel,
+              });
+              setOptions({ minIVs: temp });
+            }}
           />
         ))}
         <button

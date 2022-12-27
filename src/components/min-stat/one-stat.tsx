@@ -1,6 +1,23 @@
 import { IV_RANGE, otherStat } from "../../utils";
 
-export interface MinIVProps {
+const getHighestAcceptableIV = (
+  baseStat: number,
+  level: number,
+  nature: number
+) => {
+  const minStat = otherStat(baseStat, level, 0, 0, nature);
+
+  for (let iv = 1; iv < 32; iv++) {
+    const tempStat = otherStat(baseStat, level, iv, 0, nature);
+    if (tempStat > minStat) {
+      return iv - 1;
+    }
+  }
+
+  return 0;
+};
+
+interface MinIVProps {
   id: string;
   note: string;
   baseStat: number;
@@ -17,6 +34,7 @@ export interface MinIVProps {
     catchLevel: number;
   }) => void | Promise<void>;
   onRemove: () => void | Promise<void>;
+  onDuplicate: (newCatchLevel: number) => void | Promise<void>;
 }
 
 export default function OneIV({
@@ -29,8 +47,34 @@ export default function OneIV({
   maxIV,
   onUpdate,
   onRemove,
+  onDuplicate,
 }: MinIVProps) {
   const minStat = otherStat(baseStat, level, 0, 0, nature);
+  const highestAcceptableIV = getHighestAcceptableIV(baseStat, level, nature);
+
+  const catchDecrease = {
+    max: otherStat(baseStat, catchLevel, highestAcceptableIV, 0, 0.9),
+    over: otherStat(baseStat, catchLevel, highestAcceptableIV + 1, 0, 0.9),
+  };
+
+  const catchDecreaseWarn =
+    catchDecrease.max === catchDecrease.over ? catchDecrease.over : -1;
+
+  const catchNeutral = {
+    max: otherStat(baseStat, catchLevel, highestAcceptableIV, 0, 1),
+    over: otherStat(baseStat, catchLevel, highestAcceptableIV + 1, 0, 1),
+  };
+
+  const catchNeutralWarn =
+    catchNeutral.max === catchNeutral.over ? catchNeutral.over : -1;
+
+  const catchIncrease = {
+    max: otherStat(baseStat, catchLevel, highestAcceptableIV, 0, 1.1),
+    over: otherStat(baseStat, catchLevel, highestAcceptableIV + 1, 0, 1.1),
+  };
+
+  const catchIncreaseWarn =
+    catchIncrease.max === catchIncrease.over ? catchIncrease.over : -1;
 
   return (
     <div className="m-1 inline-block border border-gray-300 p-1 align-top">
@@ -122,16 +166,26 @@ export default function OneIV({
           }}
         />
       </label>
-      <button
-        className="my-2 rounded-lg border border-gray-500 p-1"
-        onClick={() => {
-          if (confirm(`Remove ${note}?`)) {
-            onRemove();
-          }
-        }}
-      >
-        Remove
-      </button>
+      <div className="flex justify-between">
+        <button
+          className="my-2 rounded-lg border border-gray-500 p-1"
+          onClick={() => {
+            if (confirm(`Remove ${note}?`)) {
+              onRemove();
+            }
+          }}
+        >
+          Remove
+        </button>
+        <button
+          className="my-2 rounded-lg border border-gray-500 p-1"
+          onClick={() => {
+            onDuplicate(catchLevel + 1);
+          }}
+        >
+          Copy (Level {catchLevel + 1})
+        </button>
+      </div>
       <table className="border-collapse">
         <thead>
           <tr>
@@ -151,8 +205,25 @@ export default function OneIV({
           </tr>
         </thead>
         <tbody>
-          {IV_RANGE.filter((iv) => iv <= maxIV).map((iv) => {
+          {IV_RANGE.filter(
+            (iv) => iv <= Math.max(maxIV, highestAcceptableIV + 1)
+          ).map((iv) => {
             const stat = otherStat(baseStat, level, iv, 0, nature);
+            const decreaseCatchStat = otherStat(
+              baseStat,
+              catchLevel,
+              iv,
+              0,
+              0.9
+            );
+            const neutralCatchStat = otherStat(baseStat, catchLevel, iv, 0, 1);
+            const increaseCatchStat = otherStat(
+              baseStat,
+              catchLevel,
+              iv,
+              0,
+              1.1
+            );
             return (
               <tr
                 className={
@@ -166,14 +237,32 @@ export default function OneIV({
                 <td className="border border-gray-500 px-1 py-0 text-right">
                   {stat}
                 </td>
-                <td className="border border-gray-500 px-1 py-0 text-right">
-                  {otherStat(baseStat, catchLevel, iv, 0, 0.9)}
+                <td
+                  className={`border border-gray-500 px-1 py-0 text-right ${
+                    decreaseCatchStat === catchDecreaseWarn
+                      ? "bg-red-300 dark:bg-red-700"
+                      : ""
+                  }`}
+                >
+                  {decreaseCatchStat}
                 </td>
-                <td className="border border-gray-500 px-1 py-0 text-right">
-                  {otherStat(baseStat, catchLevel, iv, 0, 1)}
+                <td
+                  className={`border border-gray-500 px-1 py-0 text-right ${
+                    neutralCatchStat === catchNeutralWarn
+                      ? "bg-red-300 dark:bg-red-700"
+                      : ""
+                  }`}
+                >
+                  {neutralCatchStat}
                 </td>
-                <td className="border border-gray-500 px-1 py-0 text-right">
-                  {otherStat(baseStat, catchLevel, iv, 0, 1.1)}
+                <td
+                  className={`border border-gray-500 px-1 py-0 text-right ${
+                    increaseCatchStat === catchIncreaseWarn
+                      ? "bg-red-300 dark:bg-red-700"
+                      : ""
+                  }`}
+                >
+                  {increaseCatchStat}
                 </td>
               </tr>
             );
