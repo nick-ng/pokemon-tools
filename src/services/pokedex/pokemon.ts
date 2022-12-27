@@ -392,6 +392,291 @@ export const getPokemon = (name: string): PokedexEntry | null => {
           spe: 87,
         },
       };
+    case "Veluza":
+      return {
+        name,
+        types: ["water", "psychic"],
+        abilities: ["mold-breaker"],
+        hiddenAbility: "sharpness",
+        baseStats: {
+          hp: 90,
+          atk: 102,
+          def: 73,
+          spa: 78,
+          spd: 65,
+          spe: 70,
+        },
+      };
+    case "Dudunsparce":
+      return {
+        name,
+        types: ["normal"],
+        abilities: ["serene-grace", "run-away"],
+        hiddenAbility: "rattled",
+        baseStats: {
+          hp: 125,
+          atk: 100,
+          def: 80,
+          spa: 85,
+          spd: 75,
+          spe: 55,
+        },
+      };
+    case "Houndstone":
+      return {
+        name,
+        types: ["ghost"],
+        abilities: ["sand-rush"],
+        hiddenAbility: "fluffy",
+        baseStats: {
+          hp: 72,
+          atk: 101,
+          def: 100,
+          spa: 50,
+          spd: 97,
+          spe: 68,
+        },
+      };
+    case "Wugtrio":
+      return {
+        name,
+        types: ["water"],
+        abilities: ["gooey", "rattled"],
+        hiddenAbility: "sand-veil",
+        baseStats: {
+          hp: 35,
+          atk: 100,
+          def: 50,
+          spa: 50,
+          spd: 70,
+          spe: 120,
+        },
+      };
+    case "Espathra":
+      return {
+        name,
+        types: ["psychic"],
+        abilities: ["opportunist", "frisk"],
+        hiddenAbility: "speed-boost",
+        baseStats: {
+          hp: 95,
+          atk: 60,
+          def: 60,
+          spa: 101,
+          spd: 60,
+          spe: 105,
+        },
+      };
+    case "Arboliva":
+      return {
+        name,
+        types: ["grass", "normal"],
+        abilities: ["seed-sower"],
+        hiddenAbility: "harvest",
+        baseStats: {
+          hp: 78,
+          atk: 69,
+          def: 90,
+          spa: 125,
+          spd: 109,
+          spe: 39,
+        },
+      };
+    case "Scovillain":
+      return {
+        name,
+        types: ["grass", "fire"],
+        abilities: ["chlorophyll", "insomnia"],
+        hiddenAbility: "moody",
+        baseStats: {
+          hp: 65,
+          atk: 108,
+          def: 65,
+          spa: 108,
+          spd: 65,
+          spe: 75,
+        },
+      };
+    case "Wugtrio":
+      return {
+        name,
+        types: ["water"],
+        abilities: ["gooey", "rattled"],
+        hiddenAbility: "sand-veil",
+        baseStats: {
+          hp: 35,
+          atk: 100,
+          def: 50,
+          spa: 50,
+          spd: 70,
+          spe: 120,
+        },
+      };
+    case "Indeedee": // higher of each stat
+      return {
+        name,
+        types: ["psychic", "normal"],
+        abilities: ["own-tempo", "inner-focus", "synchronize"],
+        hiddenAbility: "psychic-surge",
+        baseStats: {
+          hp: 70,
+          atk: 65,
+          def: 65,
+          spa: 105,
+          spd: 105,
+          spe: 95,
+        },
+      };
+    case "Palafin": // Normal form
+      return {
+        name,
+        types: ["water"],
+        abilities: ["zero-to-hero"],
+        hiddenAbility: null,
+        baseStats: {
+          hp: 100,
+          atk: 70,
+          def: 72,
+          spa: 53,
+          spd: 62,
+          spe: 100,
+        },
+      };
+    case "Flamigo":
+      return {
+        name,
+        types: ["flying", "fighting"],
+        abilities: ["scrappy", "tangled-feet"],
+        hiddenAbility: "costar",
+        baseStats: {
+          hp: 82,
+          atk: 115,
+          def: 74,
+          spa: 75,
+          spd: 64,
+          spe: 90,
+        },
+      };
+    case "Rabsca":
+      return {
+        name,
+        types: ["bug", "psychic"],
+        abilities: ["synchronize"],
+        hiddenAbility: "telepathy",
+        baseStats: {
+          hp: 75,
+          atk: 50,
+          def: 85,
+          spa: 115,
+          spd: 100,
+          spe: 45,
+        },
+      };
+    case "Bellibolt":
+      return {
+        name,
+        types: ["electric"],
+        abilities: ["electromorphosis", "static"],
+        hiddenAbility: "damp",
+        baseStats: {
+          hp: 109,
+          atk: 64,
+          def: 91,
+          spa: 103,
+          spd: 83,
+          spe: 45,
+        },
+      };
+    case "Oricorio": // Baile Style
+      return {
+        name,
+        types: ["fire", "flying"],
+        abilities: ["dancer"],
+        hiddenAbility: null,
+        baseStats: {
+          hp: 75,
+          atk: 70,
+          def: 70,
+          spa: 98,
+          spd: 70,
+          spe: 93,
+        },
+      };
+    case "Squawkabilly":
+      return {
+        name,
+        types: ["normal", "flying"],
+        abilities: ["intimidate", "hustle"],
+        hiddenAbility: "guts",
+        baseStats: {
+          hp: 82,
+          atk: 96,
+          def: 51,
+          spa: 45,
+          spd: 51,
+          spe: 92,
+        },
+      };
+    case "Brambleghast":
+      return {
+        name,
+        types: ["grass", "ghost"],
+        abilities: ["wind-rider"],
+        hiddenAbility: "infiltrator",
+        baseStats: {
+          hp: 55,
+          atk: 115,
+          def: 70,
+          spa: 80,
+          spd: 70,
+          spe: 90,
+        },
+      };
+    case "Toxtricity":
+      return {
+        name,
+        types: ["electric", "poison"],
+        abilities: ["punk-rock", "plus", "minus"],
+        hiddenAbility: "technician",
+        baseStats: {
+          hp: 75,
+          atk: 98,
+          def: 70,
+          spa: 114,
+          spd: 70,
+          spe: 75,
+        },
+      };
+    case "Tatsugiri":
+      return {
+        name,
+        types: ["dragon", "water"],
+        abilities: ["commander"],
+        hiddenAbility: "storm-drain",
+        baseStats: {
+          hp: 68,
+          atk: 50,
+          def: 60,
+          spa: 120,
+          spd: 95,
+          spe: 82,
+        },
+      };
+    case "Eiscue": // higher of each stat
+      return {
+        name,
+        types: ["ice"],
+        abilities: ["ice-face"],
+        hiddenAbility: null,
+        baseStats: {
+          hp: 75,
+          atk: 80,
+          def: 110,
+          spa: 65,
+          spd: 90,
+          spe: 130,
+        },
+      };
     default:
       return null;
   }

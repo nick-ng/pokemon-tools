@@ -101,7 +101,7 @@ export const getPokemonByName = async (
     );
 
     if (res.status !== 200) {
-      console.warn(`Error when looking for move ${name}`, res.status);
+      console.warn(`Error when looking for Pokemon ${name}`, res.status);
       return null;
     }
 
@@ -196,7 +196,7 @@ export const getPokemonByNameWithCache = async (
       return result.data;
     }
   } catch (e) {
-    console.error(`error when fetching move ${name}`, e);
+    console.error(`error when fetching Pokemon ${name}`, e);
   }
 
   const pokemonInfo = await getPokemonByName(name);

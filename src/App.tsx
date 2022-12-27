@@ -4,11 +4,12 @@ import MinStat from "./components/min-stat";
 import TeraRaidSuggester from "./components/tera-raid-suggester";
 
 const router = createBrowserRouter([
+  { path: "/", element: <MinStat /> },
+  { path: "/min-stat", element: <MinStat /> },
   {
-    path: "/",
+    path: "/tera-raid",
     element: <TeraRaidSuggester />,
   },
-  { path: "/min-stat", element: <MinStat /> },
 ]);
 
 export default function App() {

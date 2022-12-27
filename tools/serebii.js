@@ -70,3 +70,4 @@ const main = async (stars) => {
 
 main(6);
 main(5);
+main(4);
