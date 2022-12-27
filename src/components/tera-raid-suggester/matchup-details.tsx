@@ -218,11 +218,26 @@ export default function MatchupDetails({
 
   return (
     <div className="m-1 inline-block border border-gray-300 p-1 align-top">
-      <h3>
-        {pokemon} - {capFirst(raidTeraType)}
+      <h3 className="capitalize">
+        {raidStars}⭐ {pokemon} - {raidTeraType}
       </h3>
       {pokemonDexEntry && (
-        <div>Hidden Ability: {pokemonDexEntry?.hiddenAbility || "none"}</div>
+        <div>
+          {pokemonDexEntry.abilities.length === 1 ? "Ability:" : "Abilities:"}{" "}
+          <span className="capitalize">
+            {pokemonDexEntry.abilities
+              .map((a) => a.replace("-", " "))
+              .join(", ")}
+          </span>
+        </div>
+      )}
+      {pokemonDexEntry && (
+        <div>
+          Hidden Ability:{" "}
+          <span className="capitalize">
+            {pokemonDexEntry.hiddenAbility?.replace("-", " ") || "none"}
+          </span>
+        </div>
       )}
       <table>
         <thead>

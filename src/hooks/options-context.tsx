@@ -88,7 +88,7 @@ export const defaultOptions = Object.freeze({
     },
   ],
   raidTeraType: "normal",
-  raidAttackAdjustment: 100,
+  raidAttackAdjustment: 50,
 }) as Readonly<Options>;
 
 const toggleDarkMode = (darkMode: Options["darkMode"]) => {

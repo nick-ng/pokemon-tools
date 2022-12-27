@@ -9,6 +9,19 @@ import { capFirst } from "../../utils";
 import MatchupDetails from "./matchup-details";
 import YourPokemon from "./your-pokemon";
 
+const fetchRaidJSON = async (url: string) => {
+  try {
+    const res6 = await fetch(url);
+    const resJSON6 = await res6.json();
+    const tempPokemon6 = TeraRaidArraySchema.parse(resJSON6);
+
+    return tempPokemon6;
+  } catch (e) {
+    console.error(e);
+    return [];
+  }
+};
+
 export default function TeraRaidSuggester() {
   const { options, setOptions } = useOptions();
 
@@ -19,15 +32,13 @@ export default function TeraRaidSuggester() {
 
   useEffect(() => {
     (async () => {
-      try {
-        const res6 = await fetch("/serebii-6-star-raid.json");
-        const resJSON6 = await res6.json();
-        const tempPokemon6 = TeraRaidArraySchema.parse(resJSON6);
+      const raids = await Promise.all([
+        fetchRaidJSON("/serebii-6-star-raid.json"),
+        fetchRaidJSON("/serebii-5-star-raid.json"),
+        fetchRaidJSON("/serebii-4-star-raid.json"),
+      ]);
 
-        setRaidPokemon(tempPokemon6);
-      } catch (e) {
-        console.error(e);
-      }
+      setRaidPokemon(raids.flat());
     })();
   }, []);
 
