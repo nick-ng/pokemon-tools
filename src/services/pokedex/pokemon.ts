@@ -497,21 +497,6 @@ export const getPokemon = (name: string): PokedexEntry | null => {
           spe: 75,
         },
       };
-    case "Wugtrio":
-      return {
-        name,
-        types: ["water"],
-        abilities: ["gooey", "rattled"],
-        hiddenAbility: "sand-veil",
-        baseStats: {
-          hp: 35,
-          atk: 100,
-          def: 50,
-          spa: 50,
-          spd: 70,
-          spe: 120,
-        },
-      };
     case "Indeedee": // higher of each stat
       return {
         name,

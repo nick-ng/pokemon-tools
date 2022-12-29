@@ -35,7 +35,7 @@ export default function YourPokemon({
           }}
         />
         <button
-          className=" my-0.5 inline-block rounded-r border border-gray-300 bg-white px-2 dark:bg-gray-800"
+          className="my-0.5 inline-block rounded-r border border-gray-300 bg-white px-2 dark:bg-gray-800"
           onClick={() => {
             if (confirm(`Really remove ${name}?`)) {
               onDelete();
