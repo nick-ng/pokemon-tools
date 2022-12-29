@@ -2,6 +2,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import Root from "./root";
 import MinStat from "./components/min-stat";
+import Stopwatches from "./components/stopwatches";
 import TeraRaidSuggester from "./components/tera-raid-suggester";
 
 const router = createBrowserRouter([
@@ -11,6 +12,7 @@ const router = createBrowserRouter([
     children: [
       { path: "/", element: <MinStat /> },
       { path: "/min-stat", element: <MinStat /> },
+      { path: "/stopwatches", element: <Stopwatches /> },
       {
         path: "/tera-raid",
         element: <TeraRaidSuggester />,

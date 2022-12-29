@@ -7,7 +7,12 @@ import {
 } from "react";
 import z from "zod";
 
-import { YourRaidPokemonSchema, PokemonTypeSchema } from "../schemas";
+import {
+  YourRaidPokemonSchema,
+  PokemonTypeSchema,
+  StopwatchSchema,
+  YourRaidPokemon,
+} from "../schemas";
 
 const OPTIONS_STORE = "POKEMON_TOOLS_OPTIONS";
 
@@ -27,11 +32,49 @@ const optionsSchema = z.object({
   raidYourPokemon: z.array(YourRaidPokemonSchema),
   raidTeraType: PokemonTypeSchema,
   raidAttackAdjustment: z.number(),
+  stopwatches: z.array(StopwatchSchema),
+  stopwatchFontSizePt: z.number(),
 });
 
 export type Options = z.infer<typeof optionsSchema>;
 
-export const defaultOptions = Object.freeze({
+const defaultRaidYourPokemon = [
+  {
+    id: "a",
+    pokemon: {
+      name: "Azumaril",
+      types: ["water", "fairy"] as ("water" | "fairy")[],
+      teraType: "fairy" as "fairy",
+      ability: "Huge Power",
+      finalStats: {
+        hp: 207,
+        atk: 102,
+        def: 101,
+        spa: 80,
+        spd: 100,
+        spe: 70,
+      },
+    },
+    mainMoves: [
+      {
+        id: "a",
+        name: "Play Rough",
+        damageClass: "physical",
+        power: 90,
+        type: "fairy",
+      },
+      {
+        id: "b",
+        name: "Waterfall",
+        damageClass: "physical",
+        power: 80,
+        type: "water",
+      },
+    ],
+  },
+] as YourRaidPokemon[];
+
+export const defaultOptions: Readonly<Options> = Object.freeze({
   darkMode: "system",
   minIVs: [
     {
@@ -52,44 +95,32 @@ export const defaultOptions = Object.freeze({
     },
   ],
   minIVMaxShow: 10,
-  raidYourPokemon: [
+  raidYourPokemon: defaultRaidYourPokemon,
+  raidTeraType: "normal",
+  raidAttackAdjustment: 50,
+  stopwatches: [
     {
       id: "a",
-      pokemon: {
-        name: "Azumaril",
-        types: ["water", "fairy"],
-        teraType: "fairy",
-        ability: "Huge Power",
-        finalStats: {
-          hp: 207,
-          atk: 102,
-          def: 101,
-          spa: 80,
-          spd: 100,
-          spe: 70,
-        },
-      },
-      mainMoves: [
+      name: "Test",
+      startTimeMS: 0,
+      pausedMS: 0,
+      isRunning: false,
+      bars: [
         {
-          id: "a",
-          name: "Play Rough",
-          damageClass: "physical",
-          power: 90,
-          type: "fairy",
+          id: "bar-a",
+          durationMS: 60 * 1000,
+          name: "1 minute",
         },
         {
-          id: "b",
-          name: "Waterfall",
-          damageClass: "physical",
-          power: 80,
-          type: "water",
+          id: "bar-b",
+          durationMS: 30 * 60 * 1000,
+          name: "30 minutes",
         },
       ],
     },
   ],
-  raidTeraType: "normal",
-  raidAttackAdjustment: 50,
-}) as Readonly<Options>;
+  stopwatchFontSizePt: 32,
+});
 
 const toggleDarkMode = (darkMode: Options["darkMode"]) => {
   if (

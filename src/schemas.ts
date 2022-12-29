@@ -115,3 +115,20 @@ export const YourRaidPokemonSchema = z.object({
 });
 
 export type YourRaidPokemon = z.infer<typeof YourRaidPokemonSchema>;
+
+export const StopwatchBarSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  durationMS: z.number(),
+});
+
+export const StopwatchSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  startTimeMS: z.number(),
+  pausedMS: z.number(),
+  isRunning: z.boolean(),
+  bars: z.array(StopwatchBarSchema),
+});
+
+export type Stopwatch = z.infer<typeof StopwatchSchema>;
