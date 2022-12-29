@@ -101,7 +101,7 @@ export const defaultOptions: Readonly<Options> = Object.freeze({
   stopwatches: [
     {
       id: "a",
-      name: "Test",
+      name: "Stopwatch 1",
       startTimeMS: 0,
       pausedMS: 0,
       isRunning: false,
