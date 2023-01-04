@@ -44,27 +44,9 @@ export default function TeraRaidSuggester() {
 
   return (
     <div>
-      <details>
+      <details className="inline-block">
         <summary className="text-xl">Your Pokemon</summary>
         <div>
-          {raidYourPokemon.map((yp, i) => (
-            <YourPokemon
-              key={yp.id}
-              yourRaidPokemon={yp}
-              onChange={(newPokemon) => {
-                const temp = [...raidYourPokemon];
-                temp[i] = newPokemon;
-                setOptions({ raidYourPokemon: temp });
-              }}
-              onDelete={() => {
-                setOptions({
-                  raidYourPokemon: raidYourPokemon.filter(
-                    (a) => a.id !== yp.id
-                  ),
-                });
-              }}
-            />
-          ))}
           <button
             className="m-1 rounded-lg border border-gray-500 p-2 align-top"
             onClick={() => {
@@ -100,6 +82,24 @@ export default function TeraRaidSuggester() {
           >
             Add Pokemon
           </button>
+          {raidYourPokemon.map((yp, i) => (
+            <YourPokemon
+              key={yp.id}
+              yourRaidPokemon={yp}
+              onChange={(newPokemon) => {
+                const temp = [...raidYourPokemon];
+                temp[i] = newPokemon;
+                setOptions({ raidYourPokemon: temp });
+              }}
+              onDelete={() => {
+                setOptions({
+                  raidYourPokemon: raidYourPokemon.filter(
+                    (a) => a.id !== yp.id
+                  ),
+                });
+              }}
+            />
+          ))}
         </div>
       </details>
       <h2>Raid Pokemon</h2>
@@ -145,6 +145,63 @@ export default function TeraRaidSuggester() {
           />
         </label>
       </div>
+      <details className="ml-2 inline-block max-w-xl align-top">
+        <summary>Help/Info</summary>
+        <p className="mt-1">
+          You can use the filter to narrow down what raid Pokemon are shown.
+        </p>
+        <p className="mt-1">
+          Ratings assume neither Pokemon boosts/lowers each others stats. If
+          your Pokemon has a boosting move or can lower the raid Pokemon's
+          stats, you can increase power of its main move to simulate the
+          difference.
+        </p>
+        <p className="mt-1">
+          All the moves the raid Pokemon and your Pokemon know are compared
+          taking type(s), tera type, and stats into account.
+        </p>
+        <p className="mt-1">
+          Defense is the number of attacks your Pokemon can take if the raid
+          Pokemon uses its most damaging attack.
+        </p>
+        <p className="mt-1">
+          Attack is higher if your Pokemon deals more damage. You can adjust the
+          bias between attack and defense by changing the "Attack Adjustment"
+          value.
+        </p>
+        <p className="mt-1">
+          The formula I've used is:
+          <pre>
+            (attack adjustment * raid Pokemon's HP) / your Pokemon's most
+            damaging move
+          </pre>
+        </p>
+        <p className="mt-1">
+          Raid Pokemon's moves are from Serebii's{" "}
+          <a
+            href="https://serebii.net/scarletviolet/teraraidbattles/5star.shtml"
+            target="_blank"
+          >
+            5 star
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://serebii.net/scarletviolet/teraraidbattles/6star.shtml"
+            target="_blank"
+          >
+            6 star
+          </a>{" "}
+          pages. Pokemon and move stats are from{" "}
+          <a href="https://pokeapi.co/" target="_blank">
+            Pok&#xE9;API
+          </a>{" "}
+          and{" "}
+          <a href="https://pokemondb.net/" target="_blank">
+            Pokémon Database
+          </a>
+          <p></p>
+        </p>
+      </details>
       <div>
         {raidPokemon
           .filter(
