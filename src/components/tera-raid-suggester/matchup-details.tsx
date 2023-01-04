@@ -253,6 +253,7 @@ export default function MatchupDetails({
         <tbody>
           {yourPokemonRatings
             .sort((a, b) => b.totalRating - a.totalRating)
+            .slice(0, 5)
             .map((yp) => (
               <tr key={yp.id}>
                 <td className="border border-gray-300 px-1">

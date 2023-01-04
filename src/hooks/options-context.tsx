@@ -11,8 +11,8 @@ import {
   YourRaidPokemonSchema,
   PokemonTypeSchema,
   StopwatchSchema,
-  YourRaidPokemon,
 } from "../schemas";
+import { getYourRaidPokemon } from "./your-raid-pokemon";
 
 const OPTIONS_STORE = "POKEMON_TOOLS_OPTIONS";
 
@@ -38,42 +38,6 @@ const optionsSchema = z.object({
 
 export type Options = z.infer<typeof optionsSchema>;
 
-const defaultRaidYourPokemon = [
-  {
-    id: "a",
-    pokemon: {
-      name: "Azumaril",
-      types: ["water", "fairy"] as ("water" | "fairy")[],
-      teraType: "fairy" as "fairy",
-      ability: "Huge Power",
-      finalStats: {
-        hp: 207,
-        atk: 102,
-        def: 101,
-        spa: 80,
-        spd: 100,
-        spe: 70,
-      },
-    },
-    mainMoves: [
-      {
-        id: "a",
-        name: "Play Rough",
-        damageClass: "physical",
-        power: 90,
-        type: "fairy",
-      },
-      {
-        id: "b",
-        name: "Waterfall",
-        damageClass: "physical",
-        power: 80,
-        type: "water",
-      },
-    ],
-  },
-] as YourRaidPokemon[];
-
 export const defaultOptions: Readonly<Options> = Object.freeze({
   darkMode: "system",
   minIVs: [
@@ -94,8 +58,8 @@ export const defaultOptions: Readonly<Options> = Object.freeze({
       catchLevel: 72,
     },
   ],
-  minIVMaxShow: 10,
-  raidYourPokemon: defaultRaidYourPokemon,
+  minIVMaxShow: 0,
+  raidYourPokemon: getYourRaidPokemon(),
   raidTeraType: "normal",
   raidAttackAdjustment: 50,
   stopwatches: [
