@@ -151,6 +151,12 @@ export default function TeraRaidSuggester() {
           You can use the filter to narrow down what raid Pokemon are shown.
         </p>
         <p className="mt-1">
+          You can customise your Pokemon by expanding the "Your Pokemon"
+          section. Some example Pokemon are already there. You should remove the
+          Pokemon you don't have and add Pokemon you do have or change the
+          existing Pokemon to better match what you have.
+        </p>
+        <p className="mt-1">
           Ratings assume neither Pokemon boosts/lowers each others stats. If
           your Pokemon has a boosting move or can lower the raid Pokemon's
           stats, you can increase power of its main move to simulate the
