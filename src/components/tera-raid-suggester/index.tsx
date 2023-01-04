@@ -185,12 +185,19 @@ export default function TeraRaidSuggester() {
         <p className="mt-1">
           Raid Pokemon's moves are from Serebii's{" "}
           <a
+            href="https://serebii.net/scarletviolet/teraraidbattles/4star.shtml"
+            target="_blank"
+          >
+            4 star
+          </a>
+          ,{" "}
+          <a
             href="https://serebii.net/scarletviolet/teraraidbattles/5star.shtml"
             target="_blank"
           >
             5 star
-          </a>{" "}
-          and{" "}
+          </a>
+          , and{" "}
           <a
             href="https://serebii.net/scarletviolet/teraraidbattles/6star.shtml"
             target="_blank"
