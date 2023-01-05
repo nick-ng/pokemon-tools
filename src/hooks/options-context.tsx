@@ -34,6 +34,7 @@ const optionsSchema = z.object({
   raidAttackAdjustment: z.number(),
   stopwatches: z.array(StopwatchSchema),
   stopwatchFontSizePt: z.number(),
+  linkTradeCode: z.number().nullable(),
 });
 
 export type Options = z.infer<typeof optionsSchema>;
@@ -84,6 +85,7 @@ export const defaultOptions: Readonly<Options> = Object.freeze({
     },
   ],
   stopwatchFontSizePt: 32,
+  linkTradeCode: null,
 });
 
 const toggleDarkMode = (darkMode: Options["darkMode"]) => {

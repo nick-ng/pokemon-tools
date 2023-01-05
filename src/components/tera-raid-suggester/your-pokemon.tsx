@@ -17,7 +17,7 @@ export default function YourPokemon({
   const { pokemon } = yourRaidPokemon;
   const { name, finalStats, teraType, types } = pokemon;
   return (
-    <div className="m-1 inline-block border border-gray-300 p-1 align-top">
+    <div className="border-default m-1 inline-block p-1 align-top">
       <div>
         <input
           className="inline-block rounded-r-none"
@@ -35,7 +35,7 @@ export default function YourPokemon({
           }}
         />
         <button
-          className="my-0.5 inline-block rounded-r border border-gray-300 bg-white px-2 dark:bg-gray-800"
+          className="border-default my-0.5 inline-block rounded-r bg-white px-2 dark:bg-gray-800"
           onClick={() => {
             if (confirm(`Really remove ${name}?`)) {
               onDelete();
@@ -307,7 +307,7 @@ export default function YourPokemon({
                   }}
                 />
                 <button
-                  className=" my-0.5 inline-block rounded-r border border-gray-300 bg-white px-2 dark:bg-gray-800"
+                  className=" border-default my-0.5 inline-block rounded-r bg-white px-2 dark:bg-gray-800"
                   onClick={() => {
                     onChange({
                       id: yourRaidPokemon.id,

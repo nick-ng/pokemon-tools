@@ -9,25 +9,8 @@ export default function Stopwatches() {
   return (
     <div>
       <h2>Stopwatches</h2>
-      {stopwatches.map((stopwatch, i) => (
-        <Stopwatch
-          key={stopwatch.id}
-          stopwatch={stopwatch}
-          timerFontSize={stopwatchFontSizePt}
-          onChange={(newStopwatch) => {
-            const temp = [...stopwatches];
-            temp.splice(i, 1, newStopwatch);
-            setOptions({ stopwatches: temp });
-          }}
-          onDelete={() => {
-            setOptions({
-              stopwatches: stopwatches.filter((s) => s.id !== stopwatch.id),
-            });
-          }}
-        />
-      ))}
       <button
-        className="mx-1 my-2 rounded-lg border border-gray-500 p-1 align-top"
+        className="my-2 rounded-lg border border-gray-500 p-1 align-top"
         onClick={() => {
           setOptions({
             stopwatches: stopwatches.concat([
@@ -56,6 +39,23 @@ export default function Stopwatches() {
       >
         New Stopwatch
       </button>
+      {stopwatches.map((stopwatch, i) => (
+        <Stopwatch
+          key={stopwatch.id}
+          stopwatch={stopwatch}
+          timerFontSize={stopwatchFontSizePt}
+          onChange={(newStopwatch) => {
+            const temp = [...stopwatches];
+            temp.splice(i, 1, newStopwatch);
+            setOptions({ stopwatches: temp });
+          }}
+          onDelete={() => {
+            setOptions({
+              stopwatches: stopwatches.filter((s) => s.id !== stopwatch.id),
+            });
+          }}
+        />
+      ))}
       <label className="block">
         Timer Size:{" "}
         <input

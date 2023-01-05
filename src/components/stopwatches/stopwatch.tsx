@@ -48,7 +48,7 @@ export default function Stopwatch({
   const [firstDisplayCharacter, ...otherCharacters] = [...displayString];
 
   return (
-    <div className="relative m-1 inline-block border border-gray-300 p-1">
+    <div className="border-default relative m-1 inline-block p-1">
       <div className="flex flex-row">
         <input
           className="inline-block flex-grow rounded-r-none"
@@ -66,7 +66,7 @@ export default function Stopwatch({
           }}
         />
         <button
-          className="my-0.5 inline-block rounded-r border border-gray-300 bg-white px-2 dark:bg-gray-800"
+          className="border-default my-0.5 inline-block rounded-r bg-white px-2 dark:bg-gray-800"
           onClick={() => {
             if (confirm(`Really remove ${name}?`)) {
               onDelete();
@@ -104,10 +104,10 @@ export default function Stopwatch({
           return (
             <div
               key={bar.id}
-              className="relative mb-1 border border-gray-500 dark:border-gray-300"
+              className="border-default relative mb-1 border dark:bg-black"
             >
               <div
-                className="bg:text-white absolute left-0 top-0 overflow-hidden whitespace-nowrap bg-gray-300 dark:bg-gray-500"
+                className="bg:text-white absolute left-0 top-0 overflow-hidden whitespace-nowrap bg-gray-300 dark:bg-gray-700"
                 style={{ width: barWidth }}
               >
                 <span className="mx-1">{barText}</span>

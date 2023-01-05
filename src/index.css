@@ -10,7 +10,7 @@
   }
 
   body {
-    @apply bg-white text-black dark:bg-gray-800 dark:text-white;
+    @apply bg-white text-black dark:bg-gray-800 dark:text-gray-200;
   }
 
   a {
@@ -31,7 +31,7 @@
 
   input,
   select {
-    @apply my-0.5 rounded border border-gray-300 bg-white dark:bg-gray-800;
+    @apply my-0.5 rounded border border-gray-300 bg-white dark:border-gray-600 dark:bg-gray-800;
   }
 
   select {
@@ -40,5 +40,9 @@
 
   input[type="number"] {
     @apply text-right;
+  }
+
+  .border-default {
+    @apply border border-gray-300 dark:border-gray-600;
   }
 }

@@ -14,7 +14,7 @@ export default function MinIV() {
       <label>
         Max IV to Show:{" "}
         <input
-          className="w-12 rounded border border-gray-300 text-right dark:bg-gray-800"
+          className="border-default w-12 rounded text-right dark:bg-gray-800"
           value={minIVMaxShow}
           min={0}
           max={31}

@@ -217,7 +217,7 @@ export default function MatchupDetails({
   }, [moves.join(",")]);
 
   return (
-    <div className="m-1 inline-block border border-gray-300 p-1 align-top">
+    <div className="border-default m-1 inline-block p-1 align-top">
       <h3 className="capitalize">
         {raidStars}⭐ {pokemon} - {raidTeraType}
       </h3>
@@ -242,12 +242,10 @@ export default function MatchupDetails({
       <table>
         <thead>
           <tr>
-            <th className="border border-gray-300 px-1 text-left">
-              Your Pokemon
-            </th>
-            <th className="border border-gray-300 px-1 text-right">Attack</th>
-            <th className="border border-gray-300 px-1 text-right">Defense</th>
-            <th className="border border-gray-300 px-1 text-right">Total</th>
+            <th className="border-default px-1 text-left">Your Pokemon</th>
+            <th className="border-default px-1 text-right">Attack</th>
+            <th className="border-default px-1 text-right">Defense</th>
+            <th className="border-default px-1 text-right">Total</th>
           </tr>
         </thead>
         <tbody>
@@ -256,16 +254,14 @@ export default function MatchupDetails({
             .slice(0, 5)
             .map((yp) => (
               <tr key={yp.id}>
-                <td className="border border-gray-300 px-1">
-                  {yp.description}
-                </td>
-                <td className="border border-gray-300 px-1 text-right">
+                <td className="border-default px-1">{yp.description}</td>
+                <td className="border-default px-1 text-right">
                   {yp.attackRating.toFixed(2)}
                 </td>
-                <td className="border border-gray-300 px-1 text-right">
+                <td className="border-default px-1 text-right">
                   {yp.defenseRating.toFixed(2)}
                 </td>
-                <td className="border border-gray-300 px-1 text-right">
+                <td className="border-default px-1 text-right">
                   {(yp.attackRating + yp.defenseRating).toFixed(2)}
                 </td>
               </tr>

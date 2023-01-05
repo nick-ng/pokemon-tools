@@ -77,9 +77,9 @@ export default function OneIV({
     catchIncrease.max === catchIncrease.over ? catchIncrease.over : -1;
 
   return (
-    <div className="m-1 inline-block border border-gray-300 p-1 align-top">
+    <div className="border-default m-1 inline-block p-1 align-top">
       <input
-        className="w-full rounded border border-gray-300 px-1 dark:bg-gray-800"
+        className="border-default w-full rounded px-1 dark:bg-gray-800"
         type="text"
         value={note}
         onChange={(e) => {
