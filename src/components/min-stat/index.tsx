@@ -11,77 +11,81 @@ export default function MinIV() {
   return (
     <div>
       <h2>Minimum Stat</h2>
-      <label>
-        Max IV to Show:{" "}
+      <label className="m-1 inline-block cursor-pointer select-none rounded-lg border border-gray-500 p-1">
+        Show All IVs:{" "}
         <input
-          className="border-default w-12 rounded text-right dark:bg-gray-800"
-          value={minIVMaxShow}
-          min={0}
-          max={31}
-          type="number"
-          onChange={(e) => {
-            const temp = parseInt(e.target.value, 10);
+          className=""
+          checked={minIVMaxShow === 31}
+          type="checkbox"
+          onChange={() => {
             setOptions({
-              minIVMaxShow: Math.min(Math.max(0, temp), 31),
+              minIVMaxShow: minIVMaxShow < 31 ? 31 : 0,
             });
           }}
         />
       </label>
-      <div>
-        {minIVs.map(({ id, note, baseStat, level, nature, catchLevel }, i) => (
-          <OneStat
-            key={id}
-            id={id}
-            note={note}
-            baseStat={baseStat}
-            level={level}
-            nature={nature}
-            catchLevel={catchLevel}
-            maxIV={minIVMaxShow}
-            onUpdate={(newPokemon) => {
-              const temp = [...minIVs];
-              temp[i] = newPokemon;
-              setOptions({ minIVs: temp });
-            }}
-            onRemove={() => {
-              setOptions({
-                minIVs: minIVs.filter((pokemon) => pokemon.id !== id),
-              });
-            }}
-            onDuplicate={(newCatchLevel) => {
-              const temp = [...minIVs];
-              temp.splice(i + 1, 0, {
+      <button
+        className="my-1 rounded-lg border border-gray-500 p-1 align-top"
+        onClick={() => {
+          setOptions({
+            minIVs: [
+              ...minIVs,
+              {
                 id: `${Date.now()}-${minIVs.length}`,
-                note: `${note} (${newCatchLevel})`,
-                baseStat,
-                level,
-                nature,
-                catchLevel: newCatchLevel,
-              });
-              setOptions({ minIVs: temp });
-            }}
-          />
-        ))}
-        <button
-          className="my-1 rounded-lg border border-gray-500 p-2 align-top"
-          onClick={() => {
-            setOptions({
-              minIVs: [
-                ...minIVs,
-                {
+                note: `New ${minIVs.length + 1}`,
+                baseStat: 50,
+                level: 50,
+                nature: 0.9,
+                catchLevel: 50,
+              },
+            ],
+          });
+        }}
+      >
+        New Pokemon
+      </button>
+      <div>
+        {minIVs.map(
+          (
+            { id, note, baseStat, level, nature, catchLevel, catchBaseStat },
+            i
+          ) => (
+            <OneStat
+              key={id}
+              id={id}
+              note={note}
+              baseStat={baseStat}
+              level={level}
+              nature={nature}
+              catchLevel={catchLevel}
+              catchBaseStat={catchBaseStat}
+              maxIV={minIVMaxShow}
+              onUpdate={(newPokemon) => {
+                const temp = [...minIVs];
+                temp[i] = newPokemon;
+                setOptions({ minIVs: temp });
+              }}
+              onRemove={() => {
+                setOptions({
+                  minIVs: minIVs.filter((pokemon) => pokemon.id !== id),
+                });
+              }}
+              onDuplicate={(newCatchLevel) => {
+                const temp = [...minIVs];
+                temp.splice(i + 1, 0, {
                   id: `${Date.now()}-${minIVs.length}`,
-                  note: `New ${minIVs.length + 1}`,
-                  baseStat: 50,
-                  level: 50,
-                  nature: 0.9,
-                  catchLevel: 50,
-                },
-              ],
-            });
-          }}
-        >
-          New Pokemon
-        </button>
+                  note: `${note} (${newCatchLevel})`,
+                  baseStat,
+                  level,
+                  nature,
+                  catchLevel: newCatchLevel,
+                  catchBaseStat,
+                });
+                setOptions({ minIVs: temp });
+              }}
+            />
+          )
+        )}
       </div>
       <p className="max-w-2xl">
         Since Pokemon are leveled to 50 for VGC battles, you often don't need

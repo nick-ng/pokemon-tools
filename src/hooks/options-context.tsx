@@ -26,6 +26,7 @@ const optionsSchema = z.object({
       level: z.number(),
       nature: z.number(),
       catchLevel: z.number(),
+      catchBaseStat: z.number().optional().nullable(),
     })
   ),
   minIVMaxShow: z.number(),

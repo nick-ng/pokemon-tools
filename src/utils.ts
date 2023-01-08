@@ -112,3 +112,13 @@ export const damage = (
     return Math.floor(OF32(pokeRound(withStab) * type));
   });
 };
+
+export const parseIntOrZero = (s: string) => {
+  const temp = parseInt(s, 10);
+
+  if (isNaN(temp)) {
+    return 0;
+  }
+
+  return temp;
+};
