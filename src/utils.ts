@@ -27,6 +27,8 @@ export const getTypeEffectiveness = (
   return temp2.reduce((prev, curr) => prev * curr, 1);
 };
 
+export const EXTRA_IV = 2;
+
 export const IV_RANGE = Object.freeze(
   new Array(32).fill(null).map((_, i) => i)
 );
@@ -104,7 +106,13 @@ export const damage = (
 ) => {
   const base = getBaseDamage(level, power, atk, def);
 
-  return [85, 100].map((x) => {
+  const randomPart = [];
+
+  for (let n = 85; n <= 100; n++) {
+    randomPart.push(n);
+  }
+
+  return randomPart.map((x) => {
     const temp = Math.floor(OF32(base * x) / 100);
 
     const withStab = OF32(temp * stab);
@@ -121,4 +129,27 @@ export const parseIntOrZero = (s: string) => {
   }
 
   return temp;
+};
+
+export const getLargestMin = (
+  minInput: number,
+  maxInput: number,
+  callback: (Input: number) => number
+) => {
+  const lowestOutput = callback(minInput);
+
+  let highestInput = minInput;
+  for (let n = minInput; n <= maxInput; n++) {
+    const tempOutput = callback(n);
+    if (tempOutput > lowestOutput) {
+      break;
+    }
+
+    highestInput = n;
+  }
+
+  return {
+    lowestOutput,
+    highestInput,
+  };
 };

@@ -6,6 +6,9 @@ export default function Nav() {
       <Link className="block whitespace-nowrap" to="link-trade-code">
         Link Trade Code
       </Link>
+      <Link className="block whitespace-nowrap" to="foul-play">
+        Foul Play
+      </Link>
       <Link className="block whitespace-nowrap" to="min-stat">
         Min Stat
       </Link>

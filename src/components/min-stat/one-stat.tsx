@@ -1,6 +1,4 @@
-import { IV_RANGE, otherStat, parseIntOrZero } from "../../utils";
-
-const EXTRA_IV = 2;
+import { EXTRA_IV, IV_RANGE, otherStat, parseIntOrZero } from "../../utils";
 
 const getHighestAcceptableIV = (
   baseStat: number,
@@ -239,6 +237,7 @@ export default function OneIV({
       <label className="flex justify-between">
         <span>Final Nature:</span>
         <select
+          value={nature}
           onChange={(e) => {
             onUpdate({
               id,

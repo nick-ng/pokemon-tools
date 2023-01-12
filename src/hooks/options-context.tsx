@@ -36,6 +36,21 @@ const optionsSchema = z.object({
   stopwatches: z.array(StopwatchSchema),
   stopwatchFontSizePt: z.number(),
   linkTradeCode: z.number().nullable(),
+  foulPlays: z.array(
+    z.object({
+      id: z.string(),
+      note: z.string(),
+      level: z.number(),
+      baseAtk: z.number(),
+      atkNature: z.number(),
+      finalDef: z.number(),
+      catchLevel: z.number(),
+      catchBaseAtk: z.number().optional().nullable(),
+      type1: PokemonTypeSchema,
+      type2: PokemonTypeSchema,
+      teraType: PokemonTypeSchema,
+    })
+  ),
 });
 
 export type Options = z.infer<typeof optionsSchema>;
@@ -87,7 +102,22 @@ export const defaultOptions: Readonly<Options> = Object.freeze({
   ],
   stopwatchFontSizePt: 32,
   linkTradeCode: null,
-});
+  foulPlays: [
+    {
+      id: "a",
+      note: "test",
+      level: 50,
+      baseAtk: 55,
+      atkNature: 0.9,
+      finalDef: 75,
+      catchLevel: 58,
+      catchBaseAtk: 55,
+      type1: "ghost",
+      type2: "fairy",
+      teraType: "fairy",
+    },
+  ],
+} as Options);
 
 const toggleDarkMode = (darkMode: Options["darkMode"]) => {
   if (
