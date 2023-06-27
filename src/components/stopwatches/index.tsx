@@ -44,6 +44,9 @@ export default function Stopwatches() {
           key={stopwatch.id}
           stopwatch={stopwatch}
           timerFontSize={stopwatchFontSizePt}
+          updateTitle={
+            stopwatches.filter((s) => s.isRunning)?.[0]?.id === stopwatch.id
+          }
           onChange={(newStopwatch) => {
             const temp = [...stopwatches];
             temp.splice(i, 1, newStopwatch);

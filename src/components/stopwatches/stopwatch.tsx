@@ -7,6 +7,7 @@ import { msToString } from "./utils";
 type StopwatchProps = {
   stopwatch: StopwatchType;
   timerFontSize: number;
+  updateTitle?: boolean;
   onChange: (newStopwatch: StopwatchType) => void | Promise<void>;
   onDelete: () => void | Promise<void>;
 };
@@ -14,6 +15,7 @@ type StopwatchProps = {
 export default function Stopwatch({
   stopwatch,
   timerFontSize,
+  updateTitle,
   onChange,
   onDelete,
 }: StopwatchProps) {
@@ -29,6 +31,10 @@ export default function Stopwatch({
 
     const updateDisplay = () => {
       setDisplayMS(Date.now() - startTimeMS);
+
+      if (updateTitle) {
+        document.title = `${msToString(Date.now() - startTimeMS, true)}`;
+      }
 
       timeoutRef.current = setTimeout(updateDisplay, 33);
     };

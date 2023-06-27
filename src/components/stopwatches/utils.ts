@@ -1,4 +1,4 @@
-export const msToString = (ms: number) => {
+export const msToString = (ms: number, skipTenths = false) => {
   let temp = ms;
   const minutes = Math.floor(temp / (1000 * 60))
     .toString()
@@ -8,6 +8,10 @@ export const msToString = (ms: number) => {
   const seconds = Math.floor(temp / 1000)
     .toString()
     .padStart(2, "0");
+
+  if (skipTenths) {
+    return `${minutes}:${seconds}`;
+  }
 
   temp = temp % 1000;
   const tenths = Math.floor(temp / 100)
