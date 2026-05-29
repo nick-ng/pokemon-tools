@@ -90,6 +90,10 @@ export default function MinIV() {
 				This shows you what stat range your caught Pokemon need to have in order to have the minimum
 				Atk/Spe/etc. stat at level 50.
 			</p>
+			<p className="max-w-2xl">
+				Red cells means at the catch level, it's ambiguous what IV the stat value corresponds to.
+				You will need to level up the Pokemon to find out if the IV is acceptable.
+			</p>
 			<details>
 				<summary>Tips</summary>
 				<p>

@@ -6,6 +6,7 @@ import FoulPlay from "./components/foul-play";
 import MinStat from "./components/min-stat";
 import Stopwatches from "./components/stopwatches";
 import TeraRaidSuggester from "./components/tera-raid-suggester";
+import SvItemPrinter from "./components/sv-item-printer";
 
 const router = createBrowserRouter([
 	{
@@ -21,6 +22,7 @@ const router = createBrowserRouter([
 				path: "/tera-raid",
 				element: <TeraRaidSuggester />,
 			},
+			{ path: "/sv-item-printer", element: <SvItemPrinter /> },
 		],
 	},
 ]);
