@@ -18,6 +18,9 @@ export default function Nav() {
 			<Link className="block whitespace-nowrap" to="tera-raid">
 				Tera Raids
 			</Link>
+			<Link className="block whitespace-nowrap" to="sv-item-printer">
+				SV Item Printer
+			</Link>
 		</div>
 	);
 }
