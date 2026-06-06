@@ -1,6 +1,7 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import Root from "./root";
+import Home from "./components/home";
 import LinkTradeCode from "./components/link-trade-code";
 import FoulPlay from "./components/foul-play";
 import MinStat from "./components/min-stat";
@@ -13,7 +14,7 @@ const router = createBrowserRouter([
 		path: "/",
 		element: <Root />,
 		children: [
-			{ path: "/", element: <MinStat /> },
+			{ path: "/", element: <Home /> },
 			{ path: "/link-trade-code", element: <LinkTradeCode /> },
 			{ path: "/foul-play", element: <FoulPlay /> },
 			{ path: "/min-stat", element: <MinStat /> },
