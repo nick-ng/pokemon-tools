@@ -5,7 +5,6 @@ import { getTimerData } from "./utils";
 
 export type PrintTargetProps = {
 	target: SvItemPrinterTarget;
-	index: number;
 	checked: boolean;
 	filterString: string;
 	onClick: (event: React.MouseEvent<HTMLButtonElement>) => void | Promise<void>;
@@ -33,13 +32,11 @@ export default function PrintTarget({ target, checked, filterString, onClick }: 
 	const delaySeconds = getTimerData(target.timestamp, options.svItemPrinterMinSeconds).delaySeconds;
 	const matchingCount = getMatchingCount(target, filterString);
 
-	const flexOrder = (8000 - matchingCount) * 100 + delaySeconds;
+	const flexOrder = Math.max(0, 50 - matchingCount) * 100 + delaySeconds;
 
 	return (
 		<button
-			className={`flex flex-row items-center justify-between border border-gray-500 px-2 py-1 ${
-				filterString && matchingCount === 0 ? "hidden" : ""
-			}`}
+			className="flex flex-row items-center justify-between border border-gray-500 px-2 py-1"
 			style={{ order: flexOrder }}
 			type="button"
 			onClick={(event) => {

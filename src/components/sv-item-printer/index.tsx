@@ -13,7 +13,8 @@ export default function SvItemPrinter() {
 	const [isMobileChooserOpen, setIsMobileChooserOpen] = useState(false);
 
 	// @todo(nick-ng): use the seed or something so we can filter the results
-	const chosenTarget = targets[options.svItemPrinterChosenTarget];
+	const chosenTarget = targets.find((t) => t.timestamp === options.svItemPrinterChosenTarget);
+	const visibleTargets = filterString ? targets.filter((t) => t) : targets.slice(0, 50);
 
 	useEffect(() => {
 		const abortController = new AbortController();
@@ -54,7 +55,7 @@ export default function SvItemPrinter() {
 					<summary>Item Printer Seeds</summary>
 					<div className="flex flex-row">
 						<input
-							className="mb-1 w-full grow px-1"
+							className="mb-1 w-full grow border border-gray-500 py-1 px-1"
 							type="text"
 							value={filterString}
 							placeholder="Filter..."
@@ -63,7 +64,7 @@ export default function SvItemPrinter() {
 							}}
 						/>
 						<button
-							className="grow-0 border border-gray-500 px-2"
+							className="grow-0 border border-gray-500 py-1 px-2"
 							type="button"
 							onClick={() => {
 								setFilterString("");
@@ -77,13 +78,12 @@ export default function SvItemPrinter() {
 							<PrintTarget
 								key={t.timestamp}
 								target={t}
-								index={index}
 								checked={options.svItemPrinterChosenTarget === index}
 								filterString={filterString}
 								onClick={(event) => {
 									event.stopPropagation();
 									setOptions({
-										svItemPrinterChosenTarget: index,
+										svItemPrinterChosenTarget: t.timestamp,
 									});
 									setIsMobileChooserOpen(false);
 								}}
@@ -91,8 +91,8 @@ export default function SvItemPrinter() {
 						))}
 					</div>
 				</details>
-				<div className="hidden border border-gray-500 p-2 lg:block">
-					<p>
+				<div className="hidden border border-gray-500 lg:block">
+					<p className="mx-2 mt-1">
 						Seeds from{" "}
 						<a
 							href="https://gist.github.com/Lusamine/112d4230919fadd254f0e6dfca850471"
@@ -101,9 +101,9 @@ export default function SvItemPrinter() {
 							Anubis's Item Printer Seeds.md
 						</a>
 					</p>
-					<div className="mb-1 flex flex-row">
+					<div className="mx-2 my-1 flex flex-row items-stretch">
 						<input
-							className="grow px-1"
+							className="m-0 mr-[-1px] block grow rounded-r-none border border-gray-500 px-1"
 							type="text"
 							value={filterString}
 							placeholder="Filter..."
@@ -112,7 +112,7 @@ export default function SvItemPrinter() {
 							}}
 						/>
 						<button
-							className="grow-0 border border-gray-500 px-2"
+							className="block grow-0 rounded-r border border-gray-500 px-2"
 							type="button"
 							onClick={() => {
 								setFilterString("");
@@ -121,17 +121,16 @@ export default function SvItemPrinter() {
 							X
 						</button>
 					</div>
-					<div className="flex flex-col items-stretch gap-1">
-						{targets.slice(0, filterString ? targets.length : 5).map((t, index) => (
+					<div className="mx-2 mb-1 flex max-h-[80vh] flex-col items-stretch gap-1 overflow-y-auto">
+						{visibleTargets.map((t) => (
 							<PrintTarget
 								key={t.timestamp}
 								target={t}
-								index={index}
-								checked={options.svItemPrinterChosenTarget === index}
+								checked={options.svItemPrinterChosenTarget === t.timestamp}
 								filterString={filterString}
 								onClick={() => {
 									setOptions({
-										svItemPrinterChosenTarget: index,
+										svItemPrinterChosenTarget: t.timestamp,
 									});
 								}}
 							/>

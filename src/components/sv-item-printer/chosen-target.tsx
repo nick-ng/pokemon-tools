@@ -20,17 +20,11 @@ export default function ChosenTarget({ chosenTarget }: ChosenTargetProps) {
 	const barBSeconds = Math.min(barBMaxSeconds, totalDelaySeconds);
 
 	useEffect(() => {
-		const startTimer = (kbEvent: KeyboardEvent) => {
-			if (kbEvent.key === " ") {
-				setTimerRunning(true);
+		setTimeout(() => {
+			if (startButtonRef.current) {
+				startButtonRef.current.focus();
 			}
-		};
-
-		document.addEventListener("keydown", startTimer);
-
-		return () => {
-			document.removeEventListener("keydown", startTimer);
-		};
+		}, 0);
 	}, []);
 	return (
 		<>
@@ -91,19 +85,24 @@ export default function ChosenTarget({ chosenTarget }: ChosenTargetProps) {
 			</div>
 			<div className="mt-1 flex flex-row">
 				<button
-					className="grow border border-gray-500 py-1 px-2"
+					className="mr-[-1px] grow rounded-l border border-gray-500 py-1 px-2"
 					type="button"
 					ref={startButtonRef}
 					onClick={() => {
 						setTimerRunning(true);
 					}}
+					onKeyDown={(event) => {
+						if (event.key === " ") {
+							setTimerRunning(true);
+						}
+					}}
 				>
 					Start Timer
 				</button>
 				<button
-					className="border border-gray-500 py-1 px-2"
+					className="rounded-r border border-gray-500 py-1 px-2"
 					type="button"
-					onClick={(event) => {
+					onClick={() => {
 						setTimerRunning(false);
 						if (startButtonRef.current) {
 							startButtonRef.current.focus();
