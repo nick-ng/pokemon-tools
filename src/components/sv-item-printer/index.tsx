@@ -8,6 +8,7 @@ import PrintTarget from "./print-target";
 const targets: SvItemPrinterTarget[] = [
 	{
 		timestamp: 2435349196,
+		printType: "ball-lotto",
 		itemList: [
 			{ item: "Fast Ball", quantity: 1 },
 			{ item: "Sport Ball", quantity: 1 },
@@ -16,6 +17,7 @@ const targets: SvItemPrinterTarget[] = [
 	},
 	{
 		timestamp: 2703495290,
+		printType: "ball-lotto",
 		itemList: [
 			{ item: "Great Ball", quantity: 5 },
 			{ item: "Master Ball", quantity: 4 },
@@ -29,6 +31,7 @@ x1 Master Ball`,
 	},
 	{
 		timestamp: 2681864404,
+		printType: "ball-lotto",
 		itemList: [
 			{ item: "Heal Ball", quantity: 5 },
 			{ item: "Master Ball", quantity: 4 },
@@ -87,7 +90,7 @@ export default function SvItemPrinter() {
 						});
 					}}
 				>
-					<summary>Print Targets</summary>
+					<summary>Item Printer Seeds</summary>
 					<input
 						className="mb-1 w-full px-1"
 						type="text"
@@ -118,7 +121,15 @@ export default function SvItemPrinter() {
 					</div>
 				</details>
 				<div className="hidden border border-gray-500 p-2 lg:block">
-					<p>Select Targets Here</p>
+					<p>
+						Seeds from{" "}
+						<a
+							href="https://gist.github.com/Lusamine/112d4230919fadd254f0e6dfca850471"
+							target="_blank"
+						>
+							Anubis's Item Printer Seeds.md
+						</a>
+					</p>
 					<input
 						className="mb-1 w-full px-1"
 						type="text"
