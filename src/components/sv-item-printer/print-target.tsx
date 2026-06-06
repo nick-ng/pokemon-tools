@@ -8,7 +8,7 @@ export type PrintTargetProps = {
 	index: number;
 	checked: boolean;
 	filterString: string;
-	onClick: () => void | Promise<void>;
+	onClick: (event: React.MouseEvent<HTMLButtonElement>) => void | Promise<void>;
 };
 
 const getMatchingCount = (printTarget: SvItemPrinterTarget, filterString: string) => {
@@ -37,11 +37,13 @@ export default function PrintTarget({ target, checked, filterString, onClick }: 
 
 	return (
 		<button
-			className="flex flex-row items-center justify-between border border-gray-500 px-2 py-1"
+			className={`flex flex-row items-center justify-between border border-gray-500 px-2 py-1 ${
+				filterString && matchingCount === 0 ? "hidden" : ""
+			}`}
 			style={{ order: flexOrder }}
 			type="button"
-			onClick={() => {
-				onClick();
+			onClick={(event) => {
+				onClick(event);
 			}}
 		>
 			<div>

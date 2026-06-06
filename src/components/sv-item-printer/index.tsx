@@ -46,6 +46,7 @@ export default function SvItemPrinter() {
 	const { options, setOptions } = useOptions();
 	const [timerRunning, setTimerRunning] = useState(false);
 	const [filterString, setFilterString] = useState("");
+	const [isMobileChooserOpen, setIsMobileChooserOpen] = useState(false);
 	const startButtonRef = useRef<HTMLButtonElement | null>(null);
 
 	const chosenTarget = targets[options.svItemPrinterChosenTarget];
@@ -76,6 +77,46 @@ export default function SvItemPrinter() {
 		<div className="w-full">
 			<h2>Scarlet & Violet Item Printer</h2>
 			<div className="lg:grid lg:grid-cols-2">
+				<details
+					className="lg:hidden"
+					open={isMobileChooserOpen}
+					onClick={(event) => {
+						event.preventDefault();
+						setIsMobileChooserOpen((prev) => {
+							return !prev;
+						});
+					}}
+				>
+					<summary>Print Targets</summary>
+					<input
+						className="mb-1 w-full px-1"
+						type="text"
+						value={filterString}
+						placeholder="Filter..."
+						onInput={(event) => {
+							setFilterString(event.currentTarget.value);
+						}}
+					/>
+					<div className="mb-2 flex flex-col items-stretch gap-1">
+						{targets.map((t, index) => (
+							<PrintTarget
+								key={t.timestamp}
+								target={t}
+								index={index}
+								checked={options.svItemPrinterChosenTarget === index}
+								filterString={filterString}
+								onClick={(event) => {
+									event.stopPropagation();
+									setOptions({
+										svItemPrinterChosenTarget: index,
+									});
+									setTimerRunning(false);
+									setIsMobileChooserOpen(false);
+								}}
+							/>
+						))}
+					</div>
+				</details>
 				<div className="hidden border border-gray-500 p-2 lg:block">
 					<p>Select Targets Here</p>
 					<input
@@ -99,7 +140,6 @@ export default function SvItemPrinter() {
 									setOptions({
 										svItemPrinterChosenTarget: index,
 									});
-
 									setTimerRunning(false);
 
 									if (startButtonRef.current) {
