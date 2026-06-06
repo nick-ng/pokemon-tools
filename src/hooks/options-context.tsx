@@ -43,11 +43,12 @@ const optionsSchema = z.object({
 	),
 	svItemPrinterAdjustSeconds: z.number().optional().default(1),
 	svItemPrinterMinSeconds: z.number().optional().default(7),
+	svItemPrinterChosenTarget: z.number().optional().default(0),
 });
 
 export type Options = z.infer<typeof optionsSchema>;
 
-export const defaultOptions: Readonly<Options> = Object.freeze({
+export const defaultOptions: Options = {
 	darkMode: "system",
 	minIVs: [
 		{
@@ -101,9 +102,10 @@ export const defaultOptions: Readonly<Options> = Object.freeze({
 			teraType: "fairy",
 		},
 	],
-	svItemPrinterAdjustSeconds: 1,
+	svItemPrinterAdjustSeconds: 2,
 	svItemPrinterMinSeconds: 7,
-} as Options);
+	svItemPrinterChosenTarget: 0,
+};
 
 const toggleDarkMode = (darkMode: Options["darkMode"]) => {
 	if (darkMode === "dark") {
@@ -128,7 +130,7 @@ const OptionsContext = createContext<{
 	options: Options;
 	setOptions: (newPartialOptions: Partial<Options>) => void;
 }>({
-	options: defaultOptions,
+	options: { ...defaultOptions },
 	setOptions: () => {},
 });
 
