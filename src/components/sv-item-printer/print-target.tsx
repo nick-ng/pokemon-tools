@@ -1,7 +1,7 @@
 import type { SvItemPrinterTarget } from "../../schemas";
 
 import { useOptions } from "../../hooks/options-context";
-import { getTimerData } from "./utils";
+import { getTimerData, getMatchingCount } from "./utils";
 
 export type PrintTargetProps = {
 	target: SvItemPrinterTarget;
@@ -10,33 +10,16 @@ export type PrintTargetProps = {
 	onClick: (event: React.MouseEvent<HTMLButtonElement>) => void | Promise<void>;
 };
 
-const getMatchingCount = (printTarget: SvItemPrinterTarget, filterString: string) => {
-	if (!filterString) {
-		return 0;
-	}
-
-	let matchingCount = 0;
-	for (let i = 0; i < printTarget.itemList.length; i++) {
-		const item = printTarget.itemList[i];
-		if (item.item.toLowerCase().includes(filterString.toLowerCase())) {
-			matchingCount = matchingCount + item.quantity;
-		}
-	}
-
-	return matchingCount;
-};
-
 export default function PrintTarget({ target, checked, filterString, onClick }: PrintTargetProps) {
 	const { options } = useOptions();
 
 	const delaySeconds = getTimerData(target.timestamp, options.svItemPrinterMinSeconds).delaySeconds;
 	const matchingCount = getMatchingCount(target, filterString);
-
 	const flexOrder = Math.max(0, 50 - matchingCount) * 100 + delaySeconds;
 
 	return (
 		<button
-			className="flex flex-row items-center justify-between border border-gray-500 px-2 py-1"
+			className="flex flex-row items-center justify-between gap-2 border border-gray-500 px-2 py-1"
 			style={{ order: flexOrder }}
 			type="button"
 			onClick={(event) => {
@@ -46,6 +29,7 @@ export default function PrintTarget({ target, checked, filterString, onClick }: 
 			<div>
 				<input type="radio" checked={checked} readOnly />
 			</div>
+			<div>{target.printType}</div>
 			<div className="">
 				{target.itemList.map((i) => {
 					const isIrrelevant =
@@ -58,6 +42,7 @@ export default function PrintTarget({ target, checked, filterString, onClick }: 
 					);
 				})}
 			</div>
+			<div className="grow"></div>
 			<div>
 				<div>
 					{matchingCount > 0 && `${matchingCount}x, `}

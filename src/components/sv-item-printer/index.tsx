@@ -3,18 +3,22 @@ import type { SvItemPrinterTarget } from "../../schemas";
 import { useEffect, useState } from "react";
 import { useOptions } from "../../hooks/options-context";
 import { SvItemPrinterTargetSchema } from "../../schemas";
+import { getMatchingCount } from "./utils";
 import PrintTarget from "./print-target";
 import ChosenTarget from "./chosen-target";
 
+// @todo(nick-ng): add a way to adjust the min time and adjustment time settings
 export default function SvItemPrinter() {
 	const { options, setOptions } = useOptions();
 	const [targets, setTargets] = useState<SvItemPrinterTarget[]>([]);
 	const [filterString, setFilterString] = useState("");
 	const [isMobileChooserOpen, setIsMobileChooserOpen] = useState(false);
 
-	// @todo(nick-ng): use the seed or something so we can filter the results
 	const chosenTarget = targets.find((t) => t.timestamp === options.svItemPrinterChosenTarget);
-	const visibleTargets = filterString ? targets.filter((t) => t) : targets.slice(0, 50);
+	const visibleTargets =
+		filterString.length >= 3
+			? targets.filter((t) => getMatchingCount(t, filterString) > 0).slice(0, 50)
+			: targets.slice(0, 25);
 
 	useEffect(() => {
 		const abortController = new AbortController();
@@ -24,7 +28,6 @@ export default function SvItemPrinter() {
 				const resR = await fetch("/item-printer-regular.json", { signal: abortController.signal });
 				const resJson = await resR.json();
 				const tempTargets = SvItemPrinterTargetSchema.array().parse(resJson);
-				console.log("tempTargets[0]", tempTargets[0]);
 				setTargets((prev) => prev.concat(tempTargets));
 			} catch (e) {
 				console.error(e);

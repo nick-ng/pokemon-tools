@@ -28,7 +28,32 @@ export default function ChosenTarget({ chosenTarget }: ChosenTargetProps) {
 	}, []);
 	return (
 		<>
-			{" "}
+			<details>
+				<summary>Instructions</summary>
+				<ol className="ml-5 mb-1 list-outside list-decimal">
+					<li>
+						Talk to the item printer NPC until you get the menu that has "I want to print
+						something!"
+					</li>
+					<li>
+						Press the Home button (do not close Pokemon Scarlet/Violet), go to the Switch settings,
+						and adjust the date and time. It doesn't matter what timezone you've selected.
+					</li>
+					<li>
+						Press "A" to set the time and click the "Start Timer" below at the same time. You can
+						press the space bar instead of clicking if that's easier.
+					</li>
+					<li>
+						Go back to Pokemon Scarlet/Violet and press "A" when the 5s bar is empty. If you need to
+						wait a long time, there will be two bars, one that is always 5 seconds, and one that is
+						the remaining time.
+					</li>
+				</ol>
+				<p className="mb-2">
+					If you keep missing timing, try changing the "Adjustment Time". There is some fade-out/in
+					time which might be different on the different consoles.
+				</p>
+			</details>
 			<div className="grid grid-cols-2">
 				<div>Date and Time</div>
 				<div>{timerData.dmyString}</div>
@@ -48,9 +73,9 @@ export default function ChosenTarget({ chosenTarget }: ChosenTargetProps) {
 			</div>
 			<h3>Timer</h3>
 			{barASeconds > 0 ? (
-				<p>Press when the second bar is empty.</p>
+				<p>Choose "I would like to print something!" when the second bar is empty.</p>
 			) : (
-				<p>Press when the bar is empty.</p>
+				<p>Choose "I would like to print something!" when the bar is empty.</p>
 			)}
 			<div className="grid grid-cols-[min-content_1fr] gap-x-1">
 				{barASeconds > 0 && (

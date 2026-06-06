@@ -1,3 +1,5 @@
+import type { SvItemPrinterTarget } from "../../schemas";
+
 export const getTimerData = (timestamp: number, minDelayS: number) => {
 	let delaySeconds = timestamp % 60;
 	if (delaySeconds < minDelayS) {
@@ -19,4 +21,20 @@ export const getTimerData = (timestamp: number, minDelayS: number) => {
 		ymdString: `${yyyy}/${mm}/${dd} ${hh}:${ii}`,
 		delaySeconds,
 	};
+};
+
+export const getMatchingCount = (printTarget: SvItemPrinterTarget, filterString: string) => {
+	if (!filterString) {
+		return 0;
+	}
+
+	let matchingCount = 0;
+	for (let i = 0; i < printTarget.itemList.length; i++) {
+		const item = printTarget.itemList[i];
+		if (item.item.toLowerCase().includes(filterString.toLowerCase())) {
+			matchingCount = matchingCount + item.quantity;
+		}
+	}
+
+	return matchingCount;
 };
