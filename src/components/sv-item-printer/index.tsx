@@ -2,6 +2,8 @@ import type { SvItemPrinterTarget } from "../../schemas";
 
 import { useOptions } from "../../hooks/options-context";
 import { useEffect, useState, useRef } from "react";
+import { getTimerData } from "./utils";
+import PrintTarget from "./print-target";
 
 const targets: SvItemPrinterTarget[] = [
 	{
@@ -40,32 +42,10 @@ x1 Master Ball`,
 	},
 ];
 
-const getTimerData = (timestamp: number, minDelayS: number) => {
-	let delaySeconds = timestamp % 60;
-	if (delaySeconds < minDelayS) {
-		delaySeconds = delaySeconds + 60;
-	}
-
-	const startingDate = new Date((timestamp - delaySeconds) * 1000);
-
-	const dd = startingDate.getUTCDate().toString().padStart(2, "0");
-	const mm = (startingDate.getUTCMonth() + 1).toString().padStart(2, "0");
-	const yyyy = startingDate.getUTCFullYear();
-
-	const hh = startingDate.getUTCHours().toString().padStart(2, "0");
-	const ii = startingDate.getUTCMinutes().toString().padStart(2, "0");
-
-	return {
-		dmyString: `${dd}/${mm}/${yyyy} ${hh}:${ii}`,
-		mdyString: `${mm}/${dd}/${yyyy} ${hh}:${ii}`,
-		ymdString: `${yyyy}/${mm}/${dd} ${hh}:${ii}`,
-		delaySeconds,
-	};
-};
-
 export default function SvItemPrinter() {
 	const { options, setOptions } = useOptions();
 	const [timerRunning, setTimerRunning] = useState(false);
+	const [filterString, setFilterString] = useState("");
 	const startButtonRef = useRef<HTMLButtonElement | null>(null);
 
 	const chosenTarget = targets[options.svItemPrinterChosenTarget];
@@ -98,12 +78,23 @@ export default function SvItemPrinter() {
 			<div className="lg:grid lg:grid-cols-2">
 				<div className="hidden border border-gray-500 p-2 lg:block">
 					<p>Select Targets Here</p>
+					<input
+						className="mb-1 w-full px-1"
+						type="text"
+						value={filterString}
+						placeholder="Filter..."
+						onInput={(event) => {
+							setFilterString(event.currentTarget.value);
+						}}
+					/>
 					<div className="flex flex-col items-stretch gap-1">
 						{targets.map((t, index) => (
-							<button
+							<PrintTarget
 								key={t.timestamp}
-								className="flex flex-row items-center justify-between border border-gray-500 px-2 py-1"
-								type="button"
+								target={t}
+								index={index}
+								checked={options.svItemPrinterChosenTarget === index}
+								filterString={filterString}
 								onClick={() => {
 									setOptions({
 										svItemPrinterChosenTarget: index,
@@ -115,21 +106,7 @@ export default function SvItemPrinter() {
 										startButtonRef.current.focus();
 									}
 								}}
-							>
-								<div>
-									<input type="radio" checked={options.svItemPrinterChosenTarget === index} />
-								</div>
-								<div className="">
-									{t.itemList.map((i) => (
-										<div key={i.item} className="text-left">
-											{i.quantity} {i.item}
-										</div>
-									))}
-								</div>
-								<div>
-									{getTimerData(t.timestamp, options.svItemPrinterMinSeconds).delaySeconds}s
-								</div>
-							</button>
+							/>
 						))}
 					</div>
 				</div>
@@ -144,7 +121,7 @@ export default function SvItemPrinter() {
 						<div>
 							<ul>
 								{chosenTarget.itemList.map((item) => (
-									<li>
+									<li key={item.item}>
 										{item.quantity} {item.item}
 									</li>
 								))}
