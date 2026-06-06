@@ -1,0 +1,122 @@
+import type { SvItemPrinterTarget } from "../../schemas";
+
+import { useEffect, useState, useRef } from "react";
+import { useOptions } from "../../hooks/options-context";
+import { getTimerData } from "./utils";
+
+type ChosenTargetProps = {
+	chosenTarget: SvItemPrinterTarget;
+};
+
+export default function ChosenTarget({ chosenTarget }: ChosenTargetProps) {
+	const { options } = useOptions();
+	const [timerRunning, setTimerRunning] = useState(false);
+	const startButtonRef = useRef<HTMLButtonElement | null>(null);
+
+	const timerData = getTimerData(chosenTarget.timestamp, options.svItemPrinterMinSeconds);
+	const totalDelaySeconds = timerData.delaySeconds - options.svItemPrinterAdjustSeconds;
+	const barBMaxSeconds = 5;
+	const barASeconds = totalDelaySeconds - barBMaxSeconds;
+	const barBSeconds = Math.min(barBMaxSeconds, totalDelaySeconds);
+
+	useEffect(() => {
+		const startTimer = (kbEvent: KeyboardEvent) => {
+			if (kbEvent.key === " ") {
+				setTimerRunning(true);
+			}
+		};
+
+		document.addEventListener("keydown", startTimer);
+
+		return () => {
+			document.removeEventListener("keydown", startTimer);
+		};
+	}, []);
+	return (
+		<>
+			{" "}
+			<div className="grid grid-cols-2">
+				<div>Date and Time</div>
+				<div>{timerData.dmyString}</div>
+				<div>Seconds</div>
+				<div>{timerData.delaySeconds}</div>
+
+				<div>Items</div>
+				<div>
+					<ul>
+						{chosenTarget.itemList.map((item) => (
+							<li key={item.item}>
+								{item.quantity} {item.item}
+							</li>
+						))}
+					</ul>
+				</div>
+			</div>
+			<h3>Timer</h3>
+			{barASeconds > 0 ? (
+				<p>Press when the second bar is empty.</p>
+			) : (
+				<p>Press when the bar is empty.</p>
+			)}
+			<div className="grid grid-cols-[min-content_1fr] gap-x-1">
+				{barASeconds > 0 && (
+					<>
+						<div className="text-right">{barASeconds}s</div>
+						<div className="border border-gray-500">
+							<div
+								className={`h-full bg-blue-800 text-right ease-linear ${
+									timerRunning ? "transition-all" : "transition-none"
+								}`}
+								style={{
+									width: timerRunning ? "0" : "100%",
+									transitionDuration: timerRunning ? `${barASeconds}s` : "0",
+								}}
+							></div>
+						</div>
+					</>
+				)}
+				<div className="text-right">{barBSeconds}s</div>
+				<div className="border border-gray-500">
+					<div
+						className={`h-full bg-blue-800 text-right ease-linear ${
+							timerRunning ? "transition-all" : "transition-none"
+						}`}
+						style={{
+							width: timerRunning ? "0" : "100%",
+							transitionDelay: timerRunning ? `${Math.max(0, barASeconds)}s` : "0",
+							transitionDuration: timerRunning ? `${barBSeconds}s` : "0",
+						}}
+					></div>
+				</div>
+			</div>
+			<div className="mt-1 flex flex-row">
+				<button
+					className="grow border border-gray-500 py-1 px-2"
+					type="button"
+					ref={startButtonRef}
+					onClick={() => {
+						setTimerRunning(true);
+					}}
+				>
+					Start Timer
+				</button>
+				<button
+					className="border border-gray-500 py-1 px-2"
+					type="button"
+					onClick={(event) => {
+						setTimerRunning(false);
+						if (startButtonRef.current) {
+							startButtonRef.current.focus();
+						}
+					}}
+				>
+					Reset
+				</button>
+			</div>
+			<div>
+				<h4>Raw Entry</h4>
+				<pre>{chosenTarget.raw}</pre>
+			</div>
+		</>
+	);
+}
