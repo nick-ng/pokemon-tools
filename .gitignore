@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+tools/sv-item-printer/*
+!tools/sv-item-printer/README.md

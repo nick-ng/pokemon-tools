@@ -3,46 +3,50 @@
 @tailwind utilities;
 
 @layer base {
-  html,
-  body,
-  #root {
-    height: 100%;
-  }
+	html,
+	body,
+	#root {
+		height: 100%;
+	}
 
-  body {
-    @apply bg-white text-black dark:bg-gray-800 dark:text-gray-200;
-  }
+	body {
+		@apply bg-white text-black dark:bg-gray-800 dark:text-gray-200;
+	}
 
-  a {
-    @apply text-blue-700 underline dark:text-blue-300;
-  }
+	a {
+		@apply text-blue-700 underline dark:text-blue-300;
+	}
 
-  summary {
-    @apply cursor-pointer select-none underline;
-  }
+	summary {
+		@apply cursor-pointer select-none underline;
+	}
 
-  h1 {
-    @apply text-2xl;
-  }
+	h1 {
+		@apply text-3xl;
+	}
 
-  h2 {
-    @apply text-xl;
-  }
+	h2 {
+		@apply text-2xl;
+	}
 
-  input,
-  select {
-    @apply my-0.5 rounded border border-gray-300 bg-white dark:border-gray-600 dark:bg-gray-800;
-  }
+	h3 {
+		@apply text-xl;
+	}
 
-  select {
-    @apply pl-1;
-  }
+	input,
+	select {
+		@apply my-0.5 rounded border border-gray-300 bg-white dark:border-gray-600 dark:bg-gray-800;
+	}
 
-  input[type="number"] {
-    @apply text-right;
-  }
+	select {
+		@apply pl-1;
+	}
 
-  .border-default {
-    @apply border border-gray-300 dark:border-gray-600;
-  }
+	input[type="number"] {
+		@apply text-right;
+	}
+
+	.border-default {
+		@apply border border-gray-300 dark:border-gray-600;
+	}
 }
