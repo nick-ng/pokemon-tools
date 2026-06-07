@@ -36,6 +36,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 11,
 		"raw": "2745147720, 2056-12-27 13:02:00\nx1 Sport Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Master Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Moon Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx11 Fairy Tera Shard"
 	},
 	{
@@ -67,6 +70,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2737319605, 2056-09-27 22:33:25\nx1 Sport Ball\nx1 Master Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Master Ball\nx1 Friend Ball\nx1 Master Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Master Ball"
 	},
 	{
@@ -98,6 +104,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2724335970, 2056-04-30 15:59:30\nx1 Fast Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Moon Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Heavy Ball"
 	},
 	{
@@ -133,6 +142,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2716057470, 2056-01-25 20:24:30\nx1 Love Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Fast Ball"
 	},
 	{
@@ -172,6 +184,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2698165466, 2055-07-02 18:24:26\nx1 Moon Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Friend Ball"
 	},
 	{
@@ -203,6 +218,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2682318020, 2054-12-31 08:20:20\nx1 Heavy Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Heavy Ball"
 	},
 	{
@@ -234,6 +252,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2662019055, 2054-05-10 09:44:15\nx1 Level Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Dream Ball"
 	},
 	{
@@ -269,6 +290,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2817796320, 2059-04-17 09:12:00\nx1 Moon Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Master Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Love Ball"
 	},
 	{
@@ -308,6 +332,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2808156450, 2058-12-26 19:27:30\nx1 Level Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Moon Ball\nx1 Level Ball\nx1 Level Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Beast Ball"
 	},
 	{
@@ -351,6 +378,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2800924714, 2058-10-04 02:38:34\nx1 Fast Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Friend Ball\nx1 Moon Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Beast Ball"
 	},
 	{
@@ -382,6 +412,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2795257743, 2058-07-30 12:29:03\nx1 Friend Ball\nx1 Lure Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Level Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Sport Ball"
 	},
 	{
@@ -413,6 +446,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2789982144, 2058-05-30 11:02:24\nx1 Love Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Moon Ball\nx1 Beast Ball"
 	},
 	{
@@ -456,6 +492,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 11,
 		"raw": "2780151361, 2058-02-05 16:16:01\nx1 Lure Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Sport Ball\n--> Print 1 in regular mode to trigger item bonus.\nx5 Star Piece"
 	},
 	{
@@ -491,6 +530,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2776694435, 2057-12-27 16:00:35\nx1 Heavy Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Master Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Fast Ball"
 	},
 	{
@@ -530,6 +572,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2750376985, 2057-02-26 01:36:25\nx1 Heavy Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Friend Ball"
 	},
 	{
@@ -557,6 +602,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2643846437, 2053-10-12 01:47:17\nx1 Dream Ball\nx1 Love Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Sport Ball\nx1 Love Ball"
 	},
 	{
@@ -592,6 +640,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2636541479, 2053-07-19 12:37:59\nx1 Dream Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Master Ball"
 	},
 	{
@@ -627,6 +678,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2606692588, 2052-08-08 01:16:28\nx1 Fast Ball\nx1 Lure Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Beast Ball"
 	},
 	{
@@ -658,6 +712,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2604723116, 2052-07-16 06:11:56\nx1 Love Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Love Ball"
 	},
 	{
@@ -697,6 +754,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2591740043, 2052-02-16 23:47:23\nx1 Heavy Ball\nx1 Master Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Sport Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Lure Ball"
 	},
 	{
@@ -736,6 +796,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2588473401, 2052-01-10 04:23:21\nx1 Fast Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Fast Ball\nx1 Love Ball"
 	},
 	{
@@ -775,6 +838,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2577595663, 2051-09-06 06:47:43\nx1 Sport Ball\nx1 Fast Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Friend Ball"
 	},
 	{
@@ -802,6 +868,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2575181455, 2051-08-09 08:10:55\nx1 Friend Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Level Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Friend Ball"
 	},
 	{
@@ -837,6 +906,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2568350011, 2051-05-22 06:33:31\nx1 Love Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Master Ball\nx1 Sport Ball"
 	},
 	{
@@ -872,6 +944,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2567448714, 2051-05-11 20:11:54\nx1 Fast Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Fast Ball"
 	},
 	{
@@ -911,6 +986,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2565028051, 2051-04-13 19:47:31\nx1 Fast Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Sport Ball\nx1 Fast Ball"
 	},
 	{
@@ -950,6 +1028,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2560584796, 2051-02-21 09:33:16\nx1 Friend Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Heavy Ball"
 	},
 	{
@@ -989,6 +1070,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2560032185, 2051-02-15 00:03:05\nx1 Dream Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Dream Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Beast Ball"
 	},
 	{
@@ -1020,6 +1104,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2553952497, 2050-12-06 15:14:57\nx1 Fast Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Sport Ball\nx1 Heavy Ball"
 	},
 	{
@@ -1059,6 +1146,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2512943468, 2049-08-18 23:51:08\nx1 Level Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Beast Ball"
 	},
 	{
@@ -1090,6 +1180,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2497968338, 2049-02-26 16:05:38\nx1 Fast Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Love Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Moon Ball"
 	},
 	{
@@ -1121,6 +1214,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2479124153, 2048-07-23 13:35:53\nx1 Moon Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Love Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Heavy Ball"
 	},
 	{
@@ -1148,6 +1244,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2478259214, 2048-07-13 13:20:14\nx1 Friend Ball\nx1 Friend Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Sport Ball"
 	},
 	{
@@ -1179,6 +1278,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2467953567, 2048-03-16 06:39:27\nx1 Safari Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Beast Ball"
 	},
 	{
@@ -1210,6 +1312,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2467691782, 2048-03-13 05:56:22\nx1 Sport Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Beast Ball"
 	},
 	{
@@ -1245,6 +1350,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2467524150, 2048-03-11 07:22:30\nx1 Beast Ball\nx1 Dream Ball\nx1 Beast Ball\nx1 Friend Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Dream Ball"
 	},
 	{
@@ -1280,6 +1388,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2458877906, 2047-12-02 05:38:26\nx1 Love Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Safari Ball"
 	},
 	{
@@ -1319,6 +1430,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2454503191, 2047-10-12 14:26:31\nx1 Love Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Safari Ball"
 	},
 	{
@@ -1346,6 +1460,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2454059225, 2047-10-07 11:07:05\nx1 Fast Ball\nx1 Fast Ball\nx1 Master Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Fast Ball"
 	},
 	{
@@ -1381,6 +1498,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1930541079, 2031-03-06 05:24:39\nx1 Safari Ball\nx1 Love Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Beast Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Sport Ball"
 	},
 	{
@@ -1420,6 +1540,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1898690945, 2030-03-02 14:09:05\nx1 Lure Ball\nx1 Lure Ball\nx1 Moon Ball\nx1 Level Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Friend Ball"
 	},
 	{
@@ -1455,6 +1578,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1892793732, 2029-12-24 08:02:12\nx1 Dream Ball\nx1 Friend Ball\nx1 Beast Ball\nx1 Friend Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Fast Ball\nx1 Love Ball"
 	},
 	{
@@ -1498,6 +1624,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1888036182, 2029-10-30 06:29:42\nx1 Moon Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Love Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Safari Ball"
 	},
 	{
@@ -1525,6 +1654,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1874339405, 2029-05-24 17:50:05\nx1 Moon Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Heavy Ball"
 	},
 	{
@@ -1564,6 +1696,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1870905134, 2029-04-14 23:52:14\nx1 Love Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Safari Ball"
 	},
 	{
@@ -1599,6 +1734,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1870659358, 2029-04-12 03:35:58\nx1 Love Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Master Ball\nx1 Heavy Ball\nx1 Sport Ball"
 	},
 	{
@@ -1634,6 +1772,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1865195538, 2029-02-07 21:52:18\nx1 Dream Ball\nx1 Beast Ball\nx1 Level Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Fast Ball\nx1 Dream Ball"
 	},
 	{
@@ -1661,6 +1802,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1646465743, 2022-03-05 07:35:43\nx1 Beast Ball\nx1 Beast Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Dream Ball"
 	},
 	{
@@ -1700,6 +1844,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1638365396, 2021-12-01 13:29:56\nx1 Fast Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Dream Ball\nx1 Beast Ball\nx1 Master Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Moon Ball"
 	},
 	{
@@ -1735,6 +1882,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1621540494, 2021-05-20 19:54:54\nx1 Heavy Ball\nx1 Safari Ball\nx1 Level Ball\nx1 Lure Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Love Ball"
 	},
 	{
@@ -1778,6 +1928,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 11,
 		"raw": "1621391686, 2021-05-19 02:34:46\nx1 Level Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Sport Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx2 Big Nugget"
 	},
 	{
@@ -1809,6 +1962,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1617181884, 2021-03-31 09:11:24\nx1 Moon Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Dream Ball"
 	},
 	{
@@ -1840,6 +1996,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1612980289, 2021-02-10 18:04:49\nx1 Moon Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Level Ball\nx1 Safari Ball\nx1 Master Ball"
 	},
 	{
@@ -1879,6 +2038,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1599107652, 2020-09-03 04:34:12\nx1 Dream Ball\nx1 Master Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Lure Ball"
 	},
 	{
@@ -1914,6 +2076,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1594850892, 2020-07-15 22:08:12\nx1 Lure Ball\nx1 Love Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Master Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Lure Ball"
 	},
 	{
@@ -1949,6 +2114,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1583217498, 2020-03-03 06:38:18\nx1 Sport Ball\nx1 Master Ball\nx1 Fast Ball\nx1 Master Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Dream Ball"
 	},
 	{
@@ -1980,6 +2148,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1576297694, 2019-12-14 04:28:14\nx1 Heavy Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Fast Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Lure Ball"
 	},
 	{
@@ -2015,6 +2186,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1573295844, 2019-11-09 10:37:24\nx1 Fast Ball\nx1 Level Ball\nx1 Sport Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Safari Ball"
 	},
 	{
@@ -2054,6 +2228,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 11,
 		"raw": "1565507167, 2019-08-11 07:06:07\nx1 Lure Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Level Ball\nx1 Moon Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx9 Pretty Feather"
 	},
 	{
@@ -2085,6 +2262,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1560378288, 2019-06-12 22:24:48\nx1 Safari Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Master Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Sport Ball"
 	},
 	{
@@ -2128,6 +2308,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2437053842, 2047-03-24 15:24:02\nx1 Fast Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Moon Ball"
 	},
 	{
@@ -2159,6 +2342,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2435349196, 2047-03-04 21:53:16\nx1 Fast Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Beast Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Level Ball"
 	},
 	{
@@ -2190,6 +2376,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2435159237, 2047-03-02 17:07:17\nx1 Fast Ball\nx1 Safari Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Moon Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Love Ball"
 	},
 	{
@@ -2225,6 +2414,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2426189917, 2046-11-18 21:38:37\nx1 Safari Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Lure Ball\nx1 Heavy Ball"
 	},
 	{
@@ -2264,6 +2456,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2410885857, 2046-05-25 18:30:57\nx1 Beast Ball\nx1 Level Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Safari Ball"
 	},
 	{
@@ -2303,6 +2498,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2409085415, 2046-05-04 22:23:35\nx1 Lure Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Sport Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Beast Ball\nx1 Moon Ball\nx1 Level Ball"
 	},
 	{
@@ -2338,6 +2536,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2389949344, 2045-09-25 10:49:04\nx1 Safari Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Lure Ball"
 	},
 	{
@@ -2369,6 +2570,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2384226312, 2045-07-21 05:05:12\nx1 Fast Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Heavy Ball"
 	},
 	{
@@ -2408,6 +2612,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2350479619, 2044-06-25 15:00:19\nx1 Level Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Sport Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Master Ball"
 	},
 	{
@@ -2447,6 +2654,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2349383093, 2044-06-12 22:24:53\nx1 Dream Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Sport Ball\nx1 Fast Ball\nx1 Beast Ball\nx1 Moon Ball"
 	},
 	{
@@ -2482,6 +2692,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1535764692, 2018-09-01 01:18:12\nx1 Heavy Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Dream Ball\nx1 Friend Ball"
 	},
 	{
@@ -2525,6 +2738,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1514716642, 2017-12-31 10:37:22\nx1 Sport Ball\nx1 Dream Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Master Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Beast Ball"
 	},
 	{
@@ -2556,6 +2772,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1507409028, 2017-10-07 20:43:48\nx1 Moon Ball\nx1 Dream Ball\nx1 Moon Ball\nx1 Level Ball\nx1 Love Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Master Ball\nx1 Level Ball\nx1 Heavy Ball"
 	},
 	{
@@ -2595,6 +2814,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1505317065, 2017-09-13 15:37:45\nx1 Friend Ball\nx1 Dream Ball\nx1 Master Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Lure Ball"
 	},
 	{
@@ -2630,6 +2852,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1482470209, 2016-12-23 05:16:49\nx1 Beast Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Love Ball"
 	},
 	{
@@ -2665,6 +2890,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1479982217, 2016-11-24 10:10:17\nx1 Moon Ball\nx1 Safari Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Lure Ball"
 	},
 	{
@@ -2700,6 +2928,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1479424137, 2016-11-17 23:08:57\nx1 Fast Ball\nx1 Fast Ball\nx1 Master Ball\nx1 Lure Ball\nx1 Master Ball\nx1 Master Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Beast Ball\nx1 Friend Ball"
 	},
 	{
@@ -2731,6 +2962,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1478047880, 2016-11-02 00:51:20\nx1 Fast Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Fast Ball"
 	},
 	{
@@ -2766,6 +3000,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1468197296, 2016-07-11 00:34:56\nx1 Lure Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Sport Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Love Ball"
 	},
 	{
@@ -2801,6 +3038,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1463710273, 2016-05-20 02:11:13\nx1 Dream Ball\nx1 Sport Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Level Ball"
 	},
 	{
@@ -2836,6 +3076,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1463279658, 2016-05-15 02:34:18\nx1 Sport Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Lure Ball\nx1 Friend Ball"
 	},
 	{
@@ -2867,6 +3110,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1462332711, 2016-05-04 03:31:51\nx1 Sport Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Safari Ball"
 	},
 	{
@@ -2898,6 +3144,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1461403142, 2016-04-23 09:19:02\nx1 Heavy Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Master Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Heavy Ball"
 	},
 	{
@@ -2933,6 +3182,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1460642439, 2016-04-14 14:00:39\nx1 Fast Ball\nx1 Friend Ball\nx1 Love Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Master Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Moon Ball"
 	},
 	{
@@ -2964,6 +3216,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1040066804, 2002-12-16 19:26:44\nx1 Master Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Level Ball\nx1 Dream Ball"
 	},
 	{
@@ -3003,6 +3258,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1033748384, 2002-10-04 16:19:44\nx1 Friend Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Level Ball\nx1 Beast Ball\nx1 Sport Ball"
 	},
 	{
@@ -3038,6 +3296,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1030715666, 2002-08-30 13:54:26\nx1 Level Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Level Ball"
 	},
 	{
@@ -3073,6 +3334,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1024714223, 2002-06-22 02:50:23\nx1 Lure Ball\nx1 Friend Ball\nx1 Sport Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Dream Ball"
 	},
 	{
@@ -3104,6 +3368,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1017657925, 2002-04-01 10:45:25\nx1 Beast Ball\nx1 Dream Ball\nx1 Sport Ball\nx1 Fast Ball\nx1 Heavy Ball\nx1 Fast Ball\nx1 Heavy Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball"
 	},
 	{
@@ -3143,6 +3410,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1014870700, 2002-02-28 04:31:40\nx1 Beast Ball\nx1 Friend Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Dream Ball"
 	},
 	{
@@ -3174,6 +3444,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1012306751, 2002-01-29 12:19:11\nx1 Lure Ball\nx1 Level Ball\nx1 Level Ball\nx1 Lure Ball\nx1 Sport Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Lure Ball"
 	},
 	{
@@ -3209,6 +3482,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1011644782, 2002-01-21 20:26:22\nx1 Level Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Master Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Beast Ball"
 	},
 	{
@@ -3244,6 +3520,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1003594747, 2001-10-20 16:19:07\nx1 Level Ball\nx1 Sport Ball\nx1 Master Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Sport Ball"
 	},
 	{
@@ -3271,6 +3550,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "993726872, 2001-06-28 11:14:32\nx1 Love Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Dream Ball"
 	},
 	{
@@ -3306,6 +3588,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "990455416, 2001-05-21 14:30:16\nx1 Friend Ball\nx1 Sport Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Beast Ball"
 	},
 	{
@@ -3341,6 +3626,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 11,
 		"raw": "989870152, 2001-05-14 19:55:52\nx1 Safari Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Moon Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx5 Pretty Feather"
 	},
 	{
@@ -3376,6 +3664,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "978566032, 2001-01-03 23:53:52\nx1 Safari Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Heavy Ball\nx1 Heavy Ball"
 	},
 	{
@@ -3411,6 +3702,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "978185625, 2000-12-30 14:13:45\nx1 Beast Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Love Ball"
 	},
 	{
@@ -3442,6 +3736,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "969692371, 2000-09-23 06:59:31\nx1 Friend Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Master Ball"
 	},
 	{
@@ -3481,6 +3778,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "967655004, 2000-08-30 17:03:24\nx1 Lure Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Fast Ball"
 	},
 	{
@@ -3516,6 +3816,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "957153239, 2000-05-01 03:53:59\nx1 Love Ball\nx1 Lure Ball\nx1 Moon Ball\nx1 Sport Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Lure Ball"
 	},
 	{
@@ -3543,6 +3846,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1113226891, 2005-04-11 13:41:31\nx1 Heavy Ball\nx1 Level Ball\nx1 Love Ball\nx1 Love Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Love Ball"
 	},
 	{
@@ -3574,6 +3880,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1109212933, 2005-02-24 02:42:13\nx1 Love Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Love Ball\nx1 Beast Ball\nx1 Fast Ball\nx1 Heavy Ball"
 	},
 	{
@@ -3613,6 +3922,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1104821686, 2005-01-04 06:54:46\nx1 Dream Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Heavy Ball"
 	},
 	{
@@ -3652,6 +3964,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1103934138, 2004-12-25 00:22:18\nx1 Beast Ball\nx1 Friend Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Beast Ball\nx1 Dream Ball\nx1 Sport Ball"
 	},
 	{
@@ -3679,6 +3994,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1101117825, 2004-11-22 10:03:45\nx1 Lure Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Moon Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Love Ball"
 	},
 	{
@@ -3718,6 +4036,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1092301416, 2004-08-12 09:03:36\nx1 Dream Ball\nx1 Moon Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Sport Ball"
 	},
 	{
@@ -3757,6 +4078,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1085652807, 2004-05-27 10:13:27\nx1 Love Ball\nx1 Beast Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Safari Ball"
 	},
 	{
@@ -3788,6 +4112,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1079725466, 2004-03-19 19:44:26\nx1 Level Ball\nx1 Level Ball\nx1 Level Ball\nx1 Sport Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Sport Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Fast Ball"
 	},
 	{
@@ -3815,6 +4142,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1068409042, 2003-11-09 20:17:22\nx1 Dream Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Love Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Love Ball"
 	},
 	{
@@ -3850,6 +4180,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1055157884, 2003-06-09 11:24:44\nx1 Beast Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Dream Ball\nx1 Sport Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -3877,6 +4210,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1332176662, 2012-03-19 17:04:22\nx1 Sport Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Sport Ball\nx1 Fast Ball\nx1 Safari Ball"
 	},
 	{
@@ -3912,6 +4248,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1332155982, 2012-03-19 11:19:42\nx1 Safari Ball\nx1 Sport Ball\nx1 Beast Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Safari Ball\nx1 Fast Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Fast Ball"
 	},
 	{
@@ -3939,6 +4278,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1322299173, 2011-11-26 09:19:33\nx1 Lure Ball\nx1 Love Ball\nx1 Level Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Level Ball\nx1 Lure Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Level Ball"
 	},
 	{
@@ -3978,6 +4320,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1296064572, 2011-01-26 17:56:12\nx1 Moon Ball\nx1 Love Ball\nx1 Master Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Sport Ball"
 	},
 	{
@@ -4009,6 +4354,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1290264887, 2010-11-20 14:54:47\nx1 Fast Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Sport Ball\nx1 Master Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Beast Ball\nx1 Fast Ball\nx1 Friend Ball"
 	},
 	{
@@ -4048,6 +4396,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1286641656, 2010-10-09 16:27:36\nx1 Master Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Fast Ball"
 	},
 	{
@@ -4083,6 +4434,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1285694354, 2010-09-28 17:19:14\nx1 Beast Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Love Ball"
 	},
 	{
@@ -4118,6 +4472,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1274511131, 2010-05-22 06:52:11\nx1 Love Ball\nx1 Level Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Dream Ball"
 	},
 	{
@@ -4153,6 +4510,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1267995878, 2010-03-07 21:04:38\nx1 Beast Ball\nx1 Level Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Moon Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Moon Ball"
 	},
 	{
@@ -4196,6 +4556,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1265367385, 2010-02-05 10:56:25\nx1 Level Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Moon Ball\nx1 Master Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Beast Ball\nx1 Friend Ball\nx1 Fast Ball"
 	},
 	{
@@ -4235,6 +4598,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1256652106, 2009-10-27 14:01:46\nx1 Moon Ball\nx1 Heavy Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Moon Ball"
 	},
 	{
@@ -4270,6 +4636,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1253205427, 2009-09-17 16:37:07\nx1 Level Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Beast Ball\nx1 Safari Ball"
 	},
 	{
@@ -4309,6 +4678,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2210643877, 2040-01-20 03:44:37\nx1 Friend Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Beast Ball"
 	},
 	{
@@ -4348,6 +4720,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2207775832, 2039-12-17 23:03:52\nx1 Friend Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Moon Ball"
 	},
 	{
@@ -4375,6 +4750,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2193292522, 2039-07-03 07:55:22\nx1 Moon Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Dream Ball"
 	},
 	{
@@ -4406,6 +4784,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2190488113, 2039-05-31 20:55:13\nx1 Dream Ball\nx1 Love Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Love Ball"
 	},
 	{
@@ -4437,6 +4818,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2155942209, 2038-04-27 00:50:09\nx1 Lure Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Dream Ball\nx1 Beast Ball\nx1 Fast Ball"
 	},
 	{
@@ -4480,6 +4864,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2151871058, 2038-03-10 21:57:38\nx1 Dream Ball\nx1 Love Ball\nx1 Sport Ball\nx1 Master Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Love Ball\nx1 Beast Ball"
 	},
 	{
@@ -4511,6 +4898,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1740632747, 2025-02-27 05:05:47\nx1 Beast Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Beast Ball\nx1 Friend Ball\nx1 Sport Ball\nx1 Master Ball\nx1 Sport Ball\nx1 Moon Ball"
 	},
 	{
@@ -4542,6 +4932,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1736768409, 2025-01-13 11:40:09\nx1 Safari Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Master Ball"
 	},
 	{
@@ -4581,6 +4974,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1718402849, 2024-06-14 22:07:29\nx1 Love Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Dream Ball\nx1 Beast Ball\nx1 Level Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Fast Ball\nx1 Sport Ball"
 	},
 	{
@@ -4612,6 +5008,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1707391717, 2024-02-08 11:28:37\nx1 Moon Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Fast Ball"
 	},
 	{
@@ -4647,6 +5046,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1689542954, 2023-07-16 21:29:14\nx1 Friend Ball\nx1 Moon Ball\nx1 Love Ball\nx1 Moon Ball\nx1 Master Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Moon Ball"
 	},
 	{
@@ -4678,6 +5080,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1673739273, 2023-01-14 23:34:33\nx1 Friend Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Dream Ball"
 	},
 	{
@@ -4713,6 +5118,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1653564669, 2022-05-26 11:31:09\nx1 Level Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Beast Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Love Ball"
 	},
 	{
@@ -4752,6 +5160,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1650553548, 2022-04-21 15:05:48\nx1 Beast Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Sport Ball\nx1 Sport Ball"
 	},
 	{
@@ -4791,6 +5202,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2120799538, 2037-03-16 06:58:58\nx1 Friend Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Safari Ball\nx1 Fast Ball"
 	},
 	{
@@ -4822,6 +5236,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2116190188, 2037-01-21 22:36:28\nx1 Love Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Sport Ball\nx1 Safari Ball"
 	},
 	{
@@ -4861,6 +5278,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2113158393, 2036-12-17 20:26:33\nx1 Moon Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Level Ball\nx1 Master Ball\nx1 Safari Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Friend Ball"
 	},
 	{
@@ -4888,6 +5308,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2102175604, 2036-08-12 17:40:04\nx1 Beast Ball\nx1 Safari Ball\nx1 Friend Ball\nx1 Safari Ball\nx1 Friend Ball\nx1 Safari Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Friend Ball\nx1 Dream Ball"
 	},
 	{
@@ -4919,6 +5342,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2099897630, 2036-07-17 08:53:50\nx1 Moon Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Safari Ball"
 	},
 	{
@@ -4958,6 +5384,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2087709784, 2036-02-27 07:23:04\nx1 Dream Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Beast Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Level Ball"
 	},
 	{
@@ -4989,6 +5418,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2087350872, 2036-02-23 03:41:12\nx1 Dream Ball\nx1 Master Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Love Ball\nx1 Master Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Safari Ball"
 	},
 	{
@@ -5020,6 +5452,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2086434913, 2036-02-12 13:15:13\nx1 Safari Ball\nx1 Safari Ball\nx1 Master Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Dream Ball"
 	},
 	{
@@ -5055,6 +5490,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2083355915, 2036-01-07 21:58:35\nx1 Sport Ball\nx1 Safari Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Sport Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Level Ball"
 	},
 	{
@@ -5086,6 +5524,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2080416556, 2035-12-04 21:29:16\nx1 Heavy Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Love Ball\nx1 Beast Ball\nx1 Friend Ball\nx1 Love Ball"
 	},
 	{
@@ -5117,6 +5558,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2073951180, 2035-09-21 01:33:00\nx1 Master Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Level Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Moon Ball"
 	},
 	{
@@ -5148,6 +5592,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2068996707, 2035-07-25 17:18:27\nx1 Heavy Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Sport Ball"
 	},
 	{
@@ -5183,6 +5630,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2054307786, 2035-02-05 17:03:06\nx1 Love Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Level Ball"
 	},
 	{
@@ -5226,6 +5676,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2049993695, 2034-12-17 18:41:35\nx1 Sport Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Fast Ball\nx1 Level Ball"
 	},
 	{
@@ -5265,6 +5718,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2049456228, 2034-12-11 13:23:48\nx1 Safari Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Moon Ball"
 	},
 	{
@@ -5296,6 +5752,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2046639394, 2034-11-08 22:56:34\nx1 Sport Ball\nx1 Level Ball\nx1 Level Ball\nx1 Sport Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Moon Ball\nx1 Beast Ball"
 	},
 	{
@@ -5331,6 +5790,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2039511413, 2034-08-18 10:56:53\nx1 Level Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Dream Ball\nx1 Sport Ball"
 	},
 	{
@@ -5366,6 +5828,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 11,
 		"raw": "2019086433, 2033-12-25 01:20:33\nx1 Fast Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Safari Ball\nx1 Friend Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx8 Exp. Candy XS"
 	},
 	{
@@ -5401,6 +5866,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1987246613, 2032-12-21 12:56:53\nx1 Love Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Sport Ball\nx1 Love Ball\nx1 Love Ball\nx1 Moon Ball\nx1 Moon Ball"
 	},
 	{
@@ -5440,6 +5908,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1970804410, 2032-06-14 05:40:10\nx1 Beast Ball\nx1 Lure Ball\nx1 Master Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Beast Ball"
 	},
 	{
@@ -5475,6 +5946,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1957723908, 2032-01-14 20:11:48\nx1 Love Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Beast Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Beast Ball"
 	},
 	{
@@ -5510,6 +5984,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1949209749, 2031-10-08 07:09:09\nx1 Love Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Friend Ball\nx1 Heavy Ball"
 	},
 	{
@@ -5545,6 +6022,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1233740168, 2009-02-04 09:36:08\nx1 Master Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Moon Ball\nx1 Master Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Lure Ball"
 	},
 	{
@@ -5584,6 +6064,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1207497387, 2008-04-06 15:56:27\nx1 Beast Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Level Ball\nx1 Safari Ball"
 	},
 	{
@@ -5623,6 +6106,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1206116599, 2008-03-21 16:23:19\nx1 Heavy Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Heavy Ball\nx1 Fast Ball\nx1 Dream Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Beast Ball"
 	},
 	{
@@ -5662,6 +6148,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1189493742, 2007-09-11 06:55:42\nx1 Safari Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Love Ball\nx1 Master Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Friend Ball"
 	},
 	{
@@ -5697,6 +6186,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1184316297, 2007-07-13 08:44:57\nx1 Safari Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Level Ball\nx1 Love Ball"
 	},
 	{
@@ -5720,6 +6212,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1179986414, 2007-05-24 06:00:14\nx1 Fast Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Lure Ball"
 	},
 	{
@@ -5755,6 +6250,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1179250324, 2007-05-15 17:32:04\nx1 Dream Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Love Ball\nx1 Master Ball\nx1 Love Ball\nx1 Friend Ball"
 	},
 	{
@@ -5786,6 +6284,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1177772764, 2007-04-28 15:06:04\nx1 Fast Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Master Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Dream Ball"
 	},
 	{
@@ -5817,6 +6318,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1173858243, 2007-03-14 07:44:03\nx1 Sport Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Beast Ball"
 	},
 	{
@@ -5852,6 +6356,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1168451155, 2007-01-10 17:45:55\nx1 Master Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Sport Ball\nx1 Beast Ball\nx1 Level Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Friend Ball"
 	},
 	{
@@ -5883,6 +6390,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1164426576, 2006-11-25 03:49:36\nx1 Moon Ball\nx1 Lure Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Dream Ball"
 	},
 	{
@@ -5918,6 +6428,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1160085393, 2006-10-05 21:56:33\nx1 Friend Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Moon Ball"
 	},
 	{
@@ -5957,6 +6470,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1149975515, 2006-06-10 21:38:35\nx1 Master Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Safari Ball"
 	},
 	{
@@ -5992,6 +6508,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1147828263, 2006-05-17 01:11:03\nx1 Fast Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Moon Ball"
 	},
 	{
@@ -6027,6 +6546,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1444411743, 2015-10-09 17:29:03\nx1 Level Ball\nx1 Friend Ball\nx1 Level Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Beast Ball"
 	},
 	{
@@ -6054,6 +6576,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1441314211, 2015-09-03 21:03:31\nx1 Master Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Master Ball\nx1 Level Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Friend Ball"
 	},
 	{
@@ -6081,6 +6606,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1429269292, 2015-04-17 11:14:52\nx1 Moon Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Safari Ball\nx1 Love Ball"
 	},
 	{
@@ -6112,6 +6640,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1394948697, 2014-03-16 05:44:57\nx1 Moon Ball\nx1 Moon Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Lure Ball"
 	},
 	{
@@ -6147,6 +6678,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1373158934, 2013-07-07 01:02:14\nx1 Lure Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Master Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Love Ball"
 	},
 	{
@@ -6178,6 +6712,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1354792565, 2012-12-06 11:16:05\nx1 Lure Ball\nx1 Master Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Friend Ball"
 	},
 	{
@@ -6209,6 +6746,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1349466253, 2012-10-05 19:44:13\nx1 Fast Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Level Ball"
 	},
 	{
@@ -6240,6 +6780,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1348008861, 2012-09-18 22:54:21\nx1 Safari Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Master Ball\nx1 Level Ball\nx1 Love Ball"
 	},
 	{
@@ -6275,6 +6818,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2334255571, 2043-12-20 20:19:31\nx1 Safari Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Master Ball\nx1 Moon Ball"
 	},
 	{
@@ -6314,6 +6860,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2329777398, 2043-10-30 00:23:18\nx1 Beast Ball\nx1 Master Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Moon Ball"
 	},
 	{
@@ -6341,6 +6890,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2315563708, 2043-05-18 12:08:28\nx1 Beast Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Friend Ball\nx1 Safari Ball\nx1 Lure Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Friend Ball"
 	},
 	{
@@ -6376,6 +6928,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2312944360, 2043-04-18 04:32:40\nx1 Safari Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Friend Ball"
 	},
 	{
@@ -6411,6 +6966,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2298358178, 2042-10-31 08:49:38\nx1 Level Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Love Ball\nx1 Dream Ball\nx1 Fast Ball"
 	},
 	{
@@ -6450,6 +7008,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2297995908, 2042-10-27 04:11:48\nx1 Level Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Beast Ball"
 	},
 	{
@@ -6485,6 +7046,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2296115959, 2042-10-05 09:59:19\nx1 Beast Ball\nx1 Dream Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Lure Ball\nx1 Lure Ball"
 	},
 	{
@@ -6524,6 +7088,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2287516471, 2042-06-27 21:14:31\nx1 Master Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Friend Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Dream Ball\nx1 Friend Ball\nx1 Lure Ball"
 	},
 	{
@@ -6559,6 +7126,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2250407431, 2041-04-24 09:10:31\nx1 Heavy Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Love Ball\nx1 Level Ball\nx1 Fast Ball\nx1 Friend Ball\nx1 Dream Ball\nx1 Heavy Ball\nx1 Dream Ball"
 	},
 	{
@@ -6594,6 +7164,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2247243149, 2041-03-18 18:12:29\nx1 Heavy Ball\nx1 Master Ball\nx1 Master Ball\nx1 Level Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Fast Ball"
 	},
 	{
@@ -6621,6 +7194,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1843097309, 2028-05-28 03:28:29\nx1 Level Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Level Ball"
 	},
 	{
@@ -6652,6 +7228,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1841232224, 2028-05-06 13:23:44\nx1 Level Ball\nx1 Heavy Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Love Ball\nx1 Safari Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Sport Ball"
 	},
 	{
@@ -6687,6 +7266,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1837333723, 2028-03-22 10:28:43\nx1 Moon Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Master Ball\nx1 Moon Ball\nx1 Safari Ball"
 	},
 	{
@@ -6722,6 +7304,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1829222788, 2027-12-19 13:26:28\nx1 Lure Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Heavy Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Beast Ball\nx1 Love Ball"
 	},
 	{
@@ -6761,6 +7346,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1828846643, 2027-12-15 04:57:23\nx1 Friend Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Fast Ball"
 	},
 	{
@@ -6792,6 +7380,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1817686532, 2027-08-08 00:55:32\nx1 Dream Ball\nx1 Friend Ball\nx1 Safari Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Beast Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Love Ball\nx1 Moon Ball"
 	},
 	{
@@ -6823,6 +7414,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1801338734, 2027-01-30 19:52:14\nx1 Love Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Love Ball\nx1 Love Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Moon Ball"
 	},
 	{
@@ -6862,6 +7456,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1776366133, 2026-04-16 19:02:13\nx1 Dream Ball\nx1 Lure Ball\nx1 Beast Ball\nx1 Fast Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Safari Ball\nx1 Friend Ball\nx1 Moon Ball\nx1 Love Ball"
 	},
 	{
@@ -6897,6 +7494,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1753525311, 2025-07-26 10:21:51\nx1 Level Ball\nx1 Safari Ball\nx1 Sport Ball\nx1 Heavy Ball\nx1 Beast Ball\nx1 Lure Ball\nx1 Moon Ball\nx1 Heavy Ball\nx1 Moon Ball\nx1 Sport Ball"
 	},
 	{
@@ -6928,6 +7528,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1746778113, 2025-05-09 08:08:33\nx1 Fast Ball\nx1 Dream Ball\nx1 Level Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Fast Ball\nx1 Sport Ball\nx1 Love Ball\nx1 Friend Ball\nx1 Level Ball"
 	},
 	{
@@ -6943,6 +7546,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2703495290, 2055-09-02 10:54:50\nx1 Master Ball\nx1 Master Ball\nx5 Great Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -6958,6 +7564,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2681864404, 2054-12-26 02:20:04\nx5 Heal Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -6973,6 +7582,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2500230105, 2049-03-24 20:21:45\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx5 Premier Ball\nx1 Master Ball"
 	},
 	{
@@ -6988,6 +7600,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2034547662, 2034-06-22 00:07:42\nx1 Master Ball\nx5 Heal Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7003,6 +7618,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2030861265, 2034-05-10 08:07:45\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Dream Ball"
 	},
 	{
@@ -7018,6 +7636,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1131363128, 2005-11-07 11:32:08\nx1 Master Ball\nx1 Master Ball\nx5 Great Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7033,6 +7654,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1126104019, 2005-09-07 14:40:19\nx1 Master Ball\nx5 Poké Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7048,6 +7672,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2796565157, 2058-08-14 15:39:17\nx1 Beast Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7063,6 +7690,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1819998982, 2027-09-03 19:16:22\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx5 Poké Ball"
 	},
 	{
@@ -7078,6 +7708,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1431436039, 2015-05-12 13:07:19\nx1 Master Ball\nx1 Master Ball\nx5 Heal Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7093,6 +7726,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1410946904, 2014-09-17 09:41:44\nx5 Poké Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7108,6 +7744,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2868083679, 2060-11-19 09:54:39\nx1 Master Ball\nx1 Master Ball\nx5 Great Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7123,6 +7762,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1939321056, 2031-06-15 20:17:36\nx5 Nest Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7138,6 +7780,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1906648590, 2030-06-02 16:36:30\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx5 Great Ball"
 	},
 	{
@@ -7153,6 +7798,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2423978973, 2046-10-24 07:29:33\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx5 Dusk Ball\nx1 Master Ball"
 	},
 	{
@@ -7168,6 +7816,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2359711214, 2044-10-10 11:20:14\nx1 Master Ball\nx1 Dream Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7183,6 +7834,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1514159058, 2017-12-24 23:44:18\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx5 Heal Ball\nx1 Master Ball"
 	},
 	{
@@ -7198,6 +7852,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1481948127, 2016-12-17 04:15:27\nx1 Master Ball\nx5 Great Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7213,6 +7870,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1471944185, 2016-08-23 09:23:05\nx5 Great Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7228,6 +7888,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "985813774, 2001-03-28 21:09:34\nx1 Master Ball\nx1 Master Ball\nx5 Premier Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7243,6 +7906,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "982814789, 2001-02-22 04:06:29\nx1 Fast Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7258,6 +7924,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "965491665, 2000-08-05 16:07:45\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Fast Ball\nx1 Master Ball"
 	},
 	{
@@ -7273,6 +7942,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2105178913, 2036-09-16 11:55:13\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx5 Great Ball\nx1 Master Ball"
 	},
 	{
@@ -7288,6 +7960,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2075015988, 2035-10-03 09:19:48\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx5 Nest Ball"
 	},
 	{
@@ -7303,6 +7978,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2060352259, 2035-04-16 16:04:19\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Level Ball"
 	},
 	{
@@ -7318,6 +7996,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2244360971, 2041-02-13 09:36:11\nx1 Master Ball\nx1 Master Ball\nx5 Net Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7333,6 +8014,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2243443676, 2041-02-02 18:47:56\nx1 Master Ball\nx1 Master Ball\nx5 Poké Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7348,6 +8032,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2163496943, 2038-07-23 11:22:23\nx1 Master Ball\nx1 Master Ball\nx5 Premier Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7363,6 +8050,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2272967485, 2042-01-10 11:51:25\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx5 Poké Ball"
 	},
 	{
@@ -7378,6 +8068,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2252897038, 2041-05-23 04:43:58\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball\nx1 Friend Ball\nx1 Master Ball"
 	},
 	{
@@ -7393,6 +8086,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1303111431, 2011-04-18 07:23:51\nx1 Master Ball\nx1 Master Ball\nx1 Friend Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7408,6 +8104,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1283287372, 2010-08-31 20:42:52\nx1 Master Ball\nx5 Great Ball\nx1 Master Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7423,6 +8122,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1248084368, 2009-07-20 10:06:08\nx1 Master Ball\nx1 Master Ball\nx5 Premier Ball\nx1 Master Ball\nx1 Master Ball"
 	},
 	{
@@ -7434,6 +8136,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2493163222, 2049-01-02 01:20:22\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball"
 	},
 	{
@@ -7445,6 +8150,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1911109718, 2030-07-24 07:48:38\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball"
 	},
 	{
@@ -7456,6 +8164,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1003730964, 2001-10-22 06:09:24\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball"
 	},
 	{
@@ -7467,6 +8178,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "985905173, 2001-03-29 22:32:53\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Safari Ball"
 	},
 	{
@@ -7478,6 +8192,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2040690819, 2034-09-01 02:33:39\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball"
 	},
 	{
@@ -7489,6 +8206,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2775021716, 2057-12-08 07:21:56\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball"
 	},
 	{
@@ -7504,6 +8224,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 6,
 		"raw": "2192373823, 2039-06-22 16:43:43\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx15 Fairy Tera Shard"
 	},
 	{
@@ -7515,6 +8238,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1560836149, 2019-06-18 05:35:49\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball"
 	},
 	{
@@ -7526,6 +8252,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2763962685, 2057-08-02 07:24:45\nx1 Level Ball\nx1 Level Ball\nx1 Level Ball\nx1 Level Ball\nx1 Level Ball"
 	},
 	{
@@ -7537,6 +8266,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2373357938, 2045-03-17 10:05:38\nx1 Level Ball\nx1 Level Ball\nx1 Level Ball\nx1 Level Ball\nx1 Level Ball"
 	},
 	{
@@ -7548,6 +8280,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2773542517, 2057-11-21 04:28:37\nx1 Lure Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Lure Ball"
 	},
 	{
@@ -7559,6 +8294,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2173828719, 2038-11-20 01:18:39\nx1 Lure Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Lure Ball"
 	},
 	{
@@ -7570,6 +8308,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2732261037, 2056-07-31 09:23:57\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball"
 	},
 	{
@@ -7581,6 +8322,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2586695394, 2051-12-20 14:29:54\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball"
 	},
 	{
@@ -7592,6 +8336,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2846752420, 2060-03-17 12:33:40\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball"
 	},
 	{
@@ -7603,6 +8350,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1297022501, 2011-02-06 20:01:41\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball"
 	},
 	{
@@ -7614,6 +8364,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1879588391, 2029-07-24 11:53:11\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball"
 	},
 	{
@@ -7625,6 +8378,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1856618222, 2028-10-31 15:17:02\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball\nx1 Heavy Ball"
 	},
 	{
@@ -7636,6 +8392,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2832719994, 2059-10-07 02:39:54\nx1 Love Ball\nx1 Love Ball\nx1 Love Ball\nx1 Love Ball\nx1 Love Ball"
 	},
 	{
@@ -7647,6 +8406,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1941946153, 2031-07-16 05:29:13\nx1 Love Ball\nx1 Love Ball\nx1 Love Ball\nx1 Love Ball\nx1 Love Ball"
 	},
 	{
@@ -7658,6 +8420,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1684733771, 2023-05-22 05:36:11\nx1 Love Ball\nx1 Love Ball\nx1 Love Ball\nx1 Love Ball\nx1 Love Ball"
 	},
 	{
@@ -7669,6 +8434,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2428107797, 2046-12-11 02:23:17\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball"
 	},
 	{
@@ -7680,6 +8448,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2384035736, 2045-07-19 00:08:56\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball"
 	},
 	{
@@ -7691,6 +8462,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1309484991, 2011-07-01 01:49:51\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball"
 	},
 	{
@@ -7702,6 +8476,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2837698167, 2059-12-03 17:29:27\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball\nx1 Friend Ball"
 	},
 	{
@@ -7713,6 +8490,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1949203594, 2031-10-08 05:26:34\nx1 Moon Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Moon Ball"
 	},
 	{
@@ -7724,6 +8504,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2296878993, 2042-10-14 05:56:33\nx1 Moon Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Moon Ball\nx1 Moon Ball"
 	},
 	{
@@ -7735,6 +8518,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1838693756, 2028-04-07 04:15:56\nx1 Sport Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Sport Ball"
 	},
 	{
@@ -7746,6 +8532,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1244233031, 2009-06-05 20:17:11\nx1 Sport Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Sport Ball\nx1 Sport Ball"
 	},
 	{
@@ -7757,6 +8546,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2329230765, 2043-10-23 16:32:45\nx1 Dream Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Dream Ball"
 	},
 	{
@@ -7768,6 +8560,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2657784681, 2054-03-22 09:31:21\nx1 Dream Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Dream Ball"
 	},
 	{
@@ -7779,6 +8574,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2173593945, 2038-11-17 08:05:45\nx1 Dream Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Dream Ball\nx1 Dream Ball"
 	},
 	{
@@ -7790,6 +8588,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1695544036, 2023-09-24 08:27:16\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball"
 	},
 	{
@@ -7801,6 +8602,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2117201835, 2037-02-02 15:37:15\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball"
 	},
 	{
@@ -7812,6 +8616,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2075486361, 2035-10-08 19:59:21\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball"
 	},
 	{
@@ -7823,6 +8630,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "967029388, 2000-08-23 11:16:28\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball"
 	},
 	{
@@ -7838,6 +8648,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1510174645, 2017-11-08 20:57:25\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx1 Love Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball"
 	},
 	{
@@ -7853,6 +8666,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1792068382, 2026-10-15 12:46:22\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Premier Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball"
 	},
 	{
@@ -7868,6 +8684,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2271196326, 2041-12-20 23:52:06\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Premier Ball\nx5 Luxury Ball"
 	},
 	{
@@ -7883,6 +8702,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2157939452, 2038-05-20 03:37:32\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx1 Dream Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball"
 	},
 	{
@@ -7898,6 +8720,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1957701251, 2032-01-14 13:54:11\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx1 Safari Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball"
 	},
 	{
@@ -7913,6 +8738,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1947404537, 2031-09-17 09:42:17\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx1 Moon Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball\nx5 Luxury Ball"
 	},
 	{
@@ -7924,6 +8752,9 @@
 				"quantity": 50
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1216729862, 2008-07-22 12:31:02\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball"
 	},
 	{
@@ -7935,6 +8766,9 @@
 				"quantity": 50
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1212837704, 2008-06-07 11:21:44\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball"
 	},
 	{
@@ -7946,6 +8780,9 @@
 				"quantity": 50
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1903909056, 2030-05-01 23:37:36\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball"
 	},
 	{
@@ -7957,6 +8794,9 @@
 				"quantity": 50
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2747276634, 2057-01-21 04:23:54\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball"
 	},
 	{
@@ -7968,6 +8808,9 @@
 				"quantity": 50
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1458461110, 2016-03-20 08:05:10\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball\nx5 Premier Ball"
 	},
 	{
@@ -7979,6 +8822,9 @@
 				"quantity": 50
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1183080884, 2007-06-29 01:34:44\nx5 Great Ball\nx5 Great Ball\nx5 Great Ball\nx5 Great Ball\nx5 Great Ball\nx5 Great Ball\nx5 Great Ball\nx5 Great Ball\nx5 Great Ball\nx5 Great Ball"
 	}
 ]

@@ -58,9 +58,11 @@ function parseSeed(seedString, printType) {
 	const itemMap = {};
 	let lastArrow = "";
 	let afterLastArrow = 0;
+	let printCount = 0;
 	lines.forEach((line) => {
 		if (line.startsWith("x")) {
 			afterLastArrow = afterLastArrow + 1;
+			printCount = printCount + 1;
 			const [rawQuantity, ...itemParts] = line.split(" ");
 			const quantity = parseInt(rawQuantity.replace("x", ""), 10);
 			const item = itemParts.join(" ");
@@ -76,24 +78,30 @@ function parseSeed(seedString, printType) {
 	});
 
 	let triggers = "";
+	let triggers2 = "";
 	if (!lastArrow) {
 		// noop
 	} else if (lastArrow === "--> Print job triggers item bonus if used in regular mode.") {
-		triggers = "item-bonus 10/10";
+		triggers = "item-bonus";
+		triggers2 = "10/10";
 	} else if (lastArrow === "--> Print job triggers ball bonus if used in regular mode.") {
 		triggers = "ball-lotto";
 	} else if (lastArrow === "--> Trigger item bonus, then print 5.") {
-		triggers = "item-bonus 5/10";
+		triggers = "item-bonus";
+		triggers2 = "5/10";
 	} else if (lastArrow === "--> Trigger item bonus, then print 10.") {
-		triggers = "item-bonus 0/10";
+		triggers = "item-bonus";
+		triggers2 = "0/10";
 	} else if (lastArrow === "--> Trigger ball bonus, then print 5.") {
 		// noop
 	} else if (lastArrow === "--> Trigger ball bonus, then print 10.") {
 		// noop
 	} else if (lastArrow === "--> Print 1 in regular mode to trigger item bonus.") {
-		triggers = "item-bonus*";
+		triggers = "item-bonus";
+		triggers2 = "*";
 	} else if (lastArrow === "--> Print 1 in regular mode to trigger ball bonus.") {
-		triggers = "ball-lotto*";
+		triggers = "ball-lotto";
+		triggers2 = "*";
 	} else {
 		console.log("lastArrow", lastArrow);
 		console.log("printType", printType);
@@ -106,6 +114,8 @@ function parseSeed(seedString, printType) {
 		itemList: Object.values(itemMap).sort((a, b) => b.quantity - a.quantity),
 		raw: seedString,
 		triggers,
+		triggers2,
+		printCount,
 	});
 	if (printerTargetResult.success) {
 		return printerTargetResult.data;

@@ -13,25 +13,47 @@ export default function SvItemPrinter() {
 	const [targets, setTargets] = useState<SvItemPrinterTarget[]>([]);
 	const [filterString, setFilterString] = useState("");
 	const [isMobileChooserOpen, setIsMobileChooserOpen] = useState(false);
+	const [printTypes, setPrintTypes] = useState<string[]>([]);
+	const [chosenPrintTypes, setChosenPrintTypes] = useState<string[]>([]);
+	const [modeTriggers, setModeTriggers] = useState<string[]>([]);
+	const [chosenModeTriggers, setChosenModeTriggers] = useState<string[]>([]);
 
 	const chosenTarget = targets.find((t) => t.timestamp === options.svItemPrinterChosenTarget);
-	const visibleTargets =
-		filterString.length >= 3
-			? targets.filter((t) => getMatchingCount(t, filterString) > 0).slice(0, 50)
-			: targets.slice(0, 25);
+	const visibleTargets = targets
+		.filter((t) => {
+			if (chosenPrintTypes.length > 0 && !chosenPrintTypes.includes(t.printType)) {
+				return false;
+			}
+
+			if (chosenModeTriggers.length > 0 && !chosenModeTriggers.includes(t.triggers)) {
+				return false;
+			}
+
+			if (filterString.length >= 3) {
+				return getMatchingCount(t, filterString) > 0;
+			}
+
+			return true;
+		})
+		.slice(0, 50);
 
 	useEffect(() => {
 		const abortController = new AbortController();
-		const fetchTargets = async () => {
+		const printTypes = ["regular", "ball-lotto", "item-bonus", "combo"];
+		const fetchTargets = () => {
 			setTargets([]);
-			try {
-				const resR = await fetch("/item-printer-regular.json", { signal: abortController.signal });
-				const resJson = await resR.json();
-				const tempTargets = SvItemPrinterTargetSchema.array().parse(resJson);
-				setTargets((prev) => prev.concat(tempTargets));
-			} catch (e) {
-				console.error(e);
-			}
+			printTypes.map(async (printType) => {
+				try {
+					const resR = await fetch(`/item-printer-${printType}.json`, {
+						signal: abortController.signal,
+					});
+					const resJson = await resR.json();
+					const tempTargets = SvItemPrinterTargetSchema.array().parse(resJson);
+					setTargets((prev) => prev.concat(tempTargets));
+				} catch (e) {
+					console.error(e);
+				}
+			});
 		};
 
 		fetchTargets();
@@ -79,7 +101,7 @@ export default function SvItemPrinter() {
 					<div className="mb-2 flex flex-col items-stretch gap-1">
 						{targets.slice(0, filterString ? targets.length : 5).map((t, index) => (
 							<PrintTarget
-								key={t.timestamp}
+								key={`${t.printType}-${t.printCount}-${t.timestamp}`}
 								target={t}
 								checked={options.svItemPrinterChosenTarget === index}
 								filterString={filterString}
@@ -123,6 +145,16 @@ export default function SvItemPrinter() {
 						>
 							X
 						</button>
+					</div>
+					<div className="mx-2 mb-1 flex flex-row">
+						<div className="flex flex-col">
+							<h4>Print Type</h4>
+							{printTypes.map((printType) => (
+								<label key={printType}>
+									<input type="checkbox" /> {printType}
+								</label>
+							))}
+						</div>
 					</div>
 					<div className="mx-2 mb-1 flex max-h-[80vh] flex-col items-stretch gap-1 overflow-y-auto">
 						{visibleTargets.map((t) => (

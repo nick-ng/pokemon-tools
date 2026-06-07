@@ -12,6 +12,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "958172368, 2000-05-12 22:59:28\n8 total Ability Patches\nx18 Dark Tera Shard\nx2 Ability Patch\nx2 Ability Patch\nx2 Ability Patch\nx2 Ability Patch"
 	},
 	{
@@ -27,6 +30,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1753036838, 2025-07-20 18:40:38\n7 total Ability Patches\nx2 Ability Patch\nx2 Ability Patch\nx1 Cracked Pot\nx1 Ability Patch\nx2 Ability Patch"
 	},
 	{
@@ -42,6 +48,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1251965818, 2009-09-03 08:16:58\n7 total Ability Patches\nx2 Ability Patch\nx2 Ability Patch\nx2 Ability Patch\nx4 Max Ether\nx1 Ability Patch"
 	},
 	{
@@ -69,6 +78,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2716368252, 2056-01-29 10:44:12\nx1 Magmarizer\nx2 Upgrade\nx1 Reaper Cloth\nx1 Dubious Disc\nx1 Protector"
 	},
 	{
@@ -96,6 +108,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2662677547, 2054-05-18 00:39:07\nx2 Reaper Cloth\nx1 Masterpiece Teacup\nx2 Unremarkable Teacup\nx2 Magmarizer\nx1 Prism Scale"
 	},
 	{
@@ -123,6 +138,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2658265328, 2054-03-27 23:02:08\nx2 Electirizer\nx2 Upgrade\nx1 Unremarkable Teacup\nx1 Prism Scale\nx2 Dubious Disc"
 	},
 	{
@@ -150,6 +168,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2654934553, 2054-02-17 09:49:13\nx1 Reaper Cloth\nx2 Prism Scale\nx1 Electirizer\nx1 Protector\nx1 Dubious Disc"
 	},
 	{
@@ -177,6 +198,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2609982793, 2052-09-15 03:13:13\nx1 Magmarizer\nx1 Dragon Scale\nx1 Dubious Disc\nx2 Prism Scale\nx1 Masterpiece Teacup"
 	},
 	{
@@ -204,6 +228,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2562807789, 2051-03-19 03:03:09\nx1 Electirizer\nx1 Prism Scale\nx2 Protector\nx2 Reaper Cloth\nx1 Masterpiece Teacup"
 	},
 	{
@@ -231,6 +258,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2550772330, 2050-10-30 19:52:10\nx2 Dubious Disc\nx2 Protector\nx1 Masterpiece Teacup\nx1 Metal Alloy\nx1 Reaper Cloth"
 	},
 	{
@@ -258,6 +288,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2485413246, 2048-10-04 08:34:06\nx2 Magmarizer\nx2 Reaper Cloth\nx2 Masterpiece Teacup\nx2 Protector\nx1 Dragon Scale"
 	},
 	{
@@ -285,6 +318,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2430872535, 2047-01-12 02:22:15\nx1 Electirizer\nx2 Prism Scale\nx2 Metal Alloy\nx2 Unremarkable Teacup\nx1 Magmarizer"
 	},
 	{
@@ -312,6 +348,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2351243894, 2044-07-04 11:18:14\nx2 Unremarkable Teacup\nx2 Protector\nx2 Prism Scale\nx1 Magmarizer\nx1 Electirizer"
 	},
 	{
@@ -339,6 +378,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1141079406, 2006-02-27 22:30:06\nx1 Magmarizer\nx1 Unremarkable Teacup\nx1 Electirizer\nx2 Protector\nx1 Metal Alloy"
 	},
 	{
@@ -366,6 +408,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1096842246, 2004-10-03 22:24:06\nx2 Reaper Cloth\nx2 Electirizer\nx1 Upgrade\nx2 Masterpiece Teacup\nx1 Unremarkable Teacup"
 	},
 	{
@@ -393,6 +438,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1081879575, 2004-04-13 18:06:15\nx2 Unremarkable Teacup\nx2 Protector\nx2 Prism Scale\nx2 Reaper Cloth\nx2 Upgrade"
 	},
 	{
@@ -420,6 +468,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2340974232, 2044-03-07 14:37:12\nx2 Upgrade\nx1 Magmarizer\nx1 Prism Scale\nx1 Electirizer\nx2 Protector"
 	},
 	{
@@ -447,6 +498,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2325397453, 2043-09-09 07:44:13\nx1 Unremarkable Teacup\nx2 Protector\nx1 Electirizer\nx2 Reaper Cloth\nx1 Dubious Disc"
 	},
 	{
@@ -474,6 +528,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2316244034, 2043-05-26 09:07:14\nx2 Dragon Scale\nx1 Metal Alloy\nx2 Magmarizer\nx1 Masterpiece Teacup\nx1 Unremarkable Teacup"
 	},
 	{
@@ -501,6 +558,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2136244148, 2037-09-11 01:09:08\nx2 Prism Scale\nx2 Magmarizer\nx2 Protector\nx2 Dragon Scale\nx2 Electirizer"
 	},
 	{
@@ -528,6 +588,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1179784694, 2007-05-21 21:58:14\nx2 Masterpiece Teacup\nx1 Unremarkable Teacup\nx1 Protector\nx1 Metal Alloy\nx1 Upgrade"
 	},
 	{
@@ -555,6 +618,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1167490513, 2006-12-30 14:55:13\nx1 Dragon Scale\nx2 Metal Alloy\nx1 Protector\nx2 Prism Scale\nx2 Masterpiece Teacup"
 	},
 	{
@@ -582,6 +648,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1157234051, 2006-09-02 21:54:11\nx1 Metal Alloy\nx1 Unremarkable Teacup\nx1 Magmarizer\nx2 Prism Scale\nx2 Masterpiece Teacup"
 	},
 	{
@@ -609,6 +678,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1611900853, 2021-01-29 06:14:13\nx2 Dragon Scale\nx2 Prism Scale\nx2 Masterpiece Teacup\nx2 Upgrade\nx2 Electirizer"
 	},
 	{
@@ -636,6 +708,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1593692228, 2020-07-02 12:17:08\nx2 Unremarkable Teacup\nx2 Reaper Cloth\nx2 Protector\nx2 Electirizer\nx1 Upgrade"
 	},
 	{
@@ -663,6 +738,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1593671112, 2020-07-02 06:25:12\nx1 Dragon Scale\nx2 Prism Scale\nx2 Protector\nx1 Metal Alloy\nx1 Masterpiece Teacup"
 	},
 	{
@@ -690,6 +768,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1582219150, 2020-02-20 17:19:10\nx2 Masterpiece Teacup\nx2 Reaper Cloth\nx1 Prism Scale\nx2 Unremarkable Teacup\nx2 Magmarizer"
 	},
 	{
@@ -717,6 +798,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2243132595, 2041-01-30 04:23:15\nx2 Electirizer\nx1 Masterpiece Teacup\nx1 Dubious Disc\nx2 Prism Scale\nx2 Upgrade\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -744,6 +828,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2227404728, 2040-08-01 03:32:08\nx1 Prism Scale\nx1 Masterpiece Teacup\nx1 Electirizer\nx1 Dragon Scale\nx2 Reaper Cloth\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -771,6 +858,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2213238734, 2040-02-19 04:32:14\nx1 Unremarkable Teacup\nx2 Dubious Disc\nx1 Dragon Scale\nx2 Protector\nx2 Electirizer"
 	},
 	{
@@ -798,6 +888,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2202009552, 2039-10-12 05:19:12\nx1 Unremarkable Teacup\nx2 Masterpiece Teacup\nx2 Prism Scale\nx2 Magmarizer\nx2 Upgrade"
 	},
 	{
@@ -825,6 +918,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2200580049, 2039-09-25 16:14:09\nx1 Dubious Disc\nx1 Metal Alloy\nx1 Dragon Scale\nx1 Protector\nx1 Masterpiece Teacup"
 	},
 	{
@@ -852,6 +948,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2186100073, 2039-04-11 02:01:13\nx2 Magmarizer\nx1 Upgrade\nx1 Masterpiece Teacup\nx2 Unremarkable Teacup\nx1 Dragon Scale"
 	},
 	{
@@ -879,6 +978,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2153222410, 2038-03-26 13:20:10\nx2 Metal Alloy\nx1 Reaper Cloth\nx1 Electirizer\nx1 Protector\nx1 Dubious Disc"
 	},
 	{
@@ -906,6 +1008,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1325873773, 2012-01-06 18:16:13\nx2 Dubious Disc\nx1 Protector\nx2 Magmarizer\nx2 Metal Alloy\nx2 Prism Scale"
 	},
 	{
@@ -933,6 +1038,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1296969312, 2011-02-06 05:15:12\nx2 Reaper Cloth\nx1 Magmarizer\nx2 Upgrade\nx2 Prism Scale\nx2 Electirizer"
 	},
 	{
@@ -960,6 +1068,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1293978014, 2011-01-02 14:20:14\nx2 Unremarkable Teacup\nx1 Dubious Disc\nx2 Masterpiece Teacup\nx1 Reaper Cloth\nx1 Metal Alloy"
 	},
 	{
@@ -987,6 +1098,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1271234527, 2010-04-14 08:42:07\nx1 Unremarkable Teacup\nx2 Electirizer\nx1 Masterpiece Teacup\nx2 Prism Scale\nx2 Magmarizer"
 	},
 	{
@@ -1014,6 +1128,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1518875227, 2018-02-17 13:47:07\nx2 Upgrade\nx1 Metal Alloy\nx1 Reaper Cloth\nx1 Dragon Scale\nx2 Protector"
 	},
 	{
@@ -1041,6 +1158,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1487354952, 2017-02-17 18:09:12\nx1 Prism Scale\nx1 Metal Alloy\nx2 Upgrade\nx1 Protector\nx1 Reaper Cloth"
 	},
 	{
@@ -1068,6 +1188,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1420112474, 2015-01-01 11:41:14\nx2 Upgrade\nx2 Protector\nx1 Dubious Disc\nx2 Reaper Cloth\nx1 Metal Alloy\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -1095,6 +1218,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1414108086, 2014-10-23 23:48:06\nx2 Reaper Cloth\nx2 Dubious Disc\nx1 Unremarkable Teacup\nx1 Electirizer\nx1 Dragon Scale"
 	},
 	{
@@ -1122,6 +1248,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1408197846, 2014-08-16 14:04:06\nx1 Masterpiece Teacup\nx1 Protector\nx1 Prism Scale\nx1 Dubious Disc\nx1 Upgrade"
 	},
 	{
@@ -1149,6 +1278,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1393894867, 2014-03-04 01:01:07\nx1 Prism Scale\nx2 Dragon Scale\nx2 Magmarizer\nx2 Upgrade\nx1 Protector"
 	},
 	{
@@ -1176,6 +1308,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1388520131, 2013-12-31 20:02:11\nx1 Metal Alloy\nx2 Prism Scale\nx2 Upgrade\nx2 Unremarkable Teacup\nx1 Protector"
 	},
 	{
@@ -1203,6 +1338,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1362673146, 2013-03-07 16:19:06\nx1 Dragon Scale\nx1 Dubious Disc\nx2 Metal Alloy\nx2 Magmarizer\nx2 Protector"
 	},
 	{
@@ -1230,6 +1368,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1362391455, 2013-03-04 10:04:15\nx1 Protector\nx2 Prism Scale\nx1 Dubious Disc\nx1 Dragon Scale\nx2 Masterpiece Teacup"
 	},
 	{
@@ -1257,6 +1398,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1353078495, 2012-11-16 15:08:15\nx2 Metal Alloy\nx1 Dubious Disc\nx1 Dragon Scale\nx2 Protector\nx2 Magmarizer"
 	},
 	{
@@ -1284,6 +1428,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1351627335, 2012-10-30 20:02:15\nx1 Dubious Disc\nx1 Dragon Scale\nx1 Prism Scale\nx2 Electirizer\nx1 Protector"
 	},
 	{
@@ -1311,6 +1458,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1038709328, 2002-12-01 02:22:08\nx2 Upgrade\nx2 Metal Alloy\nx2 Electirizer\nx2 Reaper Cloth\nx2 Unremarkable Teacup"
 	},
 	{
@@ -1338,6 +1488,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1006009631, 2001-11-17 15:07:11\nx2 Magmarizer\nx1 Reaper Cloth\nx2 Upgrade\nx2 Dragon Scale\nx1 Metal Alloy"
 	},
 	{
@@ -1365,6 +1518,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1842462192, 2028-05-20 19:03:12\nx1 Dragon Scale\nx2 Metal Alloy\nx2 Dubious Disc\nx2 Magmarizer\nx2 Electirizer"
 	},
 	{
@@ -1392,6 +1548,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1817328734, 2027-08-03 21:32:14\nx2 Prism Scale\nx1 Electirizer\nx1 Metal Alloy\nx1 Dubious Disc\nx1 Unremarkable Teacup"
 	},
 	{
@@ -1419,6 +1578,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1805532488, 2027-03-20 08:48:08\nx1 Electirizer\nx2 Unremarkable Teacup\nx2 Dubious Disc\nx1 Upgrade\nx2 Reaper Cloth"
 	},
 	{
@@ -1446,6 +1608,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1788994935, 2026-09-09 23:02:15\nx2 Masterpiece Teacup\nx1 Metal Alloy\nx2 Protector\nx1 Dubious Disc\nx2 Upgrade"
 	},
 	{
@@ -1473,6 +1638,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1772125453, 2026-02-26 17:04:13\nx2 Protector\nx1 Reaper Cloth\nx1 Metal Alloy\nx2 Electirizer\nx1 Upgrade"
 	},
 	{
@@ -1500,6 +1668,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1767865808, 2026-01-08 09:50:08\nx1 Dragon Scale\nx2 Magmarizer\nx2 Metal Alloy\nx2 Upgrade\nx1 Prism Scale"
 	},
 	{
@@ -1527,6 +1698,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1760230568, 2025-10-12 00:56:08\nx2 Electirizer\nx1 Magmarizer\nx1 Masterpiece Teacup\nx1 Prism Scale\nx1 Upgrade"
 	},
 	{
@@ -1554,6 +1728,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1749597615, 2025-06-10 23:20:15\nx1 Upgrade\nx2 Unremarkable Teacup\nx2 Reaper Cloth\nx2 Masterpiece Teacup\nx2 Dragon Scale\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -1581,6 +1758,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1647465251, 2022-03-16 21:14:11\nx2 Prism Scale\nx1 Electirizer\nx2 Unremarkable Teacup\nx1 Dragon Scale\nx1 Upgrade"
 	},
 	{
@@ -1608,6 +1788,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1995308947, 2033-03-24 20:29:07\nx1 Masterpiece Teacup\nx2 Protector\nx1 Upgrade\nx1 Metal Alloy\nx2 Magmarizer"
 	},
 	{
@@ -1635,6 +1818,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1986538395, 2032-12-13 08:13:15\nx1 Metal Alloy\nx1 Unremarkable Teacup\nx2 Dragon Scale\nx2 Dubious Disc\nx1 Protector"
 	},
 	{
@@ -1662,6 +1848,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1939648272, 2031-06-19 15:11:12\nx1 Reaper Cloth\nx2 Prism Scale\nx2 Dubious Disc\nx2 Protector\nx2 Unremarkable Teacup"
 	},
 	{
@@ -1689,6 +1878,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1870003507, 2029-04-04 13:25:07\nx2 Protector\nx1 Dubious Disc\nx2 Masterpiece Teacup\nx2 Metal Alloy\nx1 Prism Scale"
 	},
 	{
@@ -1708,6 +1900,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2836722946, 2059-11-22 10:35:46\n490000 exp\nx5 Exp. Candy XL\nx10 Exp. Candy L\nx5 Exp. Candy XL\nx5 Nugget\nx3 Exp. Candy XL\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -1727,6 +1922,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2787808570, 2058-05-05 07:16:10\n480000 exp\nx9 Exp. Candy L\nx5 Exp. Candy XL\nx4 Exp. Candy XL\nx4 Full Heal\nx4 Exp. Candy XL"
 	},
 	{
@@ -1742,6 +1940,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2440438517, 2047-05-02 19:35:17\n480000 exp\nx4 Exp. Candy XL\nx4 Exp. Candy XL\nx4 Exp. Candy XL\nx2 Metal Alloy\nx4 Exp. Candy XL\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -1757,6 +1958,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2617922273, 2052-12-16 00:37:53\n480000 exp\nx3 Exp. Candy XL\nx5 Exp. Candy XL\nx3 Exp. Candy XL\nx5 Exp. Candy XL\nx1 Carbos"
 	},
 	{
@@ -1776,6 +1980,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1443607926, 2015-09-30 10:12:06\n510000 exp\nx5 Exp. Candy XL\nx9 Exp. Candy L\nx5 Exp. Candy XL\nx2 Miracle Seed\nx4 Exp. Candy XL"
 	},
 	{
@@ -1795,6 +2002,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1417524481, 2014-12-02 12:48:01\n490000 exp\nx3 Exp. Candy XL\nx10 Exp. Candy L\nx5 Exp. Candy XL\nx5 Exp. Candy XL\nx4 Full Restore"
 	},
 	{
@@ -1810,6 +2020,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1803056258, 2027-02-19 16:57:38\n490000 exp\nx3 Exp. Candy L\nx10 Exp. Candy L\nx9 Exp. Candy L\nx4 Exp. Candy XL\nx5 Exp. Candy XL"
 	},
 	{
@@ -1829,6 +2042,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2022305406, 2034-01-31 07:30:06\n486000 exp\nx5 Exp. Candy XL\nx7 Pearl\nx5 Exp. Candy XL\nx5 Exp. Candy XL\nx12 Exp. Candy M"
 	},
 	{
@@ -1848,6 +2064,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1991472489, 2033-02-08 10:48:09\n520000 exp\nx5 Exp. Candy XL\nx2 Protein\nx10 Exp. Candy L\nx4 Exp. Candy XL\nx5 Exp. Candy XL"
 	},
 	{
@@ -1867,6 +2086,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1948710203, 2031-10-02 12:23:23\n480000 exp\nx5 Exp. Candy XL\nx5 Star Piece\nx6 Exp. Candy L\nx4 Exp. Candy XL\nx5 Exp. Candy XL"
 	},
 	{
@@ -1882,6 +2104,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1516786168, 2018-01-24 09:29:28\n7 total Gold Bottle Caps\nx2 Gold Bottle Cap\nx9 Exp. Candy XS\nx2 Gold Bottle Cap\nx1 Gold Bottle Cap\nx2 Gold Bottle Cap"
 	},
 	{
@@ -1901,6 +2126,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2732802762, 2056-08-06 15:52:42\n9 total PP Maxes\nx2 HP Up\nx3 PP Max\nx3 PP Max\nx3 PP Max\nx1 Black Glasses"
 	},
 	{
@@ -1920,6 +2148,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2510612217, 2049-07-23 00:16:57\n9 total PP Maxes\nx3 PP Max\nx3 PP Max\nx1 Ability Capsule\nx3 PP Max\nx1 Magnet"
 	},
 	{
@@ -1939,6 +2170,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2859664251, 2060-08-13 23:10:51\n9 total PP Maxes\nx1 Protein\nx3 PP Max\nx3 PP Max\nx1 Iron\nx3 PP Max"
 	},
 	{
@@ -1958,6 +2192,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2007638310, 2033-08-14 13:18:30\n9 total PP Maxes\nx3 PP Max\nx3 PP Max\nx2 Max Elixir\nx6 Bug Tera Shard\nx3 PP Max"
 	},
 	{
@@ -1977,6 +2214,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2547055383, 2050-09-17 19:23:03\n9 total PP Maxes\nx3 PP Max\nx3 PP Max\nx2 Protector\nx3 PP Max\nx13 Grass Tera Shard"
 	},
 	{
@@ -1996,6 +2236,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1153764646, 2006-07-24 18:10:46\n9 total PP Maxes\nx2 Strawberry Sweet\nx20 Electric Tera Shard\nx3 PP Max\nx3 PP Max\nx3 PP Max"
 	},
 	{
@@ -2015,6 +2258,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1899477849, 2030-03-11 16:44:09\n9 total PP Maxes\nx3 PP Max\nx3 PP Max\nx7 Honey\nx5 Revive\nx3 PP Max"
 	},
 	{
@@ -2034,6 +2280,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1853094662, 2028-09-20 20:31:02\n9 total PP Maxes\nx3 PP Max\nx1 Max Ether\nx3 PP Max\nx3 PP Max\nx2 Loaded Dice"
 	},
 	{
@@ -2073,6 +2322,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2845922429, 2060-03-07 22:00:29\n143 total Tera Shards\nx19 Fairy Tera Shard\nx20 Bug Tera Shard\nx20 Normal Tera Shard\nx18 Dark Tera Shard\nx15 Fairy Tera Shard\nx5 Tiny Bamboo Shoot\nx2 Never-Melt Ice\nx14 Fairy Tera Shard\nx20 Ground Tera Shard\nx17 Poison Tera Shard"
 	},
 	{
@@ -2116,6 +2368,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2720079932, 2056-03-12 09:45:32\n142 total Tera Shards\nx18 Dragon Tera Shard\nx2 Reaper Cloth\nx16 Dark Tera Shard\nx7 Fire Tera Shard\nx15 Poison Tera Shard\nx16 Grass Tera Shard\nx20 Steel Tera Shard\nx17 Ground Tera Shard\nx13 Poison Tera Shard\nx20 Water Tera Shard"
 	},
 	{
@@ -2159,6 +2414,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1641647945, 2022-01-08 13:19:05\n140 total Tera Shards\nx13 Bug Tera Shard\nx16 Grass Tera Shard\nx11 Steel Tera Shard\nx20 Ice Tera Shard\nx12 Ground Tera Shard\nx9 Stellar Tera Shard\nx7 Big Bamboo Shoot\nx20 Psychic Tera Shard\nx19 Bug Tera Shard\nx20 Water Tera Shard"
 	},
 	{
@@ -2198,6 +2456,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1619023091, 2021-04-21 16:38:11\n140 total Tera Shards\nx20 Steel Tera Shard\nx19 Bug Tera Shard\nx20 Normal Tera Shard\nx19 Normal Tera Shard\nx15 Grass Tera Shard\nx6 Tiny Mushroom\nx14 Bug Tera Shard\nx17 Psychic Tera Shard\nx2 Berry Sweet\nx16 Water Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -2241,6 +2502,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1142302146, 2006-03-14 02:09:06\n143 total Tera Shards\nx20 Fire Tera Shard\nx16 Poison Tera Shard\nx18 Ice Tera Shard\nx20 Electric Tera Shard\nx12 Dragon Tera Shard\nx20 Grass Tera Shard\nx3 Oval Stone\nx17 Fire Tera Shard\nx20 Rock Tera Shard\nx6 Honey"
 	},
 	{
@@ -2280,6 +2544,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1134939784, 2005-12-18 21:03:04\n149 total Tera Shards\nx18 Psychic Tera Shard\nx5 Nugget\nx20 Fairy Tera Shard\nx19 Electric Tera Shard\nx16 Water Tera Shard\nx10 Ghost Tera Shard\nx20 Steel Tera Shard\nx19 Water Tera Shard\nx19 Ground Tera Shard\nx8 Electric Tera Shard"
 	},
 	{
@@ -2319,6 +2586,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1123045368, 2005-08-03 05:02:48\n152 total Tera Shards\nx16 Rock Tera Shard\nx20 Ice Tera Shard\nx19 Bug Tera Shard\nx6 Dark Tera Shard\nx20 Water Tera Shard\nx20 Grass Tera Shard\nx19 Water Tera Shard\nx6 Psychic Tera Shard\nx19 Grass Tera Shard\nx7 Steel Tera Shard"
 	},
 	{
@@ -2354,6 +2624,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1097398882, 2004-10-10 09:01:22\n140 total Tera Shards\nx20 Grass Tera Shard\nx16 Grass Tera Shard\nx12 Electric Tera Shard\nx14 Stellar Tera Shard\nx10 Steel Tera Shard\nx14 Grass Tera Shard\nx17 Electric Tera Shard\nx17 Ice Tera Shard\nx1 Ether\nx20 Flying Tera Shard"
 	},
 	{
@@ -2397,6 +2670,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1819930382, 2027-09-03 00:13:02\n157 total Tera Shards\nx17 Normal Tera Shard\nx19 Flying Tera Shard\nx20 Flying Tera Shard\nx16 Ground Tera Shard\nx17 Poison Tera Shard\nx9 Big Bamboo Shoot\nx19 Grass Tera Shard\nx16 Bug Tera Shard\nx16 Fairy Tera Shard\nx17 Psychic Tera Shard"
 	},
 	{
@@ -2440,6 +2716,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1810453955, 2027-05-16 07:52:35\n152 total Tera Shards\nx14 Dragon Tera Shard\nx15 Stellar Tera Shard\nx17 Dragon Tera Shard\nx1 Revive\nx20 Ghost Tera Shard\nx15 Fairy Tera Shard\nx20 Water Tera Shard\nx18 Ice Tera Shard\nx16 Normal Tera Shard\nx17 Fire Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -2475,6 +2754,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1807475931, 2027-04-11 20:38:51\n148 total Tera Shards\nx19 Grass Tera Shard\nx6 Psychic Tera Shard\nx16 Fire Tera Shard\nx18 Grass Tera Shard\nx15 Grass Tera Shard\nx20 Ghost Tera Shard\nx20 Poison Tera Shard\nx16 Fighting Tera Shard\nx2 Metronome\nx18 Fighting Tera Shard"
 	},
 	{
@@ -2522,6 +2804,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1802455938, 2027-02-12 18:12:18\n144 total Tera Shards\nx19 Fire Tera Shard\nx16 Normal Tera Shard\nx20 Dragon Tera Shard\nx16 Poison Tera Shard\nx19 Electric Tera Shard\nx20 Ice Tera Shard\nx17 Bug Tera Shard\nx3 Leaf Stone\nx1 Magnet\nx17 Ghost Tera Shard"
 	},
 	{
@@ -2565,6 +2850,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2847345991, 2060-03-24 09:26:31\n148 total Tera Shards\nx20 Fairy Tera Shard\nx19 Ice Tera Shard\nx4 Big Nugget\nx18 Fighting Tera Shard\nx19 Electric Tera Shard\nx15 Ghost Tera Shard\nx20 Normal Tera Shard\nx1 Star Sweet\nx20 Bug Tera Shard\nx17 Ice Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -2604,6 +2892,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2606894879, 2052-08-10 09:27:59\n143 total Tera Shards\nx16 Bug Tera Shard\nx9 Electric Tera Shard\nx17 Bug Tera Shard\nx15 Flying Tera Shard\nx1 Metronome\nx19 Fire Tera Shard\nx20 Electric Tera Shard\nx14 Psychic Tera Shard\nx20 Ghost Tera Shard\nx13 Dragon Tera Shard"
 	},
 	{
@@ -2635,6 +2926,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2566409575, 2051-04-29 19:32:55\n140 total Tera Shards\nx18 Fairy Tera Shard\nx13 Flying Tera Shard\nx16 Dragon Tera Shard\nx15 Psychic Tera Shard\nx6 Psychic Tera Shard\nx18 Poison Tera Shard\nx17 Poison Tera Shard\nx2 Spell Tag\nx20 Psychic Tera Shard\nx17 Fairy Tera Shard"
 	},
 	{
@@ -2678,6 +2972,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1541955602, 2018-11-11 17:00:02\n140 total Tera Shards\nx20 Ground Tera Shard\nx2 Razor Fang\nx8 Electric Tera Shard\nx20 Electric Tera Shard\nx20 Dragon Tera Shard\nx3 Oval Stone\nx19 Water Tera Shard\nx20 Rock Tera Shard\nx19 Normal Tera Shard\nx14 Poison Tera Shard"
 	},
 	{
@@ -2717,6 +3014,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1523992876, 2018-04-17 19:21:16\n143 total Tera Shards\nx16 Fighting Tera Shard\nx14 Fighting Tera Shard\nx15 Stellar Tera Shard\nx1 Air Balloon\nx16 Bug Tera Shard\nx15 Fairy Tera Shard\nx17 Dragon Tera Shard\nx14 Ghost Tera Shard\nx17 Fairy Tera Shard\nx19 Psychic Tera Shard"
 	},
 	{
@@ -2760,6 +3060,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 10,
 		"raw": "1513841102, 2017-12-21 07:25:02\n142 total Tera Shards\nx10 Stellar Tera Shard\nx16 Steel Tera Shard\nx17 Dragon Tera Shard\nx17 Electric Tera Shard\nx19 Electric Tera Shard\nx16 Flying Tera Shard\nx1 Strawberry Sweet\nx19 Dark Tera Shard\nx13 Fire Tera Shard\nx15 Ice Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -2795,6 +3098,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 10,
 		"raw": "1502859173, 2017-08-16 04:52:53\n145 total Tera Shards\nx18 Ghost Tera Shard\nx9 Rock Tera Shard\nx18 Electric Tera Shard\nx18 Dark Tera Shard\nx20 Rock Tera Shard\nx18 Ghost Tera Shard\nx11 Fire Tera Shard\nx7 Bug Tera Shard\nx18 Psychic Tera Shard\nx8 Dark Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -2842,6 +3148,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1501612379, 2017-08-01 18:32:59\n145 total Tera Shards\nx20 Ice Tera Shard\nx17 Rock Tera Shard\nx2 Max Revive\nx2 Moon Stone\nx20 Dragon Tera Shard\nx15 Steel Tera Shard\nx19 Flying Tera Shard\nx19 Normal Tera Shard\nx17 Fire Tera Shard\nx18 Dark Tera Shard"
 	},
 	{
@@ -2877,6 +3186,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1490981528, 2017-03-31 17:32:08\n147 total Tera Shards\nx12 Bug Tera Shard\nx13 Ice Tera Shard\nx18 Poison Tera Shard\nx12 Fire Tera Shard\nx18 Fire Tera Shard\nx14 Psychic Tera Shard\nx20 Bug Tera Shard\nx5 Pearl\nx20 Psychic Tera Shard\nx20 Water Tera Shard"
 	},
 	{
@@ -2920,6 +3232,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1474120070, 2016-09-17 13:47:50\n141 total Tera Shards\nx15 Poison Tera Shard\nx20 Normal Tera Shard\nx2 Magmarizer\nx16 Ground Tera Shard\nx18 Ice Tera Shard\nx16 Fire Tera Shard\nx14 Steel Tera Shard\nx17 Ice Tera Shard\nx14 Grass Tera Shard\nx11 Psychic Tera Shard"
 	},
 	{
@@ -2963,6 +3278,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2126368738, 2037-05-19 17:58:58\n143 total Tera Shards\nx16 Rock Tera Shard\nx17 Normal Tera Shard\nx16 Dragon Tera Shard\nx19 Fairy Tera Shard\nx20 Bug Tera Shard\nx1 Carbos\nx5 Big Nugget\nx18 Normal Tera Shard\nx17 Flying Tera Shard\nx20 Dark Tera Shard"
 	},
 	{
@@ -3006,6 +3324,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 11,
 		"raw": "2083384390, 2036-01-08 05:53:10\n146 total Tera Shards\nx19 Flying Tera Shard\nx3 Ether\nx16 Flying Tera Shard\nx13 Poison Tera Shard\nx20 Steel Tera Shard\nx20 Fairy Tera Shard\nx13 Dragon Tera Shard\nx17 Psychic Tera Shard\nx20 Water Tera Shard\nx8 Fairy Tera Shard\n--> Print 1 in regular mode to trigger item bonus.\nx1 Silk Scarf"
 	},
 	{
@@ -3049,6 +3370,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 10,
 		"raw": "2074288818, 2035-09-24 23:20:18\n140 total Tera Shards\nx20 Dark Tera Shard\nx18 Fairy Tera Shard\nx2 Zinc\nx18 Psychic Tera Shard\nx16 Fighting Tera Shard\nx13 Fire Tera Shard\nx17 Electric Tera Shard\nx19 Normal Tera Shard\nx2 Cracked Pot\nx19 Fighting Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -3088,6 +3412,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "975006401, 2000-11-23 19:06:41\n140 total Tera Shards\nx20 Dark Tera Shard\nx20 Normal Tera Shard\nx19 Dark Tera Shard\nx1 Flame Orb\nx20 Fire Tera Shard\nx17 Ghost Tera Shard\nx18 Fairy Tera Shard\nx5 Big Bamboo Shoot\nx18 Fairy Tera Shard\nx8 Poison Tera Shard"
 	},
 	{
@@ -3127,6 +3454,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "968018799, 2000-09-03 22:06:39\n146 total Tera Shards\nx20 Normal Tera Shard\nx20 Bug Tera Shard\nx14 Ghost Tera Shard\nx15 Bug Tera Shard\nx17 Dragon Tera Shard\nx4 Max Ether\nx18 Water Tera Shard\nx10 Flying Tera Shard\nx17 Water Tera Shard\nx15 Electric Tera Shard"
 	},
 	{
@@ -3170,6 +3500,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2387001714, 2045-08-22 08:01:54\n140 total Tera Shards\nx4 Full Restore\nx19 Dark Tera Shard\nx20 Dragon Tera Shard\nx1 Focus Band\nx19 Dark Tera Shard\nx15 Poison Tera Shard\nx19 Water Tera Shard\nx16 Ground Tera Shard\nx18 Rock Tera Shard\nx14 Fire Tera Shard"
 	},
 	{
@@ -3217,6 +3550,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 10,
 		"raw": "2359699561, 2044-10-10 08:06:01\n147 total Tera Shards\nx5 PP Up\nx17 Water Tera Shard\nx16 Electric Tera Shard\nx20 Fairy Tera Shard\nx20 Ghost Tera Shard\nx2 Poison Barb\nx19 Ice Tera Shard\nx15 Steel Tera Shard\nx20 Normal Tera Shard\nx20 Rock Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -3256,6 +3592,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 10,
 		"raw": "1706133943, 2024-01-24 22:05:43\n140 total Tera Shards\nx16 Poison Tera Shard\nx6 Exp. Candy S\nx20 Water Tera Shard\nx8 Dark Tera Shard\nx17 Fairy Tera Shard\nx19 Electric Tera Shard\nx18 Rock Tera Shard\nx14 Steel Tera Shard\nx11 Electric Tera Shard\nx17 Fairy Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -3303,6 +3642,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1664640177, 2022-10-01 16:02:57\n151 total Tera Shards\nx20 Electric Tera Shard\nx14 Stellar Tera Shard\nx16 Fighting Tera Shard\nx19 Dragon Tera Shard\nx20 Psychic Tera Shard\nx3 Max Revive\nx13 Fire Tera Shard\nx14 Normal Tera Shard\nx20 Flying Tera Shard\nx15 Grass Tera Shard"
 	},
 	{
@@ -3342,6 +3684,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2528053407, 2050-02-09 21:03:27\n142 total Tera Shards\nx16 Grass Tera Shard\nx10 Steel Tera Shard\nx9 Rock Tera Shard\nx15 Dragon Tera Shard\nx20 Dark Tera Shard\nx20 Steel Tera Shard\nx17 Poison Tera Shard\nx15 Grass Tera Shard\nx20 Ghost Tera Shard\nx9 Pearl"
 	},
 	{
@@ -3373,6 +3718,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 10,
 		"raw": "2476381570, 2048-06-21 19:46:10\n149 total Tera Shards\nx18 Electric Tera Shard\nx12 Psychic Tera Shard\nx14 Steel Tera Shard\nx16 Rock Tera Shard\nx14 Psychic Tera Shard\nx14 Rock Tera Shard\nx17 Psychic Tera Shard\nx19 Psychic Tera Shard\nx6 Normal Tera Shard\nx19 Bug Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -3412,6 +3760,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2462622834, 2048-01-14 13:53:54\n140 total Tera Shards\nx14 Psychic Tera Shard\nx16 Grass Tera Shard\nx11 Fire Tera Shard\nx13 Fairy Tera Shard\nx16 Ghost Tera Shard\nx6 Exp. Candy XS\nx16 Fairy Tera Shard\nx20 Fire Tera Shard\nx15 Dragon Tera Shard\nx19 Water Tera Shard"
 	},
 	{
@@ -3455,6 +3806,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2451639349, 2047-09-09 10:55:49\n140 total Tera Shards\nx19 Dark Tera Shard\nx10 Rock Tera Shard\nx15 Poison Tera Shard\nx2 Strawberry Sweet\nx19 Water Tera Shard\nx20 Flying Tera Shard\nx19 Bug Tera Shard\nx19 Normal Tera Shard\nx2 Razor Fang\nx19 Rock Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -3494,6 +3848,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 10,
 		"raw": "1993100944, 2033-02-27 07:09:04\n146 total Tera Shards\nx19 Psychic Tera Shard\nx19 Rock Tera Shard\nx12 Fighting Tera Shard\nx8 Rare Bone\nx18 Fairy Tera Shard\nx15 Ice Tera Shard\nx19 Ice Tera Shard\nx10 Fire Tera Shard\nx17 Poison Tera Shard\nx17 Psychic Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -3537,6 +3894,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1992460523, 2033-02-19 21:15:23\n141 total Tera Shards\nx19 Grass Tera Shard\nx20 Fire Tera Shard\nx20 Fairy Tera Shard\nx18 Psychic Tera Shard\nx10 Exp. Candy M\nx20 Steel Tera Shard\nx18 Steel Tera Shard\nx11 Normal Tera Shard\nx1 Hyper Potion\nx15 Rock Tera Shard"
 	},
 	{
@@ -3580,6 +3940,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1968574350, 2032-05-19 10:12:30\n141 total Tera Shards\nx17 Ghost Tera Shard\nx18 Normal Tera Shard\nx20 Grass Tera Shard\nx8 Big Bamboo Shoot\nx10 Bug Tera Shard\nx20 Fighting Tera Shard\nx17 Ice Tera Shard\nx20 Water Tera Shard\nx2 Elixir\nx19 Ice Tera Shard"
 	},
 	{
@@ -3627,6 +3990,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1924222284, 2030-12-23 02:11:24\n152 total Tera Shards\nx15 Steel Tera Shard\nx10 Exp. Candy M\nx19 Normal Tera Shard\nx19 Bug Tera Shard\nx14 Fire Tera Shard\nx12 Water Tera Shard\nx18 Psychic Tera Shard\nx18 Fairy Tera Shard\nx19 Rock Tera Shard\nx18 Poison Tera Shard"
 	},
 	{
@@ -3666,6 +4032,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1917781221, 2030-10-09 13:00:21\n143 total Tera Shards\nx4 Elixir\nx1 Light Clay\nx15 Dragon Tera Shard\nx19 Steel Tera Shard\nx16 Normal Tera Shard\nx20 Rock Tera Shard\nx20 Fire Tera Shard\nx19 Dragon Tera Shard\nx15 Flying Tera Shard\nx19 Normal Tera Shard"
 	},
 	{
@@ -3705,6 +4074,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1915571227, 2030-09-13 23:07:07\n145 total Tera Shards\nx18 Dragon Tera Shard\nx16 Grass Tera Shard\nx20 Dark Tera Shard\nx20 Fire Tera Shard\nx8 Rare Bone\nx8 Pretty Feather\nx19 Fire Tera Shard\nx16 Poison Tera Shard\nx18 Fire Tera Shard\nx18 Normal Tera Shard"
 	},
 	{
@@ -3744,6 +4116,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1880854442, 2029-08-08 03:34:02\n144 total Tera Shards\nx17 Ghost Tera Shard\nx17 Bug Tera Shard\nx15 Electric Tera Shard\nx14 Grass Tera Shard\nx10 Pearl\nx9 Ground Tera Shard\nx15 Dragon Tera Shard\nx17 Dragon Tera Shard\nx20 Ground Tera Shard\nx20 Fighting Tera Shard"
 	},
 	{
@@ -3775,6 +4150,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1866565681, 2029-02-23 18:28:01\n140 total Tera Shards\nx12 Electric Tera Shard\nx15 Electric Tera Shard\nx16 Grass Tera Shard\nx9 Grass Tera Shard\nx17 Rock Tera Shard\nx20 Fairy Tera Shard\nx11 Electric Tera Shard\nx20 Fire Tera Shard\nx5 Big Pearl\nx20 Rock Tera Shard"
 	},
 	{
@@ -3822,6 +4200,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1439684452, 2015-08-16 00:20:52\n142 total Tera Shards\nx16 Ice Tera Shard\nx18 Dragon Tera Shard\nx16 Psychic Tera Shard\nx17 Ghost Tera Shard\nx16 Rock Tera Shard\nx15 Dark Tera Shard\nx17 Fairy Tera Shard\nx2 Poison Barb\nx10 Fighting Tera Shard\nx17 Ground Tera Shard"
 	},
 	{
@@ -3865,6 +4246,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1415172074, 2014-11-05 07:21:14\n142 total Tera Shards\nx19 Rock Tera Shard\nx16 Dark Tera Shard\nx20 Ice Tera Shard\nx19 Grass Tera Shard\nx17 Flying Tera Shard\nx16 Poison Tera Shard\nx17 Normal Tera Shard\nx2 Pearl String\nx2 Exp. Candy XL\nx18 Normal Tera Shard"
 	},
 	{
@@ -3904,6 +4288,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1392583334, 2014-02-16 20:42:14\n145 total Tera Shards\nx19 Electric Tera Shard\nx9 Bug Tera Shard\nx11 Exp. Candy S\nx17 Fairy Tera Shard\nx19 Electric Tera Shard\nx12 Ghost Tera Shard\nx15 Ground Tera Shard\nx17 Water Tera Shard\nx17 Ghost Tera Shard\nx20 Ice Tera Shard"
 	},
 	{
@@ -3939,6 +4326,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 10,
 		"raw": "1377356013, 2013-08-24 14:53:33\n150 total Tera Shards\nx19 Grass Tera Shard\nx18 Poison Tera Shard\nx15 Ground Tera Shard\nx8 Rare Bone\nx20 Normal Tera Shard\nx14 Ghost Tera Shard\nx10 Ghost Tera Shard\nx19 Dark Tera Shard\nx15 Dark Tera Shard\nx20 Ghost Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -3982,6 +4372,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1363430655, 2013-03-16 10:44:15\n140 total Tera Shards\nx16 Dark Tera Shard\nx9 Fighting Tera Shard\nx1 Focus Band\nx20 Normal Tera Shard\nx18 Fire Tera Shard\nx20 Normal Tera Shard\nx20 Psychic Tera Shard\nx17 Ghost Tera Shard\nx20 Rock Tera Shard\nx3 Sun Stone"
 	},
 	{
@@ -4025,6 +4418,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2256210016, 2041-06-30 13:00:16\n142 total Tera Shards\nx20 Electric Tera Shard\nx7 Ground Tera Shard\nx17 Ghost Tera Shard\nx20 Steel Tera Shard\nx19 Fighting Tera Shard\nx12 Psychic Tera Shard\nx15 Poison Tera Shard\nx1 Dragon Scale\nx20 Fairy Tera Shard\nx12 Ground Tera Shard"
 	},
 	{
@@ -4060,6 +4456,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1202770415, 2008-02-11 22:53:35\n140 total Tera Shards\nx1 Sharp Beak\nx18 Rock Tera Shard\nx11 Ground Tera Shard\nx15 Ice Tera Shard\nx9 Ghost Tera Shard\nx16 Ground Tera Shard\nx17 Dark Tera Shard\nx20 Ice Tera Shard\nx14 Normal Tera Shard\nx20 Normal Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -4107,6 +4506,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1177718649, 2007-04-28 00:04:09\n144 total Tera Shards\nx19 Bug Tera Shard\nx6 Ice Tera Shard\nx20 Fighting Tera Shard\nx11 Fairy Tera Shard\nx18 Rock Tera Shard\nx6 Poison Tera Shard\nx20 Steel Tera Shard\nx7 Ground Tera Shard\nx20 Ghost Tera Shard\nx17 Normal Tera Shard"
 	},
 	{
@@ -4146,6 +4548,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1155440696, 2006-08-13 03:44:56\n146 total Tera Shards\nx4 Max Revive\nx17 Steel Tera Shard\nx18 Dragon Tera Shard\nx15 Ice Tera Shard\nx19 Dark Tera Shard\nx19 Ice Tera Shard\nx1 Exp. Candy XL\nx18 Ghost Tera Shard\nx20 Steel Tera Shard\nx20 Grass Tera Shard"
 	},
 	{
@@ -4181,6 +4586,9 @@
 				"quantity": 11
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2214356144, 2040-03-03 02:55:44\n145 total Tera Shards\nx12 Ghost Tera Shard\nx5 Ghost Tera Shard\nx17 Ice Tera Shard\nx17 Grass Tera Shard\nx19 Water Tera Shard\nx11 Fire Tera Shard\nx12 Bug Tera Shard\nx16 Grass Tera Shard\nx17 Poison Tera Shard\nx19 Grass Tera Shard"
 	},
 	{
@@ -4220,6 +4628,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2212982075, 2040-02-16 05:14:35\n146 total Tera Shards\nx20 Fire Tera Shard\nx19 Psychic Tera Shard\nx13 Ghost Tera Shard\nx2 Calcium\nx19 Dark Tera Shard\nx18 Ground Tera Shard\nx14 Stellar Tera Shard\nx13 Ghost Tera Shard\nx14 Ghost Tera Shard\nx16 Bug Tera Shard"
 	},
 	{
@@ -4259,6 +4670,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2212022370, 2040-02-05 02:39:30\n143 total Tera Shards\nx16 Electric Tera Shard\nx1 PP Max\nx20 Poison Tera Shard\nx20 Fighting Tera Shard\nx6 Stardust\nx20 Rock Tera Shard\nx16 Electric Tera Shard\nx15 Dragon Tera Shard\nx17 Fairy Tera Shard\nx19 Dragon Tera Shard"
 	},
 	{
@@ -4298,6 +4712,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2200029325, 2039-09-19 07:15:25\n142 total Tera Shards\nx19 Grass Tera Shard\nx17 Bug Tera Shard\nx19 Rock Tera Shard\nx16 Flying Tera Shard\nx19 Dark Tera Shard\nx16 Ghost Tera Shard\nx1 Sun Stone\nx4 Max Potion\nx20 Rock Tera Shard\nx16 Flying Tera Shard"
 	},
 	{
@@ -4341,6 +4758,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2160010800, 2038-06-13 03:00:00\n140 total Tera Shards\nx17 Steel Tera Shard\nx9 Grass Tera Shard\nx20 Electric Tera Shard\nx12 Dragon Tera Shard\nx18 Rock Tera Shard\nx18 Ghost Tera Shard\nx19 Fire Tera Shard\nx13 Ghost Tera Shard\nx14 Normal Tera Shard\nx5 PP Up\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -4384,6 +4804,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "2154966633, 2038-04-15 17:50:33\n147 total Tera Shards\nx13 Poison Tera Shard\nx3 Thunder Stone\nx20 Rock Tera Shard\nx20 Steel Tera Shard\nx15 Psychic Tera Shard\nx19 Flying Tera Shard\nx15 Rock Tera Shard\nx10 Ground Tera Shard\nx18 Dark Tera Shard\nx17 Fighting Tera Shard"
 	},
 	{
@@ -4423,6 +4846,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
 		"raw": "1250763689, 2009-08-20 10:21:29\n140 total Tera Shards\nx19 Rock Tera Shard\nx16 Psychic Tera Shard\nx9 Rock Tera Shard\nx1 PP Up\nx17 Normal Tera Shard\nx20 Normal Tera Shard\nx11 Bug Tera Shard\nx12 Stellar Tera Shard\nx20 Grass Tera Shard\nx16 Water Tera Shard"
 	},
 	{
@@ -4438,6 +4864,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1620159729, 2021-05-04 20:22:09\n63 Normal Tera Shards, 63 total Tera Shards\nx13 Normal Tera Shard\nx16 Normal Tera Shard\nx18 Normal Tera Shard\nx16 Normal Tera Shard\nx1 Heavy-Duty Boots"
 	},
 	{
@@ -4457,6 +4886,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1532404909, 2018-07-24 04:01:49\n60 Normal Tera Shards, 60 total Tera Shards\nx2 Protector\nx20 Normal Tera Shard\nx20 Normal Tera Shard\nx20 Normal Tera Shard\nx5 Nugget\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -4472,6 +4904,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1116689456, 2005-05-21 15:30:56\n71 Normal Tera Shards, 71 total Tera Shards\nx1 Calcium\nx17 Normal Tera Shard\nx18 Normal Tera Shard\nx18 Normal Tera Shard\nx18 Normal Tera Shard"
 	},
 	{
@@ -4487,6 +4922,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2584431456, 2051-11-24 09:37:36\n61 Normal Tera Shards, 61 total Tera Shards\nx8 Normal Tera Shard\nx14 Normal Tera Shard\nx19 Normal Tera Shard\nx10 Exp. Candy L\nx20 Normal Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -4506,6 +4944,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2382234012, 2045-06-28 03:40:12\n60 Normal Tera Shards, 60 total Tera Shards\nx20 Normal Tera Shard\nx1 Ribbon Sweet\nx20 Normal Tera Shard\nx20 Normal Tera Shard\nx1 Ability Patch"
 	},
 	{
@@ -4521,6 +4962,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2656176905, 2054-03-03 18:55:05\n60 Normal Tera Shards, 60 total Tera Shards\nx15 Normal Tera Shard\nx9 Normal Tera Shard\nx2 Upgrade\nx18 Normal Tera Shard\nx18 Normal Tera Shard"
 	},
 	{
@@ -4532,6 +4976,9 @@
 				"quantity": 67
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2246577010, 2041-03-11 01:10:10\n67 Normal Tera Shards, 67 total Tera Shards\nx20 Normal Tera Shard\nx14 Normal Tera Shard\nx8 Normal Tera Shard\nx19 Normal Tera Shard\nx6 Normal Tera Shard"
 	},
 	{
@@ -4551,6 +4998,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2168027019, 2038-09-13 21:43:39\n60 Normal Tera Shards, 78 total Tera Shards\nx2 Loaded Dice\nx20 Normal Tera Shard\nx18 Water Tera Shard\nx20 Normal Tera Shard\nx20 Normal Tera Shard"
 	},
 	{
@@ -4566,6 +5016,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1238873395, 2009-04-04 19:29:55\n60 Normal Tera Shards, 60 total Tera Shards\nx5 Big Pearl\nx16 Normal Tera Shard\nx20 Normal Tera Shard\nx15 Normal Tera Shard\nx9 Normal Tera Shard"
 	},
 	{
@@ -4585,6 +5038,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1171409762, 2007-02-13 23:36:02\n60 Normal Tera Shards, 77 total Tera Shards\nx20 Normal Tera Shard\nx17 Grass Tera Shard\nx20 Normal Tera Shard\nx2 Love Sweet\nx20 Normal Tera Shard"
 	},
 	{
@@ -4600,6 +5056,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1161074371, 2006-10-17 08:39:31\n61 Normal Tera Shards, 61 total Tera Shards\nx5 Normal Tera Shard\nx8 Big Bamboo Shoot\nx20 Normal Tera Shard\nx17 Normal Tera Shard\nx19 Normal Tera Shard"
 	},
 	{
@@ -4615,6 +5074,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2059832076, 2035-04-10 15:34:36\n65 Normal Tera Shards, 65 total Tera Shards\nx20 Normal Tera Shard\nx14 Normal Tera Shard\nx20 Normal Tera Shard\nx11 Normal Tera Shard\nx4 Big Pearl"
 	},
 	{
@@ -4634,6 +5096,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2332425080, 2043-11-29 15:51:20\n60 Fire Tera Shards, 60 total Tera Shards\nx20 Fire Tera Shard\nx1 Covert Cloak\nx20 Fire Tera Shard\nx20 Fire Tera Shard\nx2 Flower Sweet"
 	},
 	{
@@ -4649,6 +5114,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2318569574, 2043-06-22 07:06:14\n60 Fire Tera Shards, 60 total Tera Shards\nx14 Fire Tera Shard\nx6 Tiny Mushroom\nx9 Fire Tera Shard\nx20 Fire Tera Shard\nx17 Fire Tera Shard"
 	},
 	{
@@ -4664,6 +5132,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2442824593, 2047-05-30 10:23:13\n60 Fire Tera Shards, 60 total Tera Shards\nx11 Fire Tera Shard\nx1 Spell Tag\nx13 Fire Tera Shard\nx18 Fire Tera Shard\nx18 Fire Tera Shard"
 	},
 	{
@@ -4679,6 +5150,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2407271395, 2046-04-13 22:29:55\n65 Fire Tera Shards, 65 total Tera Shards\nx17 Fire Tera Shard\nx17 Fire Tera Shard\nx20 Fire Tera Shard\nx11 Fire Tera Shard\nx1 Everstone"
 	},
 	{
@@ -4698,6 +5172,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2405043149, 2046-03-19 03:32:29\n60 Fire Tera Shards, 60 total Tera Shards\nx20 Fire Tera Shard\nx20 Fire Tera Shard\nx20 Fire Tera Shard\nx2 Revive\nx2 Silk Scarf"
 	},
 	{
@@ -4713,6 +5190,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2669513710, 2054-08-05 03:35:10\n74 Fire Tera Shards, 74 total Tera Shards\nx20 Fire Tera Shard\nx18 Fire Tera Shard\nx20 Fire Tera Shard\nx16 Fire Tera Shard\nx10 Honey"
 	},
 	{
@@ -4728,6 +5208,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1830691016, 2028-01-05 13:16:56\n60 Fire Tera Shards, 60 total Tera Shards\nx17 Fire Tera Shard\nx20 Fire Tera Shard\nx8 Pearl\nx11 Fire Tera Shard\nx12 Fire Tera Shard"
 	},
 	{
@@ -4747,6 +5230,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1799105524, 2027-01-04 23:32:04\n60 Fire Tera Shards, 74 total Tera Shards\nx20 Fire Tera Shard\nx20 Fire Tera Shard\nx14 Steel Tera Shard\nx20 Fire Tera Shard\nx3 Max Elixir"
 	},
 	{
@@ -4762,6 +5248,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1938578183, 2031-06-07 05:56:23\n63 Fire Tera Shards, 63 total Tera Shards\nx5 Exp. Candy M\nx19 Fire Tera Shard\nx14 Fire Tera Shard\nx16 Fire Tera Shard\nx14 Fire Tera Shard"
 	},
 	{
@@ -4777,6 +5266,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1938066389, 2031-06-01 07:46:29\n61 Fire Tera Shards, 61 total Tera Shards\nx11 Fire Tera Shard\nx2 Moon Stone\nx20 Fire Tera Shard\nx12 Fire Tera Shard\nx18 Fire Tera Shard"
 	},
 	{
@@ -4792,6 +5284,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2583899239, 2051-11-18 05:47:19\n67 Fire Tera Shards, 67 total Tera Shards\nx16 Fire Tera Shard\nx19 Fire Tera Shard\nx14 Fire Tera Shard\nx18 Fire Tera Shard\nx7 Exp. Candy XS"
 	},
 	{
@@ -4811,6 +5306,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1581706262, 2020-02-14 18:51:02\n60 Fire Tera Shards, 72 total Tera Shards\nx20 Fire Tera Shard\nx12 Poison Tera Shard\nx20 Fire Tera Shard\nx2 Black Glasses\nx20 Fire Tera Shard"
 	},
 	{
@@ -4826,6 +5324,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2132473510, 2037-07-29 09:45:10\n63 Fire Tera Shards, 63 total Tera Shards\nx1 Light Clay\nx20 Fire Tera Shard\nx16 Fire Tera Shard\nx7 Fire Tera Shard\nx20 Fire Tera Shard"
 	},
 	{
@@ -4841,6 +5342,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2104069062, 2036-09-03 15:37:42\n63 Fire Tera Shards, 63 total Tera Shards\nx11 Fire Tera Shard\nx9 Rare Bone\nx15 Fire Tera Shard\nx20 Fire Tera Shard\nx17 Fire Tera Shard"
 	},
 	{
@@ -4856,6 +5360,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2526612421, 2050-01-24 04:47:01\n66 Fire Tera Shards, 66 total Tera Shards\nx17 Fire Tera Shard\nx16 Fire Tera Shard\nx19 Fire Tera Shard\nx3 Iron\nx14 Fire Tera Shard"
 	},
 	{
@@ -4871,6 +5378,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2457647833, 2047-11-17 23:57:13\n68 Fire Tera Shards, 68 total Tera Shards\nx18 Fire Tera Shard\nx18 Fire Tera Shard\nx19 Fire Tera Shard\nx13 Fire Tera Shard\nx1 Love Sweet"
 	},
 	{
@@ -4886,6 +5396,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2455478508, 2047-10-23 21:21:48\n60 Fire Tera Shards, 60 total Tera Shards\nx18 Fire Tera Shard\nx17 Fire Tera Shard\nx3 Iron\nx20 Fire Tera Shard\nx5 Fire Tera Shard"
 	},
 	{
@@ -4901,6 +5414,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2183487865, 2039-03-11 20:24:25\n67 Fire Tera Shards, 67 total Tera Shards\nx20 Fire Tera Shard\nx5 Ether\nx17 Fire Tera Shard\nx16 Fire Tera Shard\nx14 Fire Tera Shard"
 	},
 	{
@@ -4916,6 +5432,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1156142024, 2006-08-21 06:33:44\n62 Fire Tera Shards, 62 total Tera Shards\nx2 Mystic Water\nx16 Fire Tera Shard\nx15 Fire Tera Shard\nx14 Fire Tera Shard\nx17 Fire Tera Shard"
 	},
 	{
@@ -4935,6 +5454,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1051233592, 2003-04-25 01:19:52\n60 Fire Tera Shards, 72 total Tera Shards\nx12 Fairy Tera Shard\nx20 Fire Tera Shard\nx8 Exp. Candy L\nx20 Fire Tera Shard\nx20 Fire Tera Shard"
 	},
 	{
@@ -4954,6 +5476,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2705180748, 2055-09-21 23:05:48\n60 Water Tera Shards, 60 total Tera Shards\nx20 Water Tera Shard\nx20 Water Tera Shard\nx2 Zinc\nx20 Water Tera Shard\nx2 Calcium"
 	},
 	{
@@ -4973,6 +5498,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1944028792, 2031-08-09 07:59:52\n60 Water Tera Shards, 60 total Tera Shards\nx1 Super Potion\nx2 Focus Band\nx20 Water Tera Shard\nx20 Water Tera Shard\nx20 Water Tera Shard"
 	},
 	{
@@ -4992,6 +5520,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2037369770, 2034-07-24 16:02:50\n60 Water Tera Shards, 66 total Tera Shards\nx20 Water Tera Shard\nx20 Water Tera Shard\nx6 Stellar Tera Shard\nx1 Cracked Pot\nx20 Water Tera Shard"
 	},
 	{
@@ -5007,6 +5538,9 @@
 				"quantity": 13
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2606254987, 2052-08-02 23:43:07\n65 Water Tera Shards, 78 total Tera Shards\nx20 Water Tera Shard\nx9 Water Tera Shard\nx13 Ghost Tera Shard\nx19 Water Tera Shard\nx17 Water Tera Shard"
 	},
 	{
@@ -5022,6 +5556,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2585110513, 2051-12-02 06:15:13\n60 Water Tera Shards, 60 total Tera Shards\nx4 Pearl String\nx20 Water Tera Shard\nx10 Water Tera Shard\nx11 Water Tera Shard\nx19 Water Tera Shard"
 	},
 	{
@@ -5041,6 +5578,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2854895633, 2060-06-19 18:33:53\n60 Water Tera Shards, 60 total Tera Shards\nx1 Calcium\nx20 Water Tera Shard\nx20 Water Tera Shard\nx9 Stardust\nx20 Water Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -5060,6 +5600,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2419526534, 2046-09-02 18:42:14\n60 Water Tera Shards, 77 total Tera Shards\nx20 Water Tera Shard\nx4 Full Restore\nx20 Water Tera Shard\nx17 Flying Tera Shard\nx20 Water Tera Shard"
 	},
 	{
@@ -5075,6 +5618,9 @@
 				"quantity": 16
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1008478631, 2001-12-16 04:57:11\n62 Water Tera Shards, 78 total Tera Shards\nx19 Water Tera Shard\nx9 Water Tera Shard\nx16 Bug Tera Shard\nx18 Water Tera Shard\nx16 Water Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -5090,6 +5636,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1587759185, 2020-04-24 20:13:05\n60 Water Tera Shards, 60 total Tera Shards\nx11 Water Tera Shard\nx15 Water Tera Shard\nx16 Water Tera Shard\nx18 Water Tera Shard\nx1 Black Glasses"
 	},
 	{
@@ -5109,6 +5658,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2308252206, 2043-02-22 21:10:06\n60 Water Tera Shards, 60 total Tera Shards\nx6 Big Bamboo Shoot\nx20 Water Tera Shard\nx20 Water Tera Shard\nx1 Max Potion\nx20 Water Tera Shard"
 	},
 	{
@@ -5124,6 +5676,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1841229082, 2028-05-06 12:31:22\n62 Water Tera Shards, 62 total Tera Shards\nx9 Tiny Mushroom\nx19 Water Tera Shard\nx14 Water Tera Shard\nx14 Water Tera Shard\nx15 Water Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -5139,6 +5694,9 @@
 				"quantity": 15
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1808402505, 2027-04-22 14:01:45\n66 Water Tera Shards, 81 total Tera Shards\nx20 Water Tera Shard\nx13 Water Tera Shard\nx18 Water Tera Shard\nx15 Steel Tera Shard\nx15 Water Tera Shard"
 	},
 	{
@@ -5154,6 +5712,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1120095139, 2005-06-30 01:32:19\n74 Water Tera Shards, 74 total Tera Shards\nx17 Water Tera Shard\nx1 Max Potion\nx17 Water Tera Shard\nx20 Water Tera Shard\nx20 Water Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -5169,6 +5730,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1058041443, 2003-07-12 20:24:03\n66 Water Tera Shards, 66 total Tera Shards\nx19 Water Tera Shard\nx1 HP Up\nx18 Water Tera Shard\nx13 Water Tera Shard\nx16 Water Tera Shard"
 	},
 	{
@@ -5184,6 +5748,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1051363405, 2003-04-26 13:23:25\n63 Water Tera Shards, 63 total Tera Shards\nx19 Water Tera Shard\nx16 Water Tera Shard\nx20 Water Tera Shard\nx8 Water Tera Shard\nx5 Comet Shard"
 	},
 	{
@@ -5199,6 +5766,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2048953262, 2034-12-05 17:41:02\n70 Water Tera Shards, 70 total Tera Shards\nx20 Water Tera Shard\nx15 Water Tera Shard\nx2 Thunder Stone\nx16 Water Tera Shard\nx19 Water Tera Shard"
 	},
 	{
@@ -5214,6 +5784,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1432281714, 2015-05-22 08:01:54\n60 Water Tera Shards, 60 total Tera Shards\nx20 Water Tera Shard\nx2 Safety Goggles\nx14 Water Tera Shard\nx13 Water Tera Shard\nx13 Water Tera Shard"
 	},
 	{
@@ -5233,6 +5806,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 6,
 		"raw": "2828019509, 2059-08-13 16:58:29\n62 Electric Tera Shards, 62 total Tera Shards\nx14 Electric Tera Shard\nx18 Electric Tera Shard\nx20 Electric Tera Shard\nx10 Electric Tera Shard\nx2 Metronome\n--> Print 1 in regular mode to trigger ball bonus.\nx3 Everstone"
 	},
 	{
@@ -5252,6 +5828,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2725742614, 2056-05-16 22:43:34\n60 Electric Tera Shards, 60 total Tera Shards\nx20 Electric Tera Shard\nx20 Electric Tera Shard\nx20 Electric Tera Shard\nx1 Cracked Pot\nx6 Big Mushroom"
 	},
 	{
@@ -5267,6 +5846,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2701330462, 2055-08-08 09:34:22\n60 Electric Tera Shards, 60 total Tera Shards\nx14 Electric Tera Shard\nx19 Electric Tera Shard\nx7 Electric Tera Shard\nx20 Electric Tera Shard\nx1 Light Clay"
 	},
 	{
@@ -5286,6 +5868,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2518516822, 2049-10-22 12:00:22\n60 Electric Tera Shards, 60 total Tera Shards\nx4 Max Ether\nx20 Electric Tera Shard\nx8 Tiny Bamboo Shoot\nx20 Electric Tera Shard\nx20 Electric Tera Shard"
 	},
 	{
@@ -5305,6 +5890,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 6,
 		"raw": "2588755981, 2052-01-13 10:53:01\n61 Electric Tera Shards, 77 total Tera Shards\nx18 Electric Tera Shard\nx9 Electric Tera Shard\nx7 Big Bamboo Shoot\nx17 Electric Tera Shard\nx17 Electric Tera Shard\n--> Print 1 in regular mode to trigger item bonus.\nx16 Rock Tera Shard"
 	},
 	{
@@ -5324,6 +5912,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1387448346, 2013-12-19 10:19:06\n60 Electric Tera Shards, 60 total Tera Shards\nx20 Electric Tera Shard\nx3 Protein\nx20 Electric Tera Shard\nx1 Hard Stone\nx20 Electric Tera Shard"
 	},
 	{
@@ -5339,6 +5930,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1524647995, 2018-04-25 09:19:55\n63 Electric Tera Shards, 63 total Tera Shards\nx17 Electric Tera Shard\nx19 Electric Tera Shard\nx16 Electric Tera Shard\nx11 Electric Tera Shard\nx8 Tiny Bamboo Shoot"
 	},
 	{
@@ -5358,6 +5952,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1481859129, 2016-12-16 03:32:09\n60 Electric Tera Shards, 60 total Tera Shards\nx20 Electric Tera Shard\nx20 Electric Tera Shard\nx20 Electric Tera Shard\nx4 Elixir\nx4 Ether"
 	},
 	{
@@ -5377,6 +5974,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2237888679, 2040-11-30 11:44:39\n60 Electric Tera Shards, 77 total Tera Shards\nx2 Fire Stone\nx20 Electric Tera Shard\nx17 Fairy Tera Shard\nx20 Electric Tera Shard\nx20 Electric Tera Shard"
 	},
 	{
@@ -5392,6 +5992,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2236565556, 2040-11-15 04:12:36\n70 Electric Tera Shards, 70 total Tera Shards\nx19 Electric Tera Shard\nx4 Max Ether\nx19 Electric Tera Shard\nx12 Electric Tera Shard\nx20 Electric Tera Shard"
 	},
 	{
@@ -5407,6 +6010,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2228291807, 2040-08-11 09:56:47\n61 Electric Tera Shards, 61 total Tera Shards\nx20 Electric Tera Shard\nx10 Electric Tera Shard\nx5 Exp. Candy M\nx20 Electric Tera Shard\nx11 Electric Tera Shard"
 	},
 	{
@@ -5422,6 +6028,9 @@
 				"quantity": 12
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2174528937, 2038-11-28 03:48:57\n61 Electric Tera Shards, 73 total Tera Shards\nx19 Electric Tera Shard\nx17 Electric Tera Shard\nx13 Electric Tera Shard\nx12 Dragon Tera Shard\nx12 Electric Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -5437,6 +6046,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2065057890, 2035-06-10 03:11:30\n62 Electric Tera Shards, 71 total Tera Shards\nx10 Electric Tera Shard\nx9 Steel Tera Shard\nx18 Electric Tera Shard\nx14 Electric Tera Shard\nx20 Electric Tera Shard"
 	},
 	{
@@ -5456,6 +6068,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1759893528, 2025-10-08 03:18:48\n60 Electric Tera Shards, 60 total Tera Shards\nx7 Stardust\nx20 Electric Tera Shard\nx20 Electric Tera Shard\nx2 Hyper Potion\nx20 Electric Tera Shard"
 	},
 	{
@@ -5471,6 +6086,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1051133962, 2003-04-23 21:39:22\n61 Electric Tera Shards, 61 total Tera Shards\nx17 Electric Tera Shard\nx9 Electric Tera Shard\nx18 Electric Tera Shard\nx2 Max Ether\nx17 Electric Tera Shard"
 	},
 	{
@@ -5486,6 +6104,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "953269078, 2000-03-17 04:57:58\n63 Electric Tera Shards, 63 total Tera Shards\nx9 Tiny Bamboo Shoot\nx13 Electric Tera Shard\nx20 Electric Tera Shard\nx14 Electric Tera Shard\nx16 Electric Tera Shard"
 	},
 	{
@@ -5501,6 +6122,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1300121653, 2011-03-14 16:54:13\n69 Electric Tera Shards, 69 total Tera Shards\nx13 Electric Tera Shard\nx2 Light Clay\nx20 Electric Tera Shard\nx20 Electric Tera Shard\nx16 Electric Tera Shard"
 	},
 	{
@@ -5516,6 +6140,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1269024769, 2010-03-19 18:52:49\n69 Electric Tera Shards, 74 total Tera Shards\nx20 Electric Tera Shard\nx13 Electric Tera Shard\nx16 Electric Tera Shard\nx20 Electric Tera Shard\nx5 Ice Tera Shard"
 	},
 	{
@@ -5531,6 +6158,9 @@
 				"quantity": 15
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2319524923, 2043-07-03 08:28:43\n61 Grass Tera Shards, 61 total Tera Shards\nx20 Grass Tera Shard\nx20 Grass Tera Shard\nx14 Grass Tera Shard\nx15 Exp. Candy M\nx7 Grass Tera Shard"
 	},
 	{
@@ -5550,6 +6180,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2509380323, 2049-07-08 18:05:23\n60 Grass Tera Shards, 60 total Tera Shards\nx13 Exp. Candy M\nx20 Grass Tera Shard\nx10 Honey\nx20 Grass Tera Shard\nx20 Grass Tera Shard"
 	},
 	{
@@ -5569,6 +6202,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1987929641, 2032-12-29 10:40:41\n60 Grass Tera Shards, 60 total Tera Shards\nx2 Protein\nx20 Grass Tera Shard\nx2 Ability Capsule\nx20 Grass Tera Shard\nx20 Grass Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -5584,6 +6220,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2363181298, 2044-11-19 15:14:58\n64 Grass Tera Shards, 64 total Tera Shards\nx18 Grass Tera Shard\nx20 Grass Tera Shard\nx14 Grass Tera Shard\nx2 Mystic Water\nx12 Grass Tera Shard"
 	},
 	{
@@ -5599,6 +6238,9 @@
 				"quantity": 20
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2348765856, 2044-06-05 18:57:36\n63 Grass Tera Shards, 83 total Tera Shards\nx19 Grass Tera Shard\nx19 Grass Tera Shard\nx20 Poison Tera Shard\nx20 Grass Tera Shard\nx5 Grass Tera Shard"
 	},
 	{
@@ -5614,6 +6256,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2870364356, 2060-12-15 19:25:56\n62 Grass Tera Shards, 62 total Tera Shards\nx12 Grass Tera Shard\nx16 Grass Tera Shard\nx18 Grass Tera Shard\nx16 Grass Tera Shard\nx10 Exp. Candy S"
 	},
 	{
@@ -5629,6 +6274,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2082343163, 2035-12-27 04:39:23\n64 Grass Tera Shards, 64 total Tera Shards\nx17 Grass Tera Shard\nx20 Grass Tera Shard\nx10 Grass Tera Shard\nx17 Grass Tera Shard\nx2 Calcium\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -5644,6 +6292,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1141115119, 2006-02-28 08:25:19\n63 Grass Tera Shards, 63 total Tera Shards\nx7 Grass Tera Shard\nx16 Grass Tera Shard\nx20 Grass Tera Shard\nx20 Grass Tera Shard\nx6 Stardust"
 	},
 	{
@@ -5659,6 +6310,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1080698457, 2004-03-31 02:00:57\n71 Grass Tera Shards, 71 total Tera Shards\nx18 Grass Tera Shard\nx1 Covert Cloak\nx15 Grass Tera Shard\nx20 Grass Tera Shard\nx18 Grass Tera Shard"
 	},
 	{
@@ -5678,6 +6332,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1071941785, 2003-12-20 17:36:25\n60 Grass Tera Shards, 60 total Tera Shards\nx20 Grass Tera Shard\nx20 Grass Tera Shard\nx1 Prism Scale\nx1 Hard Stone\nx20 Grass Tera Shard"
 	},
 	{
@@ -5693,6 +6350,9 @@
 				"quantity": 11
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1287784647, 2010-10-22 21:57:27\n64 Grass Tera Shards, 75 total Tera Shards\nx20 Grass Tera Shard\nx20 Grass Tera Shard\nx6 Grass Tera Shard\nx18 Grass Tera Shard\nx11 Normal Tera Shard"
 	},
 	{
@@ -5708,6 +6368,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1258326250, 2009-11-15 23:04:10\n61 Grass Tera Shards, 61 total Tera Shards\nx15 Grass Tera Shard\nx6 Tiny Mushroom\nx19 Grass Tera Shard\nx17 Grass Tera Shard\nx10 Grass Tera Shard"
 	},
 	{
@@ -5723,6 +6386,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1393068177, 2014-02-22 11:22:57\n66 Grass Tera Shards, 66 total Tera Shards\nx11 Grass Tera Shard\nx19 Grass Tera Shard\nx18 Grass Tera Shard\nx1 Full Restore\nx18 Grass Tera Shard"
 	},
 	{
@@ -5742,6 +6408,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1025132715, 2002-06-26 23:05:15\n60 Grass Tera Shards, 60 total Tera Shards\nx20 Grass Tera Shard\nx20 Grass Tera Shard\nx20 Grass Tera Shard\nx1 Flower Sweet\nx9 Big Mushroom\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -5757,6 +6426,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2423818562, 2046-10-22 10:56:02\n60 Ice Tera Shards, 69 total Tera Shards\nx17 Ice Tera Shard\nx7 Ice Tera Shard\nx19 Ice Tera Shard\nx9 Ground Tera Shard\nx17 Ice Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -5772,6 +6444,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2524399980, 2049-12-29 14:13:00\n70 Ice Tera Shards, 70 total Tera Shards\nx13 Ice Tera Shard\nx1 Max Potion\nx18 Ice Tera Shard\nx19 Ice Tera Shard\nx20 Ice Tera Shard"
 	},
 	{
@@ -5787,6 +6462,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2476403116, 2048-06-22 01:45:16\n68 Ice Tera Shards, 68 total Tera Shards\nx19 Ice Tera Shard\nx7 Big Mushroom\nx17 Ice Tera Shard\nx12 Ice Tera Shard\nx20 Ice Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -5802,6 +6480,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2027235146, 2034-03-29 08:52:26\n69 Ice Tera Shards, 69 total Tera Shards\nx19 Ice Tera Shard\nx5 Exp. Candy L\nx20 Ice Tera Shard\nx17 Ice Tera Shard\nx13 Ice Tera Shard"
 	},
 	{
@@ -5817,6 +6498,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2609295127, 2052-09-07 04:12:07\n62 Ice Tera Shards, 62 total Tera Shards\nx5 Ice Tera Shard\nx20 Ice Tera Shard\nx17 Ice Tera Shard\nx2 Leaf Stone\nx20 Ice Tera Shard"
 	},
 	{
@@ -5832,6 +6516,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2608023918, 2052-08-23 11:05:18\n62 Ice Tera Shards, 62 total Tera Shards\nx18 Ice Tera Shard\nx13 Ice Tera Shard\nx6 Big Mushroom\nx13 Ice Tera Shard\nx18 Ice Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -5847,6 +6534,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2567326030, 2051-05-10 10:07:10\n67 Ice Tera Shards, 67 total Tera Shards\nx19 Ice Tera Shard\nx8 Ice Tera Shard\nx20 Ice Tera Shard\nx20 Ice Tera Shard\nx1 Metal Alloy"
 	},
 	{
@@ -5866,6 +6556,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2297147709, 2042-10-17 08:35:09\n60 Ice Tera Shards, 60 total Tera Shards\nx1 Fairy Feather\nx20 Ice Tera Shard\nx20 Ice Tera Shard\nx20 Ice Tera Shard\nx1 Love Sweet"
 	},
 	{
@@ -5881,6 +6574,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2182007148, 2039-02-22 17:05:48\n61 Ice Tera Shards, 61 total Tera Shards\nx8 Ice Tera Shard\nx20 Ice Tera Shard\nx20 Ice Tera Shard\nx13 Ice Tera Shard\nx4 Revive"
 	},
 	{
@@ -5896,6 +6592,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2097793352, 2036-06-23 00:22:32\n67 Ice Tera Shards, 67 total Tera Shards\nx16 Ice Tera Shard\nx15 Ice Tera Shard\nx20 Ice Tera Shard\nx16 Ice Tera Shard\nx2 Upgrade"
 	},
 	{
@@ -5911,6 +6610,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2048676835, 2034-12-02 12:53:55\n66 Ice Tera Shards, 66 total Tera Shards\nx7 Ice Tera Shard\nx20 Ice Tera Shard\nx19 Ice Tera Shard\nx2 Shiny Stone\nx20 Ice Tera Shard"
 	},
 	{
@@ -5930,6 +6632,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 6,
 		"raw": "1439517014, 2015-08-14 01:50:14\n63 Ice Tera Shards, 63 total Tera Shards\nx7 Ice Tera Shard\nx8 Pearl\nx19 Ice Tera Shard\nx20 Ice Tera Shard\nx17 Ice Tera Shard\n--> Print 1 in regular mode to trigger item bonus.\nx1 Scope Lens"
 	},
 	{
@@ -5945,6 +6650,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1541671251, 2018-11-08 10:00:51\n70 Ice Tera Shards, 70 total Tera Shards\nx19 Ice Tera Shard\nx20 Ice Tera Shard\nx11 Ice Tera Shard\nx6 Balm Mushroom\nx20 Ice Tera Shard"
 	},
 	{
@@ -5964,6 +6672,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2540335638, 2050-07-02 00:47:18\n60 Fighting Tera Shards, 60 total Tera Shards\nx1 Silver Powder\nx6 Star Piece\nx20 Fighting Tera Shard\nx20 Fighting Tera Shard\nx20 Fighting Tera Shard"
 	},
 	{
@@ -5983,6 +6694,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 6,
 		"raw": "2633681163, 2053-06-16 10:06:03\n64 Fighting Tera Shards, 64 total Tera Shards\nx15 Fighting Tera Shard\nx17 Fighting Tera Shard\nx13 Fighting Tera Shard\nx19 Fighting Tera Shard\nx8 Exp. Candy S\n--> Print 1 in regular mode to trigger ball bonus.\nx1 Revive"
 	},
 	{
@@ -5998,6 +6712,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2703903020, 2055-09-07 04:10:20\n61 Fighting Tera Shards, 61 total Tera Shards\nx15 Fighting Tera Shard\nx11 Fighting Tera Shard\nx15 Fighting Tera Shard\nx20 Fighting Tera Shard\nx1 Silk Scarf\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -6013,6 +6730,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2445347281, 2047-06-28 15:08:01\n60 Fighting Tera Shards, 60 total Tera Shards\nx14 Fighting Tera Shard\nx14 Fighting Tera Shard\nx15 Fighting Tera Shard\nx17 Fighting Tera Shard\nx2 Metal Alloy"
 	},
 	{
@@ -6028,6 +6748,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2002202223, 2033-06-12 15:17:03\n61 Fighting Tera Shards, 61 total Tera Shards\nx2 Flower Sweet\nx5 Fighting Tera Shard\nx20 Fighting Tera Shard\nx18 Fighting Tera Shard\nx18 Fighting Tera Shard"
 	},
 	{
@@ -6043,6 +6766,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2298333641, 2042-10-31 02:00:41\n60 Fighting Tera Shards, 60 total Tera Shards\nx8 Fighting Tera Shard\nx17 Fighting Tera Shard\nx19 Fighting Tera Shard\nx4 Big Nugget\nx16 Fighting Tera Shard"
 	},
 	{
@@ -6058,6 +6784,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2187146130, 2039-04-23 04:35:30\n63 Fighting Tera Shards, 63 total Tera Shards\nx1 Sharp Beak\nx6 Fighting Tera Shard\nx20 Fighting Tera Shard\nx17 Fighting Tera Shard\nx20 Fighting Tera Shard"
 	},
 	{
@@ -6073,6 +6802,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1753467170, 2025-07-25 18:12:50\n71 Fighting Tera Shards, 71 total Tera Shards\nx16 Fighting Tera Shard\nx19 Fighting Tera Shard\nx1 Flower Sweet\nx18 Fighting Tera Shard\nx18 Fighting Tera Shard"
 	},
 	{
@@ -6092,6 +6824,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1903838643, 2030-05-01 04:04:03\n60 Fighting Tera Shards, 60 total Tera Shards\nx3 Big Nugget\nx3 HP Up\nx20 Fighting Tera Shard\nx20 Fighting Tera Shard\nx20 Fighting Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -6107,6 +6842,9 @@
 				"quantity": 17
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1859864872, 2028-12-08 05:07:52\n61 Fighting Tera Shards, 78 total Tera Shards\nx19 Fighting Tera Shard\nx14 Fighting Tera Shard\nx18 Fighting Tera Shard\nx10 Fighting Tera Shard\nx17 Rock Tera Shard"
 	},
 	{
@@ -6122,6 +6860,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1852263856, 2028-09-11 05:44:16\n75 Fighting Tera Shards, 75 total Tera Shards\nx2 Love Sweet\nx16 Fighting Tera Shard\nx20 Fighting Tera Shard\nx19 Fighting Tera Shard\nx20 Fighting Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -6137,6 +6878,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1539066140, 2018-10-09 06:22:20\n60 Fighting Tera Shards, 66 total Tera Shards\nx19 Fighting Tera Shard\nx18 Fighting Tera Shard\nx17 Fighting Tera Shard\nx6 Fighting Tera Shard\nx6 Electric Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -6152,6 +6896,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1510682535, 2017-11-14 18:02:15\n66 Fighting Tera Shards, 66 total Tera Shards\nx20 Fighting Tera Shard\nx16 Fighting Tera Shard\nx10 Fighting Tera Shard\nx20 Fighting Tera Shard\nx3 Shiny Stone"
 	},
 	{
@@ -6167,6 +6914,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1159121181, 2006-09-24 18:06:21\n64 Fighting Tera Shards, 64 total Tera Shards\nx16 Fighting Tera Shard\nx18 Fighting Tera Shard\nx15 Fighting Tera Shard\nx15 Fighting Tera Shard\nx2 Berry Sweet"
 	},
 	{
@@ -6186,6 +6936,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "956721312, 2000-04-26 03:55:12\n60 Fighting Tera Shards, 67 total Tera Shards\nx1 Fire Stone\nx20 Fighting Tera Shard\nx7 Rock Tera Shard\nx20 Fighting Tera Shard\nx20 Fighting Tera Shard"
 	},
 	{
@@ -6201,6 +6954,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2041396572, 2034-09-09 06:36:12\n70 Poison Tera Shards, 70 total Tera Shards\nx2 Electirizer\nx16 Poison Tera Shard\nx18 Poison Tera Shard\nx19 Poison Tera Shard\nx17 Poison Tera Shard"
 	},
 	{
@@ -6220,6 +6976,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2710692559, 2055-11-24 18:09:19\n60 Poison Tera Shards, 60 total Tera Shards\nx20 Poison Tera Shard\nx20 Poison Tera Shard\nx1 Full Restore\nx14 Exp. Candy XS\nx20 Poison Tera Shard"
 	},
 	{
@@ -6235,6 +6994,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2797579592, 2058-08-26 09:26:32\n68 Poison Tera Shards, 68 total Tera Shards\nx11 Poison Tera Shard\nx18 Poison Tera Shard\nx20 Poison Tera Shard\nx19 Poison Tera Shard\nx2 Amulet Coin"
 	},
 	{
@@ -6250,6 +7012,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1823263110, 2027-10-11 13:58:30\n61 Poison Tera Shards, 61 total Tera Shards\nx19 Poison Tera Shard\nx17 Poison Tera Shard\nx2 Upgrade\nx17 Poison Tera Shard\nx8 Poison Tera Shard"
 	},
 	{
@@ -6269,6 +7034,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2356611572, 2044-09-04 14:19:32\n60 Poison Tera Shards, 60 total Tera Shards\nx20 Poison Tera Shard\nx20 Poison Tera Shard\nx3 Ability Capsule\nx20 Poison Tera Shard\nx1 Leftovers"
 	},
 	{
@@ -6288,6 +7056,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1670302130, 2022-12-06 04:48:50\n60 Poison Tera Shards, 60 total Tera Shards\nx20 Poison Tera Shard\nx20 Poison Tera Shard\nx3 Zinc\nx2 Full Heal\nx20 Poison Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -6307,6 +7078,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1142947750, 2006-03-21 13:29:10\n60 Poison Tera Shards, 60 total Tera Shards\nx2 Prism Scale\nx20 Poison Tera Shard\nx2 Carbos\nx20 Poison Tera Shard\nx20 Poison Tera Shard"
 	},
 	{
@@ -6326,6 +7100,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1276962114, 2010-06-19 15:41:54\n60 Poison Tera Shards, 77 total Tera Shards\nx17 Steel Tera Shard\nx20 Poison Tera Shard\nx20 Poison Tera Shard\nx20 Poison Tera Shard\nx8 Tiny Bamboo Shoot\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -6341,6 +7118,9 @@
 				"quantity": 13
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "999483268, 2001-09-03 02:14:28\n79 Poison Tera Shards, 79 total Tera Shards\nx13 Exp. Candy M\nx20 Poison Tera Shard\nx20 Poison Tera Shard\nx20 Poison Tera Shard\nx19 Poison Tera Shard"
 	},
 	{
@@ -6356,6 +7136,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1907674699, 2030-06-14 13:38:19\n63 Ground Tera Shards, 63 total Tera Shards\nx14 Ground Tera Shard\nx17 Ground Tera Shard\nx13 Ground Tera Shard\nx19 Ground Tera Shard\nx3 Thunder Stone"
 	},
 	{
@@ -6371,6 +7154,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1901833121, 2030-04-07 22:58:41\n62 Ground Tera Shards, 62 total Tera Shards\nx16 Ground Tera Shard\nx16 Ground Tera Shard\nx11 Ground Tera Shard\nx1 Never-Melt Ice\nx19 Ground Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -6386,6 +7172,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1893503950, 2030-01-01 13:19:10\n62 Ground Tera Shards, 62 total Tera Shards\nx19 Ground Tera Shard\nx16 Ground Tera Shard\nx9 Ground Tera Shard\nx18 Ground Tera Shard\nx2 Razor Fang"
 	},
 	{
@@ -6405,6 +7194,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1191922477, 2007-10-09 09:34:37\n60 Ground Tera Shards, 77 total Tera Shards\nx17 Normal Tera Shard\nx20 Ground Tera Shard\nx20 Ground Tera Shard\nx2 Super Potion\nx20 Ground Tera Shard"
 	},
 	{
@@ -6420,6 +7212,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2094812682, 2036-05-19 12:24:42\n61 Ground Tera Shards, 61 total Tera Shards\nx18 Ground Tera Shard\nx12 Ground Tera Shard\nx6 Tiny Bamboo Shoot\nx16 Ground Tera Shard\nx15 Ground Tera Shard"
 	},
 	{
@@ -6439,6 +7234,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2330627656, 2043-11-08 20:34:16\n60 Ground Tera Shards, 60 total Tera Shards\nx20 Ground Tera Shard\nx20 Ground Tera Shard\nx20 Ground Tera Shard\nx2 Light Clay\nx2 Calcium"
 	},
 	{
@@ -6454,6 +7252,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2287734394, 2042-06-30 09:46:34\n62 Ground Tera Shards, 62 total Tera Shards\nx20 Ground Tera Shard\nx20 Ground Tera Shard\nx10 Ground Tera Shard\nx1 Razor Fang\nx12 Ground Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -6469,6 +7270,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2269220407, 2041-11-28 03:00:07\n61 Ground Tera Shards, 67 total Tera Shards\nx6 Flying Tera Shard\nx14 Ground Tera Shard\nx13 Ground Tera Shard\nx15 Ground Tera Shard\nx19 Ground Tera Shard"
 	},
 	{
@@ -6484,6 +7288,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1463321889, 2016-05-15 14:18:09\n65 Ground Tera Shards, 65 total Tera Shards\nx5 PP Up\nx14 Ground Tera Shard\nx17 Ground Tera Shard\nx15 Ground Tera Shard\nx19 Ground Tera Shard"
 	},
 	{
@@ -6499,6 +7306,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1564576166, 2019-07-31 12:29:26\n62 Ground Tera Shards, 62 total Tera Shards\nx15 Ground Tera Shard\nx6 Nugget\nx20 Ground Tera Shard\nx11 Ground Tera Shard\nx16 Ground Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -6514,6 +7324,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1057983288, 2003-07-12 04:14:48\n64 Ground Tera Shards, 74 total Tera Shards\nx10 Normal Tera Shard\nx20 Ground Tera Shard\nx17 Ground Tera Shard\nx18 Ground Tera Shard\nx9 Ground Tera Shard"
 	},
 	{
@@ -6529,6 +7342,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1312230939, 2011-08-01 20:35:39\n61 Ground Tera Shards, 61 total Tera Shards\nx20 Ground Tera Shard\nx1 Ribbon Sweet\nx14 Ground Tera Shard\nx16 Ground Tera Shard\nx11 Ground Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -6548,6 +7364,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1046433344, 2003-02-28 11:55:44\n60 Ground Tera Shards, 60 total Tera Shards\nx20 Ground Tera Shard\nx3 Elixir\nx20 Ground Tera Shard\nx1 Light Clay\nx20 Ground Tera Shard"
 	},
 	{
@@ -6567,6 +7386,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "965791359, 2000-08-09 03:22:39\n60 Ground Tera Shards, 60 total Tera Shards\nx20 Ground Tera Shard\nx9 Stardust\nx20 Ground Tera Shard\nx20 Ground Tera Shard\nx1 Reaper Cloth"
 	},
 	{
@@ -6582,6 +7404,9 @@
 				"quantity": 17
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2817528876, 2059-04-14 06:54:36\n60 Flying Tera Shards, 77 total Tera Shards\nx18 Flying Tera Shard\nx19 Flying Tera Shard\nx17 Ground Tera Shard\nx8 Flying Tera Shard\nx15 Flying Tera Shard"
 	},
 	{
@@ -6597,6 +7422,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1522609472, 2018-04-01 19:04:32\n61 Flying Tera Shards, 61 total Tera Shards\nx14 Flying Tera Shard\nx19 Flying Tera Shard\nx6 Pearl\nx19 Flying Tera Shard\nx9 Flying Tera Shard"
 	},
 	{
@@ -6612,6 +7440,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2696220211, 2055-06-10 06:03:31\n67 Flying Tera Shards, 67 total Tera Shards\nx19 Flying Tera Shard\nx19 Flying Tera Shard\nx3 Revive\nx15 Flying Tera Shard\nx14 Flying Tera Shard"
 	},
 	{
@@ -6627,6 +7458,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2679943379, 2054-12-03 20:42:59\n65 Flying Tera Shards, 65 total Tera Shards\nx2 Spell Tag\nx18 Flying Tera Shard\nx14 Flying Tera Shard\nx20 Flying Tera Shard\nx13 Flying Tera Shard"
 	},
 	{
@@ -6642,6 +7476,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2592942363, 2052-03-01 21:46:03\n62 Flying Tera Shards, 62 total Tera Shards\nx2 Chipped Pot\nx20 Flying Tera Shard\nx5 Flying Tera Shard\nx20 Flying Tera Shard\nx17 Flying Tera Shard"
 	},
 	{
@@ -6657,6 +7494,9 @@
 				"quantity": 12
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1704300065, 2024-01-03 16:41:05\n62 Flying Tera Shards, 74 total Tera Shards\nx16 Flying Tera Shard\nx12 Rock Tera Shard\nx14 Flying Tera Shard\nx16 Flying Tera Shard\nx16 Flying Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -6672,6 +7512,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1676201511, 2023-02-12 11:31:51\n60 Flying Tera Shards, 60 total Tera Shards\nx19 Flying Tera Shard\nx20 Flying Tera Shard\nx5 Flying Tera Shard\nx16 Flying Tera Shard\nx1 Max Potion"
 	},
 	{
@@ -6691,6 +7534,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1104902818, 2005-01-05 05:26:58\n60 Flying Tera Shards, 69 total Tera Shards\nx6 Pearl\nx20 Flying Tera Shard\nx9 Grass Tera Shard\nx20 Flying Tera Shard\nx20 Flying Tera Shard"
 	},
 	{
@@ -6702,6 +7548,9 @@
 				"quantity": 64
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1580633500, 2020-02-02 08:51:40\n64 Flying Tera Shards, 64 total Tera Shards\nx11 Flying Tera Shard\nx15 Flying Tera Shard\nx14 Flying Tera Shard\nx19 Flying Tera Shard\nx5 Flying Tera Shard"
 	},
 	{
@@ -6721,6 +7570,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1033753885, 2002-10-04 17:51:25\n60 Flying Tera Shards, 70 total Tera Shards\nx20 Flying Tera Shard\nx4 Star Piece\nx20 Flying Tera Shard\nx10 Normal Tera Shard\nx20 Flying Tera Shard"
 	},
 	{
@@ -6736,6 +7588,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2617649055, 2052-12-12 20:44:15\n66 Psychic Tera Shards, 66 total Tera Shards\nx19 Psychic Tera Shard\nx11 Psychic Tera Shard\nx20 Psychic Tera Shard\nx2 Toxic Orb\nx16 Psychic Tera Shard"
 	},
 	{
@@ -6751,6 +7606,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1623084781, 2021-06-07 16:53:01\n62 Psychic Tera Shards, 62 total Tera Shards\nx19 Psychic Tera Shard\nx20 Psychic Tera Shard\nx18 Psychic Tera Shard\nx3 Comet Shard\nx5 Psychic Tera Shard"
 	},
 	{
@@ -6766,6 +7624,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1689419199, 2023-07-15 11:06:39\n65 Psychic Tera Shards, 65 total Tera Shards\nx1 Upgrade\nx16 Psychic Tera Shard\nx14 Psychic Tera Shard\nx18 Psychic Tera Shard\nx17 Psychic Tera Shard"
 	},
 	{
@@ -6785,6 +7646,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2446953213, 2047-07-17 05:13:33\n60 Psychic Tera Shards, 60 total Tera Shards\nx4 Pearl String\nx20 Psychic Tera Shard\nx20 Psychic Tera Shard\nx20 Psychic Tera Shard\nx2 Calcium"
 	},
 	{
@@ -6800,6 +7664,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1385276337, 2013-11-24 06:58:57\n64 Psychic Tera Shards, 64 total Tera Shards\nx15 Psychic Tera Shard\nx18 Psychic Tera Shard\nx16 Psychic Tera Shard\nx1 Iron\nx15 Psychic Tera Shard"
 	},
 	{
@@ -6819,6 +7686,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1367658125, 2013-05-04 09:02:05\n60 Psychic Tera Shards, 74 total Tera Shards\nx20 Psychic Tera Shard\nx7 Bug Tera Shard\nx20 Psychic Tera Shard\nx7 Poison Tera Shard\nx20 Psychic Tera Shard"
 	},
 	{
@@ -6838,6 +7708,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2361729167, 2044-11-02 19:52:47\n60 Psychic Tera Shards, 65 total Tera Shards\nx20 Psychic Tera Shard\nx20 Psychic Tera Shard\nx4 Nugget\nx5 Fire Tera Shard\nx20 Psychic Tera Shard"
 	},
 	{
@@ -6853,6 +7726,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2350370970, 2044-06-24 08:49:30\n63 Psychic Tera Shards, 63 total Tera Shards\nx20 Psychic Tera Shard\nx9 Psychic Tera Shard\nx2 Fairy Feather\nx18 Psychic Tera Shard\nx16 Psychic Tera Shard"
 	},
 	{
@@ -6868,6 +7744,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2121633467, 2037-03-25 22:37:47\n61 Psychic Tera Shards, 61 total Tera Shards\nx18 Psychic Tera Shard\nx18 Psychic Tera Shard\nx17 Psychic Tera Shard\nx2 Big Nugget\nx8 Psychic Tera Shard"
 	},
 	{
@@ -6887,6 +7766,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2057726214, 2035-03-17 06:36:54\n60 Psychic Tera Shards, 60 total Tera Shards\nx20 Psychic Tera Shard\nx8 Rare Bone\nx20 Psychic Tera Shard\nx1 Black Sludge\nx20 Psychic Tera Shard"
 	},
 	{
@@ -6902,6 +7784,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2190593713, 2039-06-02 02:15:13\n67 Psychic Tera Shards, 67 total Tera Shards\nx15 Psychic Tera Shard\nx2 Never-Melt Ice\nx14 Psychic Tera Shard\nx18 Psychic Tera Shard\nx20 Psychic Tera Shard"
 	},
 	{
@@ -6921,6 +7806,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2157024398, 2038-05-09 13:26:38\n60 Psychic Tera Shards, 69 total Tera Shards\nx20 Psychic Tera Shard\nx20 Psychic Tera Shard\nx10 Tiny Mushroom\nx9 Flying Tera Shard\nx20 Psychic Tera Shard"
 	},
 	{
@@ -6936,6 +7824,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1169875313, 2007-01-27 05:21:53\n63 Psychic Tera Shards, 63 total Tera Shards\nx7 Psychic Tera Shard\nx20 Psychic Tera Shard\nx2 PP Up\nx18 Psychic Tera Shard\nx18 Psychic Tera Shard"
 	},
 	{
@@ -6951,6 +7842,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1483534171, 2017-01-04 12:49:31\n63 Psychic Tera Shards, 63 total Tera Shards\nx18 Psychic Tera Shard\nx5 Tiny Bamboo Shoot\nx20 Psychic Tera Shard\nx13 Psychic Tera Shard\nx12 Psychic Tera Shard"
 	},
 	{
@@ -6966,6 +7860,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1449120167, 2015-12-03 05:22:47\n60 Psychic Tera Shards, 60 total Tera Shards\nx18 Psychic Tera Shard\nx7 Stardust\nx15 Psychic Tera Shard\nx19 Psychic Tera Shard\nx8 Psychic Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -6985,6 +7882,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1018629807, 2002-04-12 16:43:27\n60 Psychic Tera Shards, 60 total Tera Shards\nx20 Psychic Tera Shard\nx2 Protein\nx20 Psychic Tera Shard\nx3 Ice Stone\nx20 Psychic Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -7000,6 +7900,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "956911448, 2000-04-28 08:44:08\n62 Psychic Tera Shards, 62 total Tera Shards\nx14 Psychic Tera Shard\nx6 Pearl\nx20 Psychic Tera Shard\nx11 Psychic Tera Shard\nx17 Psychic Tera Shard"
 	},
 	{
@@ -7015,6 +7918,9 @@
 				"quantity": 12
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1743294281, 2025-03-30 00:24:41\n61 Bug Tera Shards, 73 total Tera Shards\nx18 Bug Tera Shard\nx18 Bug Tera Shard\nx12 Ghost Tera Shard\nx20 Bug Tera Shard\nx5 Bug Tera Shard"
 	},
 	{
@@ -7030,6 +7936,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1242648345, 2009-05-18 12:05:45\n62 Bug Tera Shards, 62 total Tera Shards\nx12 Bug Tera Shard\nx1 Thunder Stone\nx19 Bug Tera Shard\nx17 Bug Tera Shard\nx14 Bug Tera Shard"
 	},
 	{
@@ -7045,6 +7954,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2204077851, 2039-11-05 03:50:51\n60 Bug Tera Shards, 60 total Tera Shards\nx17 Bug Tera Shard\nx17 Bug Tera Shard\nx6 Exp. Candy M\nx13 Bug Tera Shard\nx13 Bug Tera Shard"
 	},
 	{
@@ -7060,6 +7972,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2458109848, 2047-11-23 08:17:28\n67 Bug Tera Shards, 67 total Tera Shards\nx2 Ether\nx19 Bug Tera Shard\nx17 Bug Tera Shard\nx16 Bug Tera Shard\nx15 Bug Tera Shard"
 	},
 	{
@@ -7075,6 +7990,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2457676724, 2047-11-18 07:58:44\n63 Bug Tera Shards, 63 total Tera Shards\nx12 Bug Tera Shard\nx13 Bug Tera Shard\nx18 Bug Tera Shard\nx1 Light Clay\nx20 Bug Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -7090,6 +8008,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1389612902, 2014-01-13 11:35:02\n65 Bug Tera Shards, 65 total Tera Shards\nx18 Bug Tera Shard\nx16 Bug Tera Shard\nx14 Bug Tera Shard\nx17 Bug Tera Shard\nx8 Big Bamboo Shoot"
 	},
 	{
@@ -7109,6 +8030,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2013682705, 2033-10-23 12:18:25\n60 Bug Tera Shards, 60 total Tera Shards\nx6 Tiny Mushroom\nx20 Bug Tera Shard\nx2 Cracked Pot\nx20 Bug Tera Shard\nx20 Bug Tera Shard"
 	},
 	{
@@ -7124,6 +8048,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1991135046, 2033-02-04 13:04:06\n61 Bug Tera Shards, 61 total Tera Shards\nx13 Bug Tera Shard\nx3 Full Restore\nx19 Bug Tera Shard\nx14 Bug Tera Shard\nx15 Bug Tera Shard"
 	},
 	{
@@ -7139,6 +8066,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1983516513, 2032-11-08 08:48:33\n65 Bug Tera Shards, 65 total Tera Shards\nx20 Bug Tera Shard\nx19 Bug Tera Shard\nx1 Covert Cloak\nx8 Bug Tera Shard\nx18 Bug Tera Shard"
 	},
 	{
@@ -7154,6 +8084,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2429413229, 2046-12-26 05:00:29\n64 Bug Tera Shards, 64 total Tera Shards\nx10 Pretty Feather\nx20 Bug Tera Shard\nx5 Bug Tera Shard\nx20 Bug Tera Shard\nx19 Bug Tera Shard"
 	},
 	{
@@ -7169,6 +8102,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2356088686, 2044-08-29 13:04:46\n74 Bug Tera Shards, 74 total Tera Shards\nx19 Bug Tera Shard\nx20 Bug Tera Shard\nx9 Big Mushroom\nx15 Bug Tera Shard\nx20 Bug Tera Shard"
 	},
 	{
@@ -7184,6 +8120,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1271337664, 2010-04-15 13:21:04\n74 Bug Tera Shards, 74 total Tera Shards\nx16 Bug Tera Shard\nx18 Bug Tera Shard\nx1 Magnet\nx20 Bug Tera Shard\nx20 Bug Tera Shard"
 	},
 	{
@@ -7199,6 +8138,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "947785482, 2000-01-13 17:44:42\n62 Bug Tera Shards, 62 total Tera Shards\nx16 Bug Tera Shard\nx18 Bug Tera Shard\nx16 Bug Tera Shard\nx2 Never-Melt Ice\nx12 Bug Tera Shard"
 	},
 	{
@@ -7214,6 +8156,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2678724089, 2054-11-19 18:01:29\n64 Rock Tera Shards, 64 total Tera Shards\nx4 Hyper Potion\nx17 Rock Tera Shard\nx11 Rock Tera Shard\nx16 Rock Tera Shard\nx20 Rock Tera Shard"
 	},
 	{
@@ -7233,6 +8178,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2801954289, 2058-10-16 00:38:09\n60 Rock Tera Shards, 60 total Tera Shards\nx20 Rock Tera Shard\nx20 Rock Tera Shard\nx8 Pretty Feather\nx20 Rock Tera Shard\nx9 Stardust"
 	},
 	{
@@ -7248,6 +8196,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2037190696, 2034-07-22 14:18:16\n60 Rock Tera Shards, 60 total Tera Shards\nx16 Rock Tera Shard\nx11 Rock Tera Shard\nx1 Focus Band\nx18 Rock Tera Shard\nx15 Rock Tera Shard"
 	},
 	{
@@ -7263,6 +8214,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1874612165, 2029-05-27 21:36:05\n62 Rock Tera Shards, 62 total Tera Shards\nx11 Rock Tera Shard\nx19 Rock Tera Shard\nx12 Rock Tera Shard\nx2 Silk Scarf\nx20 Rock Tera Shard"
 	},
 	{
@@ -7274,6 +8228,9 @@
 				"quantity": 60
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1187057629, 2007-08-14 02:13:49\n60 Rock Tera Shards, 60 total Tera Shards\nx20 Rock Tera Shard\nx6 Rock Tera Shard\nx12 Rock Tera Shard\nx13 Rock Tera Shard\nx9 Rock Tera Shard"
 	},
 	{
@@ -7289,6 +8246,9 @@
 				"quantity": 12
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1156042443, 2006-08-20 02:54:03\n62 Rock Tera Shards, 74 total Tera Shards\nx12 Flying Tera Shard\nx19 Rock Tera Shard\nx15 Rock Tera Shard\nx11 Rock Tera Shard\nx17 Rock Tera Shard"
 	},
 	{
@@ -7308,6 +8268,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2427473708, 2046-12-03 18:15:08\n60 Rock Tera Shards, 75 total Tera Shards\nx20 Rock Tera Shard\nx15 Ground Tera Shard\nx2 Hyper Potion\nx20 Rock Tera Shard\nx20 Rock Tera Shard"
 	},
 	{
@@ -7323,6 +8286,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1644974044, 2022-02-16 01:14:04\n63 Rock Tera Shards, 63 total Tera Shards\nx20 Rock Tera Shard\nx17 Rock Tera Shard\nx14 Rock Tera Shard\nx1 Berry Sweet\nx12 Rock Tera Shard"
 	},
 	{
@@ -7338,6 +8304,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2196837800, 2039-08-13 08:43:20\n62 Rock Tera Shards, 62 total Tera Shards\nx17 Rock Tera Shard\nx15 Rock Tera Shard\nx16 Rock Tera Shard\nx14 Rock Tera Shard\nx1 Flame Orb\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -7357,6 +8326,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1016054814, 2002-03-13 21:26:54\n60 Rock Tera Shards, 60 total Tera Shards\nx5 Max Ether\nx20 Rock Tera Shard\nx20 Rock Tera Shard\nx20 Rock Tera Shard\nx2 Prism Scale"
 	},
 	{
@@ -7372,6 +8344,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1148357706, 2006-05-23 04:15:06\n61 Ghost Tera Shards, 61 total Tera Shards\nx16 Ghost Tera Shard\nx15 Ghost Tera Shard\nx2 Hyper Potion\nx19 Ghost Tera Shard\nx11 Ghost Tera Shard"
 	},
 	{
@@ -7387,6 +8362,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1509904271, 2017-11-05 17:51:11\n61 Ghost Tera Shards, 61 total Tera Shards\nx19 Ghost Tera Shard\nx18 Ghost Tera Shard\nx6 Ghost Tera Shard\nx2 Magnet\nx18 Ghost Tera Shard"
 	},
 	{
@@ -7402,6 +8380,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1486315873, 2017-02-05 17:31:13\n61 Ghost Tera Shards, 70 total Tera Shards\nx19 Ghost Tera Shard\nx5 Ghost Tera Shard\nx9 Grass Tera Shard\nx17 Ghost Tera Shard\nx20 Ghost Tera Shard"
 	},
 	{
@@ -7417,6 +8398,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2745886193, 2057-01-05 02:09:53\n68 Ghost Tera Shards, 68 total Tera Shards\nx19 Ghost Tera Shard\nx7 Honey\nx19 Ghost Tera Shard\nx19 Ghost Tera Shard\nx11 Ghost Tera Shard"
 	},
 	{
@@ -7436,6 +8420,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2499514255, 2049-03-16 13:30:55\n60 Ghost Tera Shards, 60 total Tera Shards\nx20 Ghost Tera Shard\nx9 Exp. Candy M\nx20 Ghost Tera Shard\nx10 Tiny Mushroom\nx20 Ghost Tera Shard"
 	},
 	{
@@ -7451,6 +8438,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2303085646, 2042-12-25 02:00:46\n67 Dragon Tera Shards, 67 total Tera Shards\nx19 Dragon Tera Shard\nx17 Dragon Tera Shard\nx16 Dragon Tera Shard\nx15 Dragon Tera Shard\nx4 Big Pearl"
 	},
 	{
@@ -7470,6 +8460,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1380099464, 2013-09-25 08:57:44\n60 Dragon Tera Shards, 60 total Tera Shards\nx20 Dragon Tera Shard\nx20 Dragon Tera Shard\nx20 Dragon Tera Shard\nx6 Tiny Mushroom\nx1 Amulet Coin"
 	},
 	{
@@ -7485,6 +8478,9 @@
 				"quantity": 11
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1376046150, 2013-08-09 11:02:30\n68 Dragon Tera Shards, 79 total Tera Shards\nx19 Dragon Tera Shard\nx13 Dragon Tera Shard\nx11 Normal Tera Shard\nx16 Dragon Tera Shard\nx20 Dragon Tera Shard"
 	},
 	{
@@ -7504,6 +8500,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1151922967, 2006-07-03 10:36:07\n60 Dragon Tera Shards, 60 total Tera Shards\nx1 Black Belt\nx20 Dragon Tera Shard\nx20 Dragon Tera Shard\nx20 Dragon Tera Shard\nx1 Sun Stone"
 	},
 	{
@@ -7519,6 +8518,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1770458141, 2026-02-07 09:55:41\n73 Dragon Tera Shards, 73 total Tera Shards\nx19 Dragon Tera Shard\nx1 Sun Stone\nx17 Dragon Tera Shard\nx18 Dragon Tera Shard\nx19 Dragon Tera Shard"
 	},
 	{
@@ -7534,6 +8536,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1747034277, 2025-05-12 07:17:57\n70 Dragon Tera Shards, 77 total Tera Shards\nx7 Ground Tera Shard\nx16 Dragon Tera Shard\nx17 Dragon Tera Shard\nx19 Dragon Tera Shard\nx18 Dragon Tera Shard"
 	},
 	{
@@ -7549,6 +8554,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1599720513, 2020-09-10 06:48:33\n64 Dragon Tera Shards, 64 total Tera Shards\nx14 Dragon Tera Shard\nx19 Dragon Tera Shard\nx10 Exp. Candy XS\nx20 Dragon Tera Shard\nx11 Dragon Tera Shard"
 	},
 	{
@@ -7564,6 +8572,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1137372616, 2006-01-16 00:50:16\n70 Dragon Tera Shards, 70 total Tera Shards\nx14 Dragon Tera Shard\nx17 Dragon Tera Shard\nx19 Dragon Tera Shard\nx1 Never-Melt Ice\nx20 Dragon Tera Shard"
 	},
 	{
@@ -7583,6 +8594,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2086919123, 2036-02-18 03:45:23\n60 Dragon Tera Shards, 60 total Tera Shards\nx9 Pearl\nx20 Dragon Tera Shard\nx1 Bottle Cap\nx20 Dragon Tera Shard\nx20 Dragon Tera Shard"
 	},
 	{
@@ -7598,6 +8612,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1869110240, 2029-03-25 05:17:20\n65 Dragon Tera Shards, 65 total Tera Shards\nx8 Pearl\nx13 Dragon Tera Shard\nx19 Dragon Tera Shard\nx19 Dragon Tera Shard\nx14 Dragon Tera Shard"
 	},
 	{
@@ -7613,6 +8630,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2750606799, 2057-02-28 17:26:39\n63 Dragon Tera Shards, 63 total Tera Shards\nx20 Dragon Tera Shard\nx20 Dragon Tera Shard\nx13 Dragon Tera Shard\nx10 Dragon Tera Shard\nx6 Tiny Bamboo Shoot"
 	},
 	{
@@ -7628,6 +8648,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2155674309, 2038-04-23 22:25:09\n68 Dragon Tera Shards, 68 total Tera Shards\nx1 Ability Patch\nx12 Dragon Tera Shard\nx19 Dragon Tera Shard\nx20 Dragon Tera Shard\nx17 Dragon Tera Shard"
 	},
 	{
@@ -7643,6 +8666,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "976792228, 2000-12-14 11:10:28\n67 Dragon Tera Shards, 67 total Tera Shards\nx19 Dragon Tera Shard\nx17 Dragon Tera Shard\nx11 Dragon Tera Shard\nx20 Dragon Tera Shard\nx10 Exp. Candy S"
 	},
 	{
@@ -7662,6 +8688,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2603718252, 2052-07-04 15:04:12\n60 Dark Tera Shards, 60 total Tera Shards\nx2 Love Sweet\nx20 Dark Tera Shard\nx20 Dark Tera Shard\nx2 Full Restore\nx20 Dark Tera Shard"
 	},
 	{
@@ -7677,6 +8706,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1530334263, 2018-06-30 04:51:03\n62 Dark Tera Shards, 62 total Tera Shards\nx16 Dark Tera Shard\nx11 Dark Tera Shard\nx2 Fire Stone\nx20 Dark Tera Shard\nx15 Dark Tera Shard"
 	},
 	{
@@ -7692,6 +8724,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1502350587, 2017-08-10 07:36:27\n64 Dark Tera Shards, 64 total Tera Shards\nx20 Dark Tera Shard\nx19 Dark Tera Shard\nx10 Dark Tera Shard\nx15 Dark Tera Shard\nx2 Love Sweet"
 	},
 	{
@@ -7707,6 +8742,9 @@
 				"quantity": 10
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1888488486, 2029-11-04 12:08:06\n63 Dark Tera Shards, 73 total Tera Shards\nx17 Dark Tera Shard\nx18 Dark Tera Shard\nx10 Grass Tera Shard\nx20 Dark Tera Shard\nx8 Dark Tera Shard"
 	},
 	{
@@ -7722,6 +8760,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1604865236, 2020-11-08 19:53:56\n72 Dark Tera Shards, 72 total Tera Shards\nx20 Dark Tera Shard\nx19 Dark Tera Shard\nx16 Dark Tera Shard\nx5 Big Nugget\nx17 Dark Tera Shard"
 	},
 	{
@@ -7737,6 +8778,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1573328637, 2019-11-09 19:43:57\n67 Dark Tera Shards, 67 total Tera Shards\nx11 Dark Tera Shard\nx20 Dark Tera Shard\nx16 Dark Tera Shard\nx9 Pearl\nx20 Dark Tera Shard"
 	},
 	{
@@ -7752,6 +8796,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1558468345, 2019-05-21 19:52:25\n62 Dark Tera Shards, 62 total Tera Shards\nx7 Pretty Feather\nx18 Dark Tera Shard\nx11 Dark Tera Shard\nx18 Dark Tera Shard\nx15 Dark Tera Shard"
 	},
 	{
@@ -7767,6 +8814,9 @@
 				"quantity": 14
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1422085327, 2015-01-24 07:42:07\n61 Dark Tera Shards, 61 total Tera Shards\nx12 Dark Tera Shard\nx13 Dark Tera Shard\nx18 Dark Tera Shard\nx14 Exp. Candy S\nx18 Dark Tera Shard"
 	},
 	{
@@ -7782,6 +8832,9 @@
 				"quantity": 14
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1237020101, 2009-03-14 08:41:41\n60 Dark Tera Shards, 74 total Tera Shards\nx19 Dark Tera Shard\nx9 Dark Tera Shard\nx14 Ghost Tera Shard\nx16 Dark Tera Shard\nx16 Dark Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -7797,6 +8850,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2230847277, 2040-09-09 23:47:57\n60 Dark Tera Shards, 60 total Tera Shards\nx4 Max Revive\nx19 Dark Tera Shard\nx16 Dark Tera Shard\nx10 Dark Tera Shard\nx15 Dark Tera Shard"
 	},
 	{
@@ -7812,6 +8868,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1955564749, 2031-12-20 20:25:49\n63 Dark Tera Shards, 63 total Tera Shards\nx14 Dark Tera Shard\nx17 Dark Tera Shard\nx20 Dark Tera Shard\nx12 Dark Tera Shard\nx2 Max Revive"
 	},
 	{
@@ -7827,6 +8886,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2690535912, 2055-04-05 11:05:12\n61 Dark Tera Shards, 61 total Tera Shards\nx13 Dark Tera Shard\nx4 Max Ether\nx15 Dark Tera Shard\nx18 Dark Tera Shard\nx15 Dark Tera Shard"
 	},
 	{
@@ -7842,6 +8904,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2537180413, 2050-05-26 12:20:13\n60 Dark Tera Shards, 60 total Tera Shards\nx10 Dark Tera Shard\nx14 Dark Tera Shard\nx16 Dark Tera Shard\nx20 Dark Tera Shard\nx2 Prism Scale"
 	},
 	{
@@ -7861,6 +8926,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2491845884, 2048-12-17 19:24:44\n60 Dark Tera Shards, 69 total Tera Shards\nx20 Dark Tera Shard\nx1 Air Balloon\nx20 Dark Tera Shard\nx20 Dark Tera Shard\nx9 Grass Tera Shard"
 	},
 	{
@@ -7876,6 +8944,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2471044834, 2048-04-21 01:20:34\n60 Dark Tera Shards, 66 total Tera Shards\nx17 Dark Tera Shard\nx5 Dark Tera Shard\nx6 Water Tera Shard\nx20 Dark Tera Shard\nx18 Dark Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -7895,6 +8966,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2448272651, 2047-08-01 11:44:11\n60 Dark Tera Shards, 79 total Tera Shards\nx6 Tiny Bamboo Shoot\nx19 Flying Tera Shard\nx20 Dark Tera Shard\nx20 Dark Tera Shard\nx20 Dark Tera Shard"
 	},
 	{
@@ -7914,6 +8988,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2774764213, 2057-12-05 07:50:13\n60 Dark Tera Shards, 67 total Tera Shards\nx5 Comet Shard\nx20 Dark Tera Shard\nx20 Dark Tera Shard\nx7 Stellar Tera Shard\nx20 Dark Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -7929,6 +9006,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "997477611, 2001-08-10 21:06:51\n65 Dark Tera Shards, 65 total Tera Shards\nx20 Dark Tera Shard\nx1 Hard Stone\nx8 Dark Tera Shard\nx19 Dark Tera Shard\nx18 Dark Tera Shard"
 	},
 	{
@@ -7944,6 +9024,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2526553212, 2050-01-23 12:20:12\n69 Steel Tera Shards, 69 total Tera Shards\nx17 Steel Tera Shard\nx18 Steel Tera Shard\nx19 Steel Tera Shard\nx7 Big Bamboo Shoot\nx15 Steel Tera Shard"
 	},
 	{
@@ -7963,6 +9046,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1506731155, 2017-09-30 00:25:55\n60 Steel Tera Shards, 60 total Tera Shards\nx7 Big Mushroom\nx20 Steel Tera Shard\nx20 Steel Tera Shard\nx10 Honey\nx20 Steel Tera Shard"
 	},
 	{
@@ -7978,6 +9064,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1444094289, 2015-10-06 01:18:09\n72 Steel Tera Shards, 72 total Tera Shards\nx20 Steel Tera Shard\nx16 Steel Tera Shard\nx20 Steel Tera Shard\nx16 Steel Tera Shard\nx3 Thunder Stone"
 	},
 	{
@@ -7993,6 +9082,9 @@
 				"quantity": 13
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1553928549, 2019-03-30 06:49:09\n73 Steel Tera Shards, 73 total Tera Shards\nx17 Steel Tera Shard\nx20 Steel Tera Shard\nx13 Exp. Candy XS\nx19 Steel Tera Shard\nx17 Steel Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -8008,6 +9100,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1877895094, 2029-07-04 21:31:34\n67 Steel Tera Shards, 67 total Tera Shards\nx16 Steel Tera Shard\nx1 Sharp Beak\nx18 Steel Tera Shard\nx19 Steel Tera Shard\nx14 Steel Tera Shard"
 	},
 	{
@@ -8023,6 +9118,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2382895052, 2045-07-05 19:17:32\n65 Steel Tera Shards, 65 total Tera Shards\nx15 Steel Tera Shard\nx16 Steel Tera Shard\nx20 Steel Tera Shard\nx14 Steel Tera Shard\nx8 Pretty Feather"
 	},
 	{
@@ -8042,6 +9140,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1800119293, 2027-01-16 17:08:13\n60 Steel Tera Shards, 60 total Tera Shards\nx20 Steel Tera Shard\nx2 Dragon Scale\nx20 Steel Tera Shard\nx20 Steel Tera Shard\nx1 Max Potion\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -8057,6 +9158,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1766067369, 2025-12-18 14:16:09\n60 Steel Tera Shards, 60 total Tera Shards\nx20 Steel Tera Shard\nx12 Steel Tera Shard\nx19 Steel Tera Shard\nx9 Steel Tera Shard\nx2 Berry Sweet"
 	},
 	{
@@ -8076,6 +9180,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1754647903, 2025-08-08 10:11:43\n60 Steel Tera Shards, 60 total Tera Shards\nx20 Steel Tera Shard\nx20 Steel Tera Shard\nx2 Air Balloon\nx20 Steel Tera Shard\nx2 Strawberry Sweet"
 	},
 	{
@@ -8091,6 +9198,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2127107507, 2037-05-28 07:11:47\n63 Steel Tera Shards, 63 total Tera Shards\nx2 Max Ether\nx15 Steel Tera Shard\nx17 Steel Tera Shard\nx20 Steel Tera Shard\nx11 Steel Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -8106,6 +9216,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2073562240, 2035-09-16 13:30:40\n60 Steel Tera Shards, 60 total Tera Shards\nx18 Steel Tera Shard\nx19 Steel Tera Shard\nx2 Chipped Pot\nx7 Steel Tera Shard\nx16 Steel Tera Shard"
 	},
 	{
@@ -8121,6 +9234,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2210918320, 2040-01-23 07:58:40\n69 Steel Tera Shards, 77 total Tera Shards\nx16 Steel Tera Shard\nx19 Steel Tera Shard\nx14 Steel Tera Shard\nx20 Steel Tera Shard\nx8 Ice Tera Shard"
 	},
 	{
@@ -8140,6 +9256,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2166317598, 2038-08-25 02:53:18\n60 Steel Tera Shards, 60 total Tera Shards\nx20 Steel Tera Shard\nx2 Black Belt\nx20 Steel Tera Shard\nx8 Exp. Candy M\nx20 Steel Tera Shard"
 	},
 	{
@@ -8159,6 +9278,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1025960105, 2002-07-06 12:55:05\n60 Steel Tera Shards, 60 total Tera Shards\nx20 Steel Tera Shard\nx20 Steel Tera Shard\nx2 Flower Sweet\nx1 Flame Orb\nx20 Steel Tera Shard"
 	},
 	{
@@ -8174,6 +9296,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2606779773, 2052-08-09 01:29:33\n63 Fairy Tera Shards, 63 total Tera Shards\nx20 Fairy Tera Shard\nx8 Fairy Tera Shard\nx1 Iron\nx17 Fairy Tera Shard\nx18 Fairy Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -8193,6 +9318,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 6,
 		"raw": "2683464036, 2055-01-13 14:40:36\n70 Fairy Tera Shards, 70 total Tera Shards\nx14 Fairy Tera Shard\nx9 Exp. Candy XS\nx17 Fairy Tera Shard\nx19 Fairy Tera Shard\nx20 Fairy Tera Shard\n--> Print 1 in regular mode to trigger item bonus.\nx3 Hyper Potion"
 	},
 	{
@@ -8212,6 +9340,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2427999096, 2046-12-09 20:11:36\n60 Fairy Tera Shards, 73 total Tera Shards\nx20 Fairy Tera Shard\nx13 Stellar Tera Shard\nx1 Safety Goggles\nx20 Fairy Tera Shard\nx20 Fairy Tera Shard"
 	},
 	{
@@ -8227,6 +9358,9 @@
 				"quantity": 5
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1343229233, 2012-07-25 15:13:53\n61 Fairy Tera Shards, 61 total Tera Shards\nx10 Fairy Tera Shard\nx5 Tiny Mushroom\nx20 Fairy Tera Shard\nx14 Fairy Tera Shard\nx17 Fairy Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -8242,6 +9376,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1221798450, 2008-09-19 04:27:30\n67 Fairy Tera Shards, 67 total Tera Shards\nx16 Fairy Tera Shard\nx19 Fairy Tera Shard\nx13 Fairy Tera Shard\nx19 Fairy Tera Shard\nx1 Full Heal"
 	},
 	{
@@ -8257,6 +9394,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1154977048, 2006-08-07 18:57:28\n60 Fairy Tera Shards, 60 total Tera Shards\nx13 Fairy Tera Shard\nx16 Fairy Tera Shard\nx15 Fairy Tera Shard\nx16 Fairy Tera Shard\nx1 Leftovers"
 	},
 	{
@@ -8272,6 +9412,9 @@
 				"quantity": 7
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1378340221, 2013-09-05 00:17:01\n61 Fairy Tera Shards, 61 total Tera Shards\nx18 Fairy Tera Shard\nx18 Fairy Tera Shard\nx7 Star Piece\nx14 Fairy Tera Shard\nx11 Fairy Tera Shard"
 	},
 	{
@@ -8287,6 +9430,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1717943780, 2024-06-09 14:36:20\n60 Fairy Tera Shards, 60 total Tera Shards\nx2 Metal Alloy\nx10 Fairy Tera Shard\nx20 Fairy Tera Shard\nx18 Fairy Tera Shard\nx12 Fairy Tera Shard"
 	},
 	{
@@ -8302,6 +9448,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2224344371, 2040-06-26 17:26:11\n63 Fairy Tera Shards, 63 total Tera Shards\nx16 Fairy Tera Shard\nx2 Max Elixir\nx12 Fairy Tera Shard\nx20 Fairy Tera Shard\nx15 Fairy Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -8317,6 +9466,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2222214524, 2040-06-02 01:48:44\n66 Fairy Tera Shards, 66 total Tera Shards\nx10 Fairy Tera Shard\nx19 Fairy Tera Shard\nx1 Black Sludge\nx20 Fairy Tera Shard\nx17 Fairy Tera Shard"
 	},
 	{
@@ -8336,6 +9488,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2183028974, 2039-03-06 12:56:14\n60 Fairy Tera Shards, 67 total Tera Shards\nx20 Fairy Tera Shard\nx20 Fairy Tera Shard\nx7 Water Tera Shard\nx6 Tiny Bamboo Shoot\nx20 Fairy Tera Shard"
 	},
 	{
@@ -8351,6 +9506,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2160162667, 2038-06-14 21:11:07\n67 Fairy Tera Shards, 67 total Tera Shards\nx1 Safety Goggles\nx13 Fairy Tera Shard\nx17 Fairy Tera Shard\nx19 Fairy Tera Shard\nx18 Fairy Tera Shard"
 	},
 	{
@@ -8370,6 +9528,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2770242877, 2057-10-13 23:54:37\n60 Fairy Tera Shards, 60 total Tera Shards\nx20 Fairy Tera Shard\nx20 Fairy Tera Shard\nx7 Tiny Mushroom\nx20 Fairy Tera Shard\nx1 Elixir"
 	},
 	{
@@ -8385,6 +9546,9 @@
 				"quantity": 16
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2106335688, 2036-09-29 21:14:48\n69 Fairy Tera Shards, 85 total Tera Shards\nx15 Fairy Tera Shard\nx16 Normal Tera Shard\nx19 Fairy Tera Shard\nx15 Fairy Tera Shard\nx20 Fairy Tera Shard"
 	},
 	{
@@ -8400,6 +9564,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1033265849, 2002-09-29 02:17:29\n61 Fairy Tera Shards, 61 total Tera Shards\nx19 Fairy Tera Shard\nx1 Charcoal\nx12 Fairy Tera Shard\nx20 Fairy Tera Shard\nx10 Fairy Tera Shard"
 	},
 	{
@@ -8419,6 +9586,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 6,
 		"raw": "1018932514, 2002-04-16 04:48:34\n63 Fairy Tera Shards, 63 total Tera Shards\nx2 Never-Melt Ice\nx20 Fairy Tera Shard\nx19 Fairy Tera Shard\nx7 Fairy Tera Shard\nx17 Fairy Tera Shard\n--> Print 1 in regular mode to trigger ball bonus.\nx1 Iron"
 	},
 	{
@@ -8434,6 +9604,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "972579344, 2000-10-26 16:55:44\n60 Fairy Tera Shards, 60 total Tera Shards\nx9 Fairy Tera Shard\nx18 Fairy Tera Shard\nx18 Fairy Tera Shard\nx1 Light Clay\nx15 Fairy Tera Shard"
 	},
 	{
@@ -8453,6 +9626,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2857676088, 2060-07-21 22:54:48\n41 Stellar Tera Shards, 41 total Tera Shards\nx15 Stellar Tera Shard\nx5 Pretty Feather\nx13 Stellar Tera Shard\nx4 Hyper Potion\nx13 Stellar Tera Shard"
 	},
 	{
@@ -8472,6 +9648,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2693511264, 2055-05-09 21:34:24\n41 Stellar Tera Shards, 41 total Tera Shards\nx14 Stellar Tera Shard\nx13 Stellar Tera Shard\nx1 Scope Lens\nx14 Stellar Tera Shard\nx8 Big Bamboo Shoot"
 	},
 	{
@@ -8491,6 +9670,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2681726661, 2054-12-24 12:04:21\n43 Stellar Tera Shards, 43 total Tera Shards\nx2 Silver Powder\nx14 Stellar Tera Shard\nx15 Stellar Tera Shard\nx1 Metronome\nx14 Stellar Tera Shard"
 	},
 	{
@@ -8510,6 +9692,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2606594144, 2052-08-06 21:55:44\n43 Stellar Tera Shards, 43 total Tera Shards\nx15 Stellar Tera Shard\nx2 Iron\nx13 Stellar Tera Shard\nx1 Revive\nx15 Stellar Tera Shard"
 	},
 	{
@@ -8529,6 +9714,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2565435020, 2051-04-18 12:50:20\n41 Stellar Tera Shards, 60 total Tera Shards\nx14 Stellar Tera Shard\nx19 Flying Tera Shard\nx15 Stellar Tera Shard\nx2 Zinc\nx12 Stellar Tera Shard"
 	},
 	{
@@ -8548,6 +9736,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1394712799, 2014-03-13 12:13:19\n40 Stellar Tera Shards, 40 total Tera Shards\nx8 Exp. Candy M\nx14 Stellar Tera Shard\nx1 Prism Scale\nx12 Stellar Tera Shard\nx14 Stellar Tera Shard"
 	},
 	{
@@ -8567,6 +9758,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2083954082, 2036-01-14 20:08:02\n42 Stellar Tera Shards, 42 total Tera Shards\nx15 Stellar Tera Shard\nx13 Stellar Tera Shard\nx14 Stellar Tera Shard\nx1 Fire Stone\nx1 Star Sweet"
 	},
 	{
@@ -8586,6 +9780,9 @@
 				"quantity": 8
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1725993511, 2024-09-10 18:38:31\n40 Stellar Tera Shards, 40 total Tera Shards\nx13 Stellar Tera Shard\nx8 Tiny Bamboo Shoot\nx15 Stellar Tera Shard\nx9 Honey\nx12 Stellar Tera Shard"
 	},
 	{
@@ -8605,6 +9802,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1692448824, 2023-08-19 12:40:24\n40 Stellar Tera Shards, 40 total Tera Shards\nx14 Stellar Tera Shard\nx12 Stellar Tera Shard\nx1 Razor Fang\nx14 Stellar Tera Shard\nx6 Stardust"
 	},
 	{
@@ -8624,6 +9824,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1675467171, 2023-02-03 23:32:51\n42 Stellar Tera Shards, 42 total Tera Shards\nx15 Stellar Tera Shard\nx1 Black Glasses\nx15 Stellar Tera Shard\nx12 Stellar Tera Shard\nx3 Big Nugget"
 	},
 	{
@@ -8639,6 +9842,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2234513423, 2040-10-22 10:10:23\n44 Stellar Tera Shards, 44 total Tera Shards\nx9 Stellar Tera Shard\nx13 Stellar Tera Shard\nx7 Stellar Tera Shard\nx15 Stellar Tera Shard\nx3 Dawn Stone"
 	},
 	{
@@ -8658,6 +9864,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2210702733, 2040-01-20 20:05:33\n40 Stellar Tera Shards, 40 total Tera Shards\nx10 Stellar Tera Shard\nx6 Exp. Candy XS\nx2 Thunder Stone\nx15 Stellar Tera Shard\nx15 Stellar Tera Shard"
 	},
 	{
@@ -8677,6 +9886,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2192304086, 2039-06-21 21:21:26\n40 Stellar Tera Shards, 40 total Tera Shards\nx1 Calcium\nx15 Stellar Tera Shard\nx12 Stellar Tera Shard\nx10 Exp. Candy M\nx13 Stellar Tera Shard"
 	},
 	{
@@ -8696,6 +9908,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2188748328, 2039-05-11 17:38:48\n41 Stellar Tera Shards, 41 total Tera Shards\nx12 Stellar Tera Shard\nx14 Stellar Tera Shard\nx15 Stellar Tera Shard\nx1 Covert Cloak\nx1 Moon Stone"
 	},
 	{
@@ -8715,6 +9930,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2163538108, 2038-07-23 22:48:28\n45 Stellar Tera Shards, 45 total Tera Shards\nx1 Moon Stone\nx1 Toxic Orb\nx15 Stellar Tera Shard\nx15 Stellar Tera Shard\nx15 Stellar Tera Shard"
 	},
 	{
@@ -8734,6 +9952,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2162708030, 2038-07-14 08:13:50\n40 Stellar Tera Shards, 52 total Tera Shards\nx12 Flying Tera Shard\nx15 Stellar Tera Shard\nx6 Tiny Bamboo Shoot\nx14 Stellar Tera Shard\nx11 Stellar Tera Shard"
 	},
 	{
@@ -8753,6 +9974,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "ball-lotto",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1190836246, 2007-09-26 19:50:46\n40 Stellar Tera Shards, 40 total Tera Shards\nx15 Stellar Tera Shard\nx5 Max Ether\nx1 Twisted Spoon\nx15 Stellar Tera Shard\nx10 Stellar Tera Shard\n--> Print job triggers ball bonus if used in regular mode."
 	},
 	{
@@ -8772,6 +9996,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1188343159, 2007-08-28 23:19:19\n44 Stellar Tera Shards, 44 total Tera Shards\nx15 Stellar Tera Shard\nx5 Full Heal\nx14 Stellar Tera Shard\nx2 Protein\nx15 Stellar Tera Shard"
 	},
 	{
@@ -8791,6 +10018,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1165654034, 2006-12-09 08:47:14\n44 Stellar Tera Shards, 44 total Tera Shards\nx15 Stellar Tera Shard\nx3 Max Revive\nx14 Stellar Tera Shard\nx15 Stellar Tera Shard\nx1 Clover Sweet"
 	},
 	{
@@ -8806,6 +10036,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1157298193, 2006-09-03 15:43:13\n42 Stellar Tera Shards, 51 total Tera Shards\nx4 Stellar Tera Shard\nx9 Dark Tera Shard\nx15 Stellar Tera Shard\nx9 Stellar Tera Shard\nx14 Stellar Tera Shard"
 	},
 	{
@@ -8825,6 +10058,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1097875268, 2004-10-15 21:21:08\n41 Stellar Tera Shards, 41 total Tera Shards\nx2 Razor Claw\nx15 Stellar Tera Shard\nx13 Stellar Tera Shard\nx1 Black Belt\nx13 Stellar Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -8844,6 +10080,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1097529370, 2004-10-11 21:16:10\n41 Stellar Tera Shards, 41 total Tera Shards\nx15 Stellar Tera Shard\nx12 Stellar Tera Shard\nx1 Exp. Candy XL\nx14 Stellar Tera Shard\nx9 Pearl"
 	},
 	{
@@ -8863,6 +10102,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1052211202, 2003-05-06 08:53:22\n44 Stellar Tera Shards, 44 total Tera Shards\nx14 Stellar Tera Shard\nx15 Stellar Tera Shard\nx2 Pearl String\nx1 Max Potion\nx15 Stellar Tera Shard"
 	},
 	{
@@ -8878,6 +10120,9 @@
 				"quantity": 15
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1527527524, 2018-05-28 17:12:04\n43 Stellar Tera Shards, 43 total Tera Shards\nx10 Stellar Tera Shard\nx14 Stellar Tera Shard\nx6 Stellar Tera Shard\nx15 Exp. Candy M\nx13 Stellar Tera Shard"
 	},
 	{
@@ -8897,6 +10142,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1517087269, 2018-01-27 21:07:49\n41 Stellar Tera Shards, 41 total Tera Shards\nx2 Leaf Stone\nx14 Stellar Tera Shard\nx14 Stellar Tera Shard\nx4 Max Elixir\nx13 Stellar Tera Shard"
 	},
 	{
@@ -8916,6 +10164,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1474554249, 2016-09-22 14:24:09\n41 Stellar Tera Shards, 41 total Tera Shards\nx6 Exp. Candy XS\nx15 Stellar Tera Shard\nx2 Never-Melt Ice\nx15 Stellar Tera Shard\nx11 Stellar Tera Shard"
 	},
 	{
@@ -8935,6 +10186,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1457223782, 2016-03-06 00:23:02\n40 Stellar Tera Shards, 40 total Tera Shards\nx10 Stellar Tera Shard\nx3 HP Up\nx15 Stellar Tera Shard\nx15 Stellar Tera Shard\nx1 Dragon Fang"
 	},
 	{
@@ -8954,6 +10208,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1451181816, 2015-12-27 02:03:36\n40 Stellar Tera Shards, 56 total Tera Shards\nx3 Full Heal\nx15 Stellar Tera Shard\nx13 Stellar Tera Shard\nx12 Stellar Tera Shard\nx16 Dragon Tera Shard"
 	},
 	{
@@ -8969,6 +10226,9 @@
 				"quantity": 31
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1603966677, 2020-10-29 10:17:57\n40 Stellar Tera Shards, 71 total Tera Shards\nx13 Stellar Tera Shard\nx13 Stellar Tera Shard\nx17 Psychic Tera Shard\nx14 Stellar Tera Shard\nx14 Psychic Tera Shard"
 	},
 	{
@@ -8988,6 +10248,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1578694664, 2020-01-10 22:17:44\n41 Stellar Tera Shards, 41 total Tera Shards\nx14 Stellar Tera Shard\nx15 Stellar Tera Shard\nx4 Max Elixir\nx7 Nugget\nx12 Stellar Tera Shard"
 	},
 	{
@@ -9007,6 +10270,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1324024375, 2011-12-16 08:32:55\n42 Stellar Tera Shards, 42 total Tera Shards\nx2 Berry Sweet\nx1 Clover Sweet\nx15 Stellar Tera Shard\nx13 Stellar Tera Shard\nx14 Stellar Tera Shard"
 	},
 	{
@@ -9026,6 +10292,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1318250692, 2011-10-10 12:44:52\n41 Stellar Tera Shards, 41 total Tera Shards\nx1 Fire Stone\nx13 Stellar Tera Shard\nx2 Carbos\nx14 Stellar Tera Shard\nx14 Stellar Tera Shard"
 	},
 	{
@@ -9045,6 +10314,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1260042260, 2009-12-05 19:44:20\n41 Stellar Tera Shards, 41 total Tera Shards\nx14 Stellar Tera Shard\nx2 Upgrade\nx12 Stellar Tera Shard\nx5 Exp. Candy S\nx15 Stellar Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -9060,6 +10332,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2386946519, 2045-08-21 16:41:59\n47 Stellar Tera Shards, 47 total Tera Shards\nx11 Stellar Tera Shard\nx7 Stellar Tera Shard\nx14 Stellar Tera Shard\nx2 Masterpiece Teacup\nx15 Stellar Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -9079,6 +10354,9 @@
 				"quantity": 6
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2359105810, 2044-10-03 11:10:10\n40 Stellar Tera Shards, 40 total Tera Shards\nx6 Big Mushroom\nx13 Exp. Candy M\nx11 Stellar Tera Shard\nx15 Stellar Tera Shard\nx14 Stellar Tera Shard"
 	},
 	{
@@ -9098,6 +10376,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1837613881, 2028-03-25 16:18:01\n41 Stellar Tera Shards, 41 total Tera Shards\nx2 Iron\nx13 Stellar Tera Shard\nx2 Max Revive\nx13 Stellar Tera Shard\nx15 Stellar Tera Shard"
 	},
 	{
@@ -9117,6 +10398,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1834783845, 2028-02-21 22:10:45\n40 Stellar Tera Shards, 40 total Tera Shards\nx11 Stellar Tera Shard\nx3 Iron\nx14 Stellar Tera Shard\nx2 Prism Scale\nx15 Stellar Tera Shard"
 	},
 	{
@@ -9136,6 +10420,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1790924558, 2026-10-02 07:02:38\n43 Stellar Tera Shards, 43 total Tera Shards\nx2 Prism Scale\nx1 PP Up\nx13 Stellar Tera Shard\nx15 Stellar Tera Shard\nx15 Stellar Tera Shard"
 	},
 	{
@@ -9155,6 +10442,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1767154680, 2025-12-31 04:18:00\n42 Stellar Tera Shards, 42 total Tera Shards\nx12 Stellar Tera Shard\nx15 Stellar Tera Shard\nx6 Tiny Mushroom\nx15 Stellar Tera Shard\nx1 Protector"
 	},
 	{
@@ -9174,6 +10464,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1763295231, 2025-11-16 12:13:51\n41 Stellar Tera Shards, 47 total Tera Shards\nx1 Unremarkable Teacup\nx14 Stellar Tera Shard\nx12 Stellar Tera Shard\nx6 Psychic Tera Shard\nx15 Stellar Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -9193,6 +10486,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "1757229807, 2025-09-07 07:23:27\n44 Stellar Tera Shards, 44 total Tera Shards\nx1 Hard Stone\nx14 Stellar Tera Shard\nx15 Stellar Tera Shard\nx15 Stellar Tera Shard\nx1 Gold Bottle Cap\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -9212,6 +10508,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2038376319, 2034-08-05 07:38:39\n41 Stellar Tera Shards, 41 total Tera Shards\nx15 Stellar Tera Shard\nx12 Stellar Tera Shard\nx1 Clover Sweet\nx2 Soft Sand\nx14 Stellar Tera Shard"
 	},
 	{
@@ -9231,6 +10530,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2005325791, 2033-07-18 18:56:31\n41 Stellar Tera Shards, 46 total Tera Shards\nx2 Iron\nx13 Stellar Tera Shard\nx5 Ice Tera Shard\nx14 Stellar Tera Shard\nx14 Stellar Tera Shard"
 	},
 	{
@@ -9250,6 +10552,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1992058210, 2033-02-15 05:30:10\n42 Stellar Tera Shards, 42 total Tera Shards\nx15 Stellar Tera Shard\nx12 Stellar Tera Shard\nx15 Stellar Tera Shard\nx9 Rare Bone\nx2 Calcium"
 	},
 	{
@@ -9269,6 +10574,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1986476055, 2032-12-12 14:54:15\n44 Stellar Tera Shards, 44 total Tera Shards\nx15 Stellar Tera Shard\nx2 HP Up\nx15 Stellar Tera Shard\nx14 Stellar Tera Shard\nx7 Pretty Feather"
 	},
 	{
@@ -9288,6 +10596,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1983592552, 2032-11-09 05:55:52\n42 Stellar Tera Shards, 42 total Tera Shards\nx13 Stellar Tera Shard\nx15 Stellar Tera Shard\nx1 Fairy Feather\nx14 Stellar Tera Shard\nx1 Revive"
 	},
 	{
@@ -9307,6 +10618,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1918056511, 2030-10-12 17:28:31\n40 Stellar Tera Shards, 40 total Tera Shards\nx12 Stellar Tera Shard\nx13 Stellar Tera Shard\nx2 Metal Alloy\nx15 Stellar Tera Shard\nx3 HP Up"
 	},
 	{
@@ -9326,6 +10640,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1906093676, 2030-05-27 06:27:56\n41 Stellar Tera Shards, 53 total Tera Shards\nx12 Fighting Tera Shard\nx15 Stellar Tera Shard\nx1 Exp. Candy XL\nx11 Stellar Tera Shard\nx15 Stellar Tera Shard"
 	},
 	{
@@ -9345,6 +10662,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1880587034, 2029-08-05 01:17:14\n40 Stellar Tera Shards, 40 total Tera Shards\nx14 Stellar Tera Shard\nx2 Metal Coat\nx14 Stellar Tera Shard\nx12 Stellar Tera Shard\nx10 Big Bamboo Shoot"
 	},
 	{
@@ -9364,6 +10684,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1857599585, 2028-11-11 23:53:05\n41 Stellar Tera Shards, 57 total Tera Shards\nx14 Stellar Tera Shard\nx12 Stellar Tera Shard\nx16 Psychic Tera Shard\nx2 Magnet\nx15 Stellar Tera Shard"
 	},
 	{
@@ -9379,6 +10702,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2346609407, 2044-05-11 19:56:47\n57 Stellar Tera Shards, 57 total Tera Shards\nx2 Covert Cloak\nx15 Stellar Tera Shard\nx15 Stellar Tera Shard\nx12 Stellar Tera Shard\nx15 Stellar Tera Shard"
 	},
 	{
@@ -9398,6 +10724,9 @@
 				"quantity": 9
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2274909116, 2042-02-01 23:11:56\n43 Stellar Tera Shards, 43 total Tera Shards\nx10 Pearl\nx15 Stellar Tera Shard\nx9 Pretty Feather\nx14 Stellar Tera Shard\nx14 Stellar Tera Shard"
 	},
 	{
@@ -9417,6 +10746,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2264545393, 2041-10-05 00:23:13\n41 Stellar Tera Shards, 41 total Tera Shards\nx14 Stellar Tera Shard\nx3 Elixir\nx2 Covert Cloak\nx13 Stellar Tera Shard\nx14 Stellar Tera Shard"
 	},
 	{
@@ -9436,6 +10768,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2260429466, 2041-08-18 09:04:26\n40 Stellar Tera Shards, 40 total Tera Shards\nx14 Stellar Tera Shard\nx3 Ether\nx14 Stellar Tera Shard\nx12 Stellar Tera Shard\nx1 Metronome"
 	},
 	{
@@ -9455,6 +10790,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2258778125, 2041-07-30 06:22:05\n40 Stellar Tera Shards, 46 total Tera Shards\nx13 Stellar Tera Shard\nx15 Stellar Tera Shard\nx3 Star Piece\nx6 Dark Tera Shard\nx12 Stellar Tera Shard"
 	},
 	{
@@ -9474,6 +10812,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2257196250, 2041-07-11 22:57:30\n40 Stellar Tera Shards, 59 total Tera Shards\nx14 Stellar Tera Shard\nx15 Stellar Tera Shard\nx1 Shiny Stone\nx19 Ground Tera Shard\nx11 Stellar Tera Shard"
 	},
 	{
@@ -9493,6 +10834,9 @@
 				"quantity": 4
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2249509545, 2041-04-13 23:45:45\n44 Stellar Tera Shards, 44 total Tera Shards\nx4 Comet Shard\nx14 Stellar Tera Shard\nx5 Stardust\nx15 Stellar Tera Shard\nx15 Stellar Tera Shard"
 	},
 	{
@@ -9512,6 +10856,9 @@
 				"quantity": 2
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2537583717, 2050-05-31 04:21:57\n42 Stellar Tera Shards, 42 total Tera Shards\nx2 Gold Bottle Cap\nx4 Big Pearl\nx13 Stellar Tera Shard\nx14 Stellar Tera Shard\nx15 Stellar Tera Shard"
 	},
 	{
@@ -9531,6 +10878,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "item-bonus",
+		"triggers2": "10/10",
+		"printCount": 5,
 		"raw": "2492192472, 2048-12-21 19:41:12\n40 Stellar Tera Shards, 40 total Tera Shards\nx1 Elixir\nx4 Hyper Potion\nx15 Stellar Tera Shard\nx13 Stellar Tera Shard\nx12 Stellar Tera Shard\n--> Print job triggers item bonus if used in regular mode."
 	},
 	{
@@ -9550,6 +10900,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2487021710, 2048-10-22 23:21:50\n40 Stellar Tera Shards, 47 total Tera Shards\nx1 Charcoal\nx11 Stellar Tera Shard\nx15 Stellar Tera Shard\nx14 Stellar Tera Shard\nx7 Poison Tera Shard"
 	},
 	{
@@ -9569,6 +10922,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "2827154708, 2059-08-03 16:45:08\n40 Stellar Tera Shards, 40 total Tera Shards\nx2 Exp. Candy XL\nx1 Masterpiece Teacup\nx12 Stellar Tera Shard\nx13 Stellar Tera Shard\nx15 Stellar Tera Shard"
 	},
 	{
@@ -9588,6 +10944,9 @@
 				"quantity": 3
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "1040229046, 2002-12-18 16:30:46\n40 Stellar Tera Shards, 51 total Tera Shards\nx11 Fire Tera Shard\nx12 Stellar Tera Shard\nx14 Stellar Tera Shard\nx3 Protein\nx14 Stellar Tera Shard"
 	},
 	{
@@ -9607,6 +10966,9 @@
 				"quantity": 1
 			}
 		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
 		"raw": "981321565, 2001-02-04 21:19:25\n40 Stellar Tera Shards, 40 total Tera Shards\nx1 Revive\nx13 Stellar Tera Shard\nx8 Tiny Mushroom\nx15 Stellar Tera Shard\nx12 Stellar Tera Shard"
 	}
 ]

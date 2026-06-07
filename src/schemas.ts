@@ -136,6 +136,9 @@ export const SvItemPrinterTargetSchema = z.object({
 	printType: z.string(),
 	itemList: z.array(z.object({ item: z.string(), quantity: z.number() })),
 	bonus: z.string().optional(),
+	triggers: z.string(),
+	triggers2: z.string(),
+	printCount: z.number(),
 	raw: z.string(),
 });
 
