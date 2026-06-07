@@ -10,7 +10,6 @@
 		"parse-item-printer": "node ./tools/sv-item-printer-parser.js",
 		"build": "tsc && vite build",
 		"preview": "vite preview",
-		"prepare": "husky install",
 		"format": "prettier --write ."
 	},
 	"dependencies": {
