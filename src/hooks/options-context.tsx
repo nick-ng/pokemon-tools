@@ -104,7 +104,7 @@ export const defaultOptions: Options = {
 	],
 	svItemPrinterAdjustSeconds: 2,
 	svItemPrinterMinSeconds: 7,
-	svItemPrinterChosenTarget: 0,
+	svItemPrinterChosenTarget: "",
 };
 
 const toggleDarkMode = (darkMode: Options["darkMode"]) => {
