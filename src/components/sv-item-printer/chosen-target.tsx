@@ -55,6 +55,8 @@ export default function ChosenTarget({ chosenTarget }: ChosenTargetProps) {
 				</p>
 			</details>
 			<div className="grid grid-cols-2">
+				<div>Required Bonus</div>
+				<div>{chosenTarget.printType}</div>
 				<div>Date and Time</div>
 				<div>{timerData.dmyString}</div>
 				<div>Seconds</div>
@@ -137,10 +139,12 @@ export default function ChosenTarget({ chosenTarget }: ChosenTargetProps) {
 					Reset
 				</button>
 			</div>
-			<div>
-				<h4>Raw Entry</h4>
-				<pre>{chosenTarget.raw}</pre>
-			</div>
+			{chosenTarget.raw && (
+				<div>
+					<h4>Raw Entry</h4>
+					<pre>{chosenTarget.raw}</pre>
+				</div>
+			)}
 		</>
 	);
 }

@@ -23,7 +23,11 @@ export const getTimerData = (timestamp: number, minDelayS: number) => {
 	};
 };
 
-export const getMatchingCount = (printTarget: SvItemPrinterTarget, filterString: string) => {
+export const getMatchingCount = (
+	printTarget: SvItemPrinterTarget,
+	filterString: string,
+	fast = false
+) => {
 	if (!filterString) {
 		return 0;
 	}
@@ -32,9 +36,31 @@ export const getMatchingCount = (printTarget: SvItemPrinterTarget, filterString:
 	for (let i = 0; i < printTarget.itemList.length; i++) {
 		const item = printTarget.itemList[i];
 		if (item.item.toLowerCase().includes(filterString.toLowerCase())) {
+			if (fast) {
+				return item.quantity;
+			}
+
 			matchingCount = matchingCount + item.quantity;
 		}
 	}
 
 	return matchingCount;
+};
+
+export const getSortValue = (
+	printTarget: SvItemPrinterTarget,
+	filterString: string,
+	minDelayS: number
+) => {
+	const delaySeconds = getTimerData(printTarget.timestamp, minDelayS).delaySeconds;
+	const matchingCount = getMatchingCount(printTarget, filterString);
+	if (matchingCount >= 100) {
+		return delaySeconds;
+	}
+
+	if (matchingCount >= 50) {
+		return 5000 + delaySeconds;
+	}
+
+	return (100 - matchingCount) * 100 + delaySeconds;
 };

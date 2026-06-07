@@ -109,6 +109,7 @@ function parseSeed(seedString, printType) {
 	}
 
 	const printerTargetResult = SvItemPrinterTargetSchema.safeParse({
+		id: `${printType}-${printCount}-${seed}`,
 		timestamp: parseInt(seed, 10),
 		printType,
 		itemList: Object.values(itemMap).sort((a, b) => b.quantity - a.quantity),

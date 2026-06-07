@@ -43,7 +43,7 @@ const optionsSchema = z.object({
 	),
 	svItemPrinterAdjustSeconds: z.number().optional().default(1),
 	svItemPrinterMinSeconds: z.number().optional().default(7),
-	svItemPrinterChosenTarget: z.number().optional().default(0),
+	svItemPrinterChosenTarget: z.string().optional().default(""),
 });
 
 export type Options = z.infer<typeof optionsSchema>;

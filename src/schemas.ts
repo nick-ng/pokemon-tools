@@ -132,6 +132,7 @@ export const StopwatchSchema = z.object({
 export type Stopwatch = z.infer<typeof StopwatchSchema>;
 
 export const SvItemPrinterTargetSchema = z.object({
+	id: z.string(),
 	timestamp: z.number(),
 	printType: z.string(),
 	itemList: z.array(z.object({ item: z.string(), quantity: z.number() })),
