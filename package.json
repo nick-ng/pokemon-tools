@@ -10,7 +10,8 @@
 		"parse-item-printer": "node ./tools/sv-item-printer-parser.js",
 		"build": "tsc && vite build",
 		"preview": "vite preview",
-		"format": "prettier --write ."
+		"format": "prettier --write .",
+		"format:changed": "git diff --name-only main | xargs prettier --write --list-different"
 	},
 	"dependencies": {
 		"@types/react": "^18.0.26",
