@@ -16,11 +16,11 @@ jobs:
       - uses: actions/checkout@v6
       - uses: actions/setup-node@v6
         with:
-          node-version: 26
+          node-version: 24
       - run: |
           git config user.email nick-ng@users.noreply.github.com
           git config user.name "${GITHUB_ACTOR}"
-          npm ci --ignore-scripts
+          npm ci
           npm run build
           cp -R ./public/. ./dist
           cp ./dist/index.html ./dist/404.html
