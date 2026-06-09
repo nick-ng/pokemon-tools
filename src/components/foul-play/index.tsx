@@ -13,7 +13,6 @@ export default function FoulPlay() {
 			<label className="m-1 inline-block cursor-pointer select-none rounded-lg border border-gray-500 p-1">
 				Show All IVs:{" "}
 				<input
-					className=""
 					checked={minIVMaxShow === 31}
 					type="checkbox"
 					onChange={() => {

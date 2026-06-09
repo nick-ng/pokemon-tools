@@ -49,10 +49,16 @@ export default function ChosenTarget({ chosenTarget }: ChosenTargetProps) {
 						the remaining time.
 					</li>
 				</ol>
-				<p className="mb-2">
-					If you keep missing timing, try changing the "Adjustment Time". There is some fade-out/in
-					time which might be different on the different consoles.
+				<h4>Hints</h4>
+				<p>
+					After you press "A" to set the time, you can press "Home" twice to get back into the game.
+					The first press goes back to the home screen, the second press opens the game.
 				</p>
+				<p>
+					If you keep missing timing, try changing the "Adjustment". There is some fade-out/in time
+					which might be different on the different consoles.
+				</p>
+				<hr className="mb-2" />
 			</details>
 			<div className="grid grid-cols-2">
 				<div>Required Bonus</div>

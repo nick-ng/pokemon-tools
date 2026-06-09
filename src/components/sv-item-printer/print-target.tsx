@@ -27,7 +27,7 @@ export default function PrintTarget({ target, checked, filterString, onClick }: 
 			<div>
 				<input type="radio" checked={checked} readOnly />
 			</div>
-			<div className="">
+			<div>
 				{target.itemList.map((i) => {
 					const isIrrelevant =
 						filterString && !i.item.toLowerCase().includes(filterString.toLowerCase());
