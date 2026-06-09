@@ -12,7 +12,6 @@ export default function SvItemPrinter() {
 	const { options, setOptions } = useOptions();
 	const [targets, setTargets] = useState<SvItemPrinterTarget[]>([]);
 	const [filterString, setFilterString] = useState("");
-	const [isMobileChooserOpen, setIsMobileChooserOpen] = useState(false);
 	const [chosenPrintTypes, setChosenPrintTypes] = useState<string[]>([]);
 	const [chosenModeTriggers, setChosenModeTriggers] = useState<string[]>([]);
 
@@ -72,7 +71,52 @@ export default function SvItemPrinter() {
 
 	return (
 		<div className="w-full">
-			<h2>Scarlet & Violet Item Printer</h2>
+			<div className="flex flex-row justify-between">
+				<h2>Scarlet & Violet Item Printer</h2>
+				<div className="group relative">
+					Minimum Wait{" "}
+					<input
+						className="w-16"
+						type="number"
+						value={options.svItemPrinterMinSeconds}
+						onChange={(event) => {
+							setOptions({
+								svItemPrinterMinSeconds: event.currentTarget.valueAsNumber,
+							});
+						}}
+					/>
+					<div className="absolute top-full hidden border border-gray-500 bg-white p-2 group-hover:block">
+						Seeds that have a shorter wait than this will set the time to the previous minute and
+						the wait time will be increased by a minute.
+					</div>
+				</div>
+				<div>
+					Adjustment{" "}
+					<button
+						className="border border-gray-500 px-2"
+						type="button"
+						onClick={() => {
+							setOptions({
+								svItemPrinterAdjustSeconds: options.svItemPrinterAdjustSeconds - 1,
+							});
+						}}
+					>
+						-
+					</button>{" "}
+					{options.svItemPrinterAdjustSeconds}{" "}
+					<button
+						className="border border-gray-500 px-2"
+						type="button"
+						onClick={() => {
+							setOptions({
+								svItemPrinterAdjustSeconds: options.svItemPrinterAdjustSeconds + 1,
+							});
+						}}
+					>
+						+
+					</button>
+				</div>
+			</div>
 			<div className="lg:grid lg:grid-cols-2">
 				<details className="lg:hidden">
 					<summary>Item Printer Seeds</summary>
@@ -138,7 +182,7 @@ export default function SvItemPrinter() {
 					</div>
 					<div className="mb-2 flex flex-col items-stretch gap-1">
 						{visibleTargets.length > 0 ? (
-							visibleTargets.map((t, index) => (
+							visibleTargets.map((t) => (
 								<PrintTarget
 									key={t.id}
 									target={t}
@@ -148,7 +192,6 @@ export default function SvItemPrinter() {
 										setOptions({
 											svItemPrinterChosenTarget: t.id,
 										});
-										setIsMobileChooserOpen(false);
 									}}
 								/>
 							))
