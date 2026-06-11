@@ -148,7 +148,11 @@ export default function ChosenTarget({ chosenTarget }: ChosenTargetProps) {
 			{chosenTarget.raw && (
 				<div>
 					<h4>Raw Entry</h4>
-					<pre>{chosenTarget.raw}</pre>
+					{chosenTarget.raw.split("\n").map((l, i) => (
+						<pre key={`${l}-${i}`} className="ml-4 whitespace-pre-wrap -indent-4">
+							{l}
+						</pre>
+					))}
 				</div>
 			)}
 		</>
