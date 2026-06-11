@@ -1,0 +1,9112 @@
+[
+	{
+		"id": "ball-lotto-5-2703495290",
+		"timestamp": 2703495290,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Great Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2681864404",
+		"timestamp": 2681864404,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heal Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2500230105",
+		"timestamp": 2500230105,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Premier Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2034547662",
+		"timestamp": 2034547662,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heal Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2030861265",
+		"timestamp": 2030861265,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1131363128",
+		"timestamp": 1131363128,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Great Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1126104019",
+		"timestamp": 1126104019,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Poké Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2796565157",
+		"timestamp": 2796565157,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1819998982",
+		"timestamp": 1819998982,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Poké Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1431436039",
+		"timestamp": 1431436039,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heal Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1410946904",
+		"timestamp": 1410946904,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Poké Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2868083679",
+		"timestamp": 2868083679,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Great Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1939321056",
+		"timestamp": 1939321056,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Nest Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1906648590",
+		"timestamp": 1906648590,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Great Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2423978973",
+		"timestamp": 2423978973,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dusk Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2359711214",
+		"timestamp": 2359711214,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1514159058",
+		"timestamp": 1514159058,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heal Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1481948127",
+		"timestamp": 1481948127,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Great Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1471944185",
+		"timestamp": 1471944185,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Great Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-985813774",
+		"timestamp": 985813774,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Premier Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-982814789",
+		"timestamp": 982814789,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-965491665",
+		"timestamp": 965491665,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2105178913",
+		"timestamp": 2105178913,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Great Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2075015988",
+		"timestamp": 2075015988,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Nest Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2060352259",
+		"timestamp": 2060352259,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2244360971",
+		"timestamp": 2244360971,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Net Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2243443676",
+		"timestamp": 2243443676,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Poké Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2163496943",
+		"timestamp": 2163496943,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Premier Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2272967485",
+		"timestamp": 2272967485,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Poké Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2252897038",
+		"timestamp": 2252897038,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1303111431",
+		"timestamp": 1303111431,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1283287372",
+		"timestamp": 1283287372,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Great Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1248084368",
+		"timestamp": 1248084368,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Premier Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2493163222",
+		"timestamp": 2493163222,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1911109718",
+		"timestamp": 1911109718,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1003730964",
+		"timestamp": 1003730964,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-985905173",
+		"timestamp": 985905173,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2040690819",
+		"timestamp": 2040690819,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2775021716",
+		"timestamp": 2775021716,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-6-2192373823",
+		"timestamp": 2192373823,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 15
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 6,
+		"raw": "2192373823, 2039-06-22 16:43:43\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Fast Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx15 Fairy Tera Shard"
+	},
+	{
+		"id": "ball-lotto-5-1560836149",
+		"timestamp": 1560836149,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2763962685",
+		"timestamp": 2763962685,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2373357938",
+		"timestamp": 2373357938,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2773542517",
+		"timestamp": 2773542517,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2173828719",
+		"timestamp": 2173828719,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2732261037",
+		"timestamp": 2732261037,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2586695394",
+		"timestamp": 2586695394,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2846752420",
+		"timestamp": 2846752420,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1297022501",
+		"timestamp": 1297022501,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1879588391",
+		"timestamp": 1879588391,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1856618222",
+		"timestamp": 1856618222,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2832719994",
+		"timestamp": 2832719994,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1941946153",
+		"timestamp": 1941946153,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1684733771",
+		"timestamp": 1684733771,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2428107797",
+		"timestamp": 2428107797,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2384035736",
+		"timestamp": 2384035736,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1309484991",
+		"timestamp": 1309484991,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2837698167",
+		"timestamp": 2837698167,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1949203594",
+		"timestamp": 1949203594,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2296878993",
+		"timestamp": 2296878993,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1838693756",
+		"timestamp": 1838693756,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Sport Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1244233031",
+		"timestamp": 1244233031,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Sport Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2329230765",
+		"timestamp": 2329230765,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2657784681",
+		"timestamp": 2657784681,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2173593945",
+		"timestamp": 2173593945,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-1695544036",
+		"timestamp": 1695544036,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2117201835",
+		"timestamp": 2117201835,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-2075486361",
+		"timestamp": 2075486361,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-5-967029388",
+		"timestamp": 967029388,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1510174645",
+		"timestamp": 1510174645,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Luxury Ball",
+				"quantity": 45
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1792068382",
+		"timestamp": 1792068382,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Luxury Ball",
+				"quantity": 45
+			},
+			{
+				"item": "Premier Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2271196326",
+		"timestamp": 2271196326,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Luxury Ball",
+				"quantity": 45
+			},
+			{
+				"item": "Premier Ball",
+				"quantity": 5
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2157939452",
+		"timestamp": 2157939452,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Luxury Ball",
+				"quantity": 45
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1957701251",
+		"timestamp": 1957701251,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Luxury Ball",
+				"quantity": 45
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1947404537",
+		"timestamp": 1947404537,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Luxury Ball",
+				"quantity": 45
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1216729862",
+		"timestamp": 1216729862,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Premier Ball",
+				"quantity": 50
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1212837704",
+		"timestamp": 1212837704,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Premier Ball",
+				"quantity": 50
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1903909056",
+		"timestamp": 1903909056,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Premier Ball",
+				"quantity": 50
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2747276634",
+		"timestamp": 2747276634,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Premier Ball",
+				"quantity": 50
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1458461110",
+		"timestamp": 1458461110,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Premier Ball",
+				"quantity": 50
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1183080884",
+		"timestamp": 1183080884,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Great Ball",
+				"quantity": 50
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-11-2745147720",
+		"timestamp": 2745147720,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 11
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 11,
+		"raw": "2745147720, 2056-12-27 13:02:00\nx1 Sport Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Fast Ball\nx1 Master Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Dream Ball\nx1 Moon Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx11 Fairy Tera Shard"
+	},
+	{
+		"id": "ball-lotto-10-2737319605",
+		"timestamp": 2737319605,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2724335970",
+		"timestamp": 2724335970,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2716057470",
+		"timestamp": 2716057470,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2698165466",
+		"timestamp": 2698165466,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2682318020",
+		"timestamp": 2682318020,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2662019055",
+		"timestamp": 2662019055,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2817796320",
+		"timestamp": 2817796320,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2808156450",
+		"timestamp": 2808156450,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2800924714",
+		"timestamp": 2800924714,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2795257743",
+		"timestamp": 2795257743,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2789982144",
+		"timestamp": 2789982144,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-11-2780151361",
+		"timestamp": 2780151361,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Star Piece",
+				"quantity": 5
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 11,
+		"raw": "2780151361, 2058-02-05 16:16:01\nx1 Lure Ball\nx1 Lure Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Level Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Safari Ball\nx1 Sport Ball\n--> Print 1 in regular mode to trigger item bonus.\nx5 Star Piece"
+	},
+	{
+		"id": "ball-lotto-10-2776694435",
+		"timestamp": 2776694435,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2750376985",
+		"timestamp": 2750376985,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2643846437",
+		"timestamp": 2643846437,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2636541479",
+		"timestamp": 2636541479,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2606692588",
+		"timestamp": 2606692588,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2604723116",
+		"timestamp": 2604723116,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2591740043",
+		"timestamp": 2591740043,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2588473401",
+		"timestamp": 2588473401,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2577595663",
+		"timestamp": 2577595663,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2575181455",
+		"timestamp": 2575181455,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2568350011",
+		"timestamp": 2568350011,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2567448714",
+		"timestamp": 2567448714,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2565028051",
+		"timestamp": 2565028051,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2560584796",
+		"timestamp": 2560584796,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2560032185",
+		"timestamp": 2560032185,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2553952497",
+		"timestamp": 2553952497,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Sport Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2512943468",
+		"timestamp": 2512943468,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2497968338",
+		"timestamp": 2497968338,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2479124153",
+		"timestamp": 2479124153,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2478259214",
+		"timestamp": 2478259214,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2467953567",
+		"timestamp": 2467953567,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2467691782",
+		"timestamp": 2467691782,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Sport Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2467524150",
+		"timestamp": 2467524150,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2458877906",
+		"timestamp": 2458877906,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2454503191",
+		"timestamp": 2454503191,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2454059225",
+		"timestamp": 2454059225,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1930541079",
+		"timestamp": 1930541079,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1898690945",
+		"timestamp": 1898690945,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1892793732",
+		"timestamp": 1892793732,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1888036182",
+		"timestamp": 1888036182,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1874339405",
+		"timestamp": 1874339405,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1870905134",
+		"timestamp": 1870905134,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1870659358",
+		"timestamp": 1870659358,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1865195538",
+		"timestamp": 1865195538,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1646465743",
+		"timestamp": 1646465743,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1638365396",
+		"timestamp": 1638365396,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1621540494",
+		"timestamp": 1621540494,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-11-1621391686",
+		"timestamp": 1621391686,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Big Nugget",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 11,
+		"raw": "1621391686, 2021-05-19 02:34:46\nx1 Level Ball\nx1 Dream Ball\nx1 Safari Ball\nx1 Heavy Ball\nx1 Sport Ball\nx1 Moon Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Sport Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx2 Big Nugget"
+	},
+	{
+		"id": "ball-lotto-10-1617181884",
+		"timestamp": 1617181884,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1612980289",
+		"timestamp": 1612980289,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1599107652",
+		"timestamp": 1599107652,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1594850892",
+		"timestamp": 1594850892,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1583217498",
+		"timestamp": 1583217498,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1576297694",
+		"timestamp": 1576297694,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1573295844",
+		"timestamp": 1573295844,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-11-1565507167",
+		"timestamp": 1565507167,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Pretty Feather",
+				"quantity": 9
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 11,
+		"raw": "1565507167, 2019-08-11 07:06:07\nx1 Lure Ball\nx1 Safari Ball\nx1 Moon Ball\nx1 Master Ball\nx1 Beast Ball\nx1 Sport Ball\nx1 Safari Ball\nx1 Safari Ball\nx1 Level Ball\nx1 Moon Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx9 Pretty Feather"
+	},
+	{
+		"id": "ball-lotto-10-1560378288",
+		"timestamp": 1560378288,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2437053842",
+		"timestamp": 2437053842,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2435349196",
+		"timestamp": 2435349196,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2435159237",
+		"timestamp": 2435159237,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2426189917",
+		"timestamp": 2426189917,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2410885857",
+		"timestamp": 2410885857,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2409085415",
+		"timestamp": 2409085415,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2389949344",
+		"timestamp": 2389949344,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2384226312",
+		"timestamp": 2384226312,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2350479619",
+		"timestamp": 2350479619,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2349383093",
+		"timestamp": 2349383093,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1535764692",
+		"timestamp": 1535764692,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1514716642",
+		"timestamp": 1514716642,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1507409028",
+		"timestamp": 1507409028,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1505317065",
+		"timestamp": 1505317065,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1482470209",
+		"timestamp": 1482470209,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1479982217",
+		"timestamp": 1479982217,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1479424137",
+		"timestamp": 1479424137,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1478047880",
+		"timestamp": 1478047880,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1468197296",
+		"timestamp": 1468197296,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Sport Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1463710273",
+		"timestamp": 1463710273,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1463279658",
+		"timestamp": 1463279658,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Sport Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1462332711",
+		"timestamp": 1462332711,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1461403142",
+		"timestamp": 1461403142,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1460642439",
+		"timestamp": 1460642439,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1040066804",
+		"timestamp": 1040066804,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 5
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1033748384",
+		"timestamp": 1033748384,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1030715666",
+		"timestamp": 1030715666,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1024714223",
+		"timestamp": 1024714223,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1017657925",
+		"timestamp": 1017657925,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1014870700",
+		"timestamp": 1014870700,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1012306751",
+		"timestamp": 1012306751,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1011644782",
+		"timestamp": 1011644782,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1003594747",
+		"timestamp": 1003594747,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-993726872",
+		"timestamp": 993726872,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Sport Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-990455416",
+		"timestamp": 990455416,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-11-989870152",
+		"timestamp": 989870152,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Pretty Feather",
+				"quantity": 5
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 11,
+		"raw": "989870152, 2001-05-14 19:55:52\nx1 Safari Ball\nx1 Sport Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Lure Ball\nx1 Level Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Beast Ball\nx1 Moon Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx5 Pretty Feather"
+	},
+	{
+		"id": "ball-lotto-10-978566032",
+		"timestamp": 978566032,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-978185625",
+		"timestamp": 978185625,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-969692371",
+		"timestamp": 969692371,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-967655004",
+		"timestamp": 967655004,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-957153239",
+		"timestamp": 957153239,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1113226891",
+		"timestamp": 1113226891,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1109212933",
+		"timestamp": 1109212933,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1104821686",
+		"timestamp": 1104821686,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1103934138",
+		"timestamp": 1103934138,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1101117825",
+		"timestamp": 1101117825,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1092301416",
+		"timestamp": 1092301416,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1085652807",
+		"timestamp": 1085652807,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1079725466",
+		"timestamp": 1079725466,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1068409042",
+		"timestamp": 1068409042,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1055157884",
+		"timestamp": 1055157884,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1332176662",
+		"timestamp": 1332176662,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1332155982",
+		"timestamp": 1332155982,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1322299173",
+		"timestamp": 1322299173,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1296064572",
+		"timestamp": 1296064572,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1290264887",
+		"timestamp": 1290264887,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1286641656",
+		"timestamp": 1286641656,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1285694354",
+		"timestamp": 1285694354,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1274511131",
+		"timestamp": 1274511131,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1267995878",
+		"timestamp": 1267995878,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1265367385",
+		"timestamp": 1265367385,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1256652106",
+		"timestamp": 1256652106,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1253205427",
+		"timestamp": 1253205427,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2210643877",
+		"timestamp": 2210643877,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2207775832",
+		"timestamp": 2207775832,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2193292522",
+		"timestamp": 2193292522,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2190488113",
+		"timestamp": 2190488113,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2155942209",
+		"timestamp": 2155942209,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2151871058",
+		"timestamp": 2151871058,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1740632747",
+		"timestamp": 1740632747,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1736768409",
+		"timestamp": 1736768409,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1718402849",
+		"timestamp": 1718402849,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1707391717",
+		"timestamp": 1707391717,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1689542954",
+		"timestamp": 1689542954,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1673739273",
+		"timestamp": 1673739273,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1653564669",
+		"timestamp": 1653564669,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1650553548",
+		"timestamp": 1650553548,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2120799538",
+		"timestamp": 2120799538,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2116190188",
+		"timestamp": 2116190188,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2113158393",
+		"timestamp": 2113158393,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2102175604",
+		"timestamp": 2102175604,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2099897630",
+		"timestamp": 2099897630,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2087709784",
+		"timestamp": 2087709784,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2087350872",
+		"timestamp": 2087350872,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Master Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2086434913",
+		"timestamp": 2086434913,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2083355915",
+		"timestamp": 2083355915,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2080416556",
+		"timestamp": 2080416556,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2073951180",
+		"timestamp": 2073951180,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2068996707",
+		"timestamp": 2068996707,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2054307786",
+		"timestamp": 2054307786,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2049993695",
+		"timestamp": 2049993695,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2049456228",
+		"timestamp": 2049456228,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2046639394",
+		"timestamp": 2046639394,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2039511413",
+		"timestamp": 2039511413,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-11-2019086433",
+		"timestamp": 2019086433,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 8
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 11,
+		"raw": "2019086433, 2033-12-25 01:20:33\nx1 Fast Ball\nx1 Safari Ball\nx1 Beast Ball\nx1 Dream Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Lure Ball\nx1 Friend Ball\nx1 Safari Ball\nx1 Friend Ball\n--> Print 1 in regular mode to trigger ball bonus.\nx8 Exp. Candy XS"
+	},
+	{
+		"id": "ball-lotto-10-1987246613",
+		"timestamp": 1987246613,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1970804410",
+		"timestamp": 1970804410,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1957723908",
+		"timestamp": 1957723908,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1949209749",
+		"timestamp": 1949209749,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1233740168",
+		"timestamp": 1233740168,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1207497387",
+		"timestamp": 1207497387,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1206116599",
+		"timestamp": 1206116599,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1189493742",
+		"timestamp": 1189493742,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1184316297",
+		"timestamp": 1184316297,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1179986414",
+		"timestamp": 1179986414,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1179250324",
+		"timestamp": 1179250324,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1177772764",
+		"timestamp": 1177772764,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1173858243",
+		"timestamp": 1173858243,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1168451155",
+		"timestamp": 1168451155,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1164426576",
+		"timestamp": 1164426576,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1160085393",
+		"timestamp": 1160085393,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1149975515",
+		"timestamp": 1149975515,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1147828263",
+		"timestamp": 1147828263,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1444411743",
+		"timestamp": 1444411743,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1441314211",
+		"timestamp": 1441314211,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1429269292",
+		"timestamp": 1429269292,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1394948697",
+		"timestamp": 1394948697,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1373158934",
+		"timestamp": 1373158934,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1354792565",
+		"timestamp": 1354792565,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1349466253",
+		"timestamp": 1349466253,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1348008861",
+		"timestamp": 1348008861,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2334255571",
+		"timestamp": 2334255571,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2329777398",
+		"timestamp": 2329777398,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2315563708",
+		"timestamp": 2315563708,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Beast Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2312944360",
+		"timestamp": 2312944360,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2298358178",
+		"timestamp": 2298358178,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2297995908",
+		"timestamp": 2297995908,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2296115959",
+		"timestamp": 2296115959,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Lure Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2287516471",
+		"timestamp": 2287516471,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2250407431",
+		"timestamp": 2250407431,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-2247243149",
+		"timestamp": 2247243149,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1843097309",
+		"timestamp": 1843097309,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1841232224",
+		"timestamp": 1841232224,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Safari Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1837333723",
+		"timestamp": 1837333723,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Friend Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Master Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1829222788",
+		"timestamp": 1829222788,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Heavy Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1828846643",
+		"timestamp": 1828846643,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1817686532",
+		"timestamp": 1817686532,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Dream Ball",
+				"quantity": 4
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1801338734",
+		"timestamp": 1801338734,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Love Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1776366133",
+		"timestamp": 1776366133,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1753525311",
+		"timestamp": 1753525311,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Sport Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Level Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Safari Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Beast Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Lure Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "ball-lotto-10-1746778113",
+		"timestamp": 1746778113,
+		"printType": "ball-lotto",
+		"itemList": [
+			{
+				"item": "Level Ball",
+				"quantity": 3
+			},
+			{
+				"item": "Fast Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Friend Ball",
+				"quantity": 2
+			},
+			{
+				"item": "Dream Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Sport Ball",
+				"quantity": 1
+			},
+			{
+				"item": "Love Ball",
+				"quantity": 1
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	}
+]

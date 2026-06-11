@@ -1,0 +1,9550 @@
+[
+	{
+		"id": "item-bonus-5-2125376619",
+		"timestamp": 2125376619,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ability Patch",
+				"quantity": 14
+			},
+			{
+				"item": "Big Mushroom",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-958172368",
+		"timestamp": 958172368,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ability Patch",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1753036838",
+		"timestamp": 1753036838,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ability Patch",
+				"quantity": 14
+			},
+			{
+				"item": "Cracked Pot",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1251965818",
+		"timestamp": 1251965818,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ability Patch",
+				"quantity": 14
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2787808570",
+		"timestamp": 2787808570,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 26
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 18
+			},
+			{
+				"item": "Full Heal",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2617922273",
+		"timestamp": 2617922273,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 32
+			},
+			{
+				"item": "Carbos",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2440438517",
+		"timestamp": 2440438517,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 32
+			},
+			{
+				"item": "Soft Sand",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1443607926",
+		"timestamp": 1443607926,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 28
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 18
+			},
+			{
+				"item": "Miracle Seed",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1417524481",
+		"timestamp": 1417524481,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 26
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 20
+			},
+			{
+				"item": "Full Restore",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1803056258",
+		"timestamp": 1803056258,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Exp. Candy L",
+				"quantity": 44
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2022305406",
+		"timestamp": 2022305406,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 30
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 24
+			},
+			{
+				"item": "Pearl",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1991472489",
+		"timestamp": 1991472489,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 28
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 20
+			},
+			{
+				"item": "Protein",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1948710203",
+		"timestamp": 1948710203,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 28
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 12
+			},
+			{
+				"item": "Star Piece",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1516786168",
+		"timestamp": 1516786168,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 18
+			},
+			{
+				"item": "Gold Bottle Cap",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2845922429",
+		"timestamp": 2845922429,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 96
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 10
+			},
+			{
+				"item": "Never-Melt Ice",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2720079932",
+		"timestamp": 2720079932,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 56
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 14
+			},
+			{
+				"item": "Reaper Cloth",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1641647945",
+		"timestamp": 1641647945,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 64
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 22
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 18
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1619023091",
+		"timestamp": 1619023091,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 78
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 66
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 12
+			},
+			{
+				"item": "Berry Sweet",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1142302146",
+		"timestamp": 1142302146,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 74
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Honey",
+				"quantity": 12
+			},
+			{
+				"item": "Oval Stone",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1134939784",
+		"timestamp": 1134939784,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 54
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Nugget",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1123045368",
+		"timestamp": 1123045368,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 78
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 78
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 14
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 12
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1097398882",
+		"timestamp": 1097398882,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 100
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 58
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Ether",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1096632749",
+		"timestamp": 1096632749,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 16
+			},
+			{
+				"item": "Full Restore",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2606894879",
+		"timestamp": 2606894879,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 66
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 58
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "Metronome",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2566409575",
+		"timestamp": 2566409575,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "Spell Tag",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1819930382",
+		"timestamp": 1819930382,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 78
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1810453955",
+		"timestamp": 1810453955,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 62
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Revive",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1807475931",
+		"timestamp": 1807475931,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 104
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 68
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 12
+			},
+			{
+				"item": "Metronome",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1802455938",
+		"timestamp": 1802455938,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Leaf Stone",
+				"quantity": 6
+			},
+			{
+				"item": "Magnet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1790348036",
+		"timestamp": 1790348036,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 66
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 60
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1016374695",
+		"timestamp": 1016374695,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 76
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 22
+			},
+			{
+				"item": "Big Pearl",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-975006401",
+		"timestamp": 975006401,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 78
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 72
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 16
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 10
+			},
+			{
+				"item": "Flame Orb",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-968018799",
+		"timestamp": 968018799,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2126368738",
+		"timestamp": 2126368738,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Big Nugget",
+				"quantity": 10
+			},
+			{
+				"item": "Carbos",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-11-2083384390",
+		"timestamp": 2083384390,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 56
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "Ether",
+				"quantity": 6
+			},
+			{
+				"item": "Silk Scarf",
+				"quantity": 1
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 11,
+		"raw": "2083384390, 2036-01-08 05:53:10\n292 total Tera Shards\nx38 Flying Tera Shard\nx6 Ether\nx32 Flying Tera Shard\nx26 Poison Tera Shard\nx40 Steel Tera Shard\nx40 Fairy Tera Shard\nx26 Dragon Tera Shard\nx34 Psychic Tera Shard\nx40 Water Tera Shard\nx16 Fairy Tera Shard\n--> Print 1 in regular mode to trigger item bonus.\nx1 Silk Scarf"
+	},
+	{
+		"id": "item-bonus-10-2074288818",
+		"timestamp": 2074288818,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "Zinc",
+				"quantity": 4
+			},
+			{
+				"item": "Cracked Pot",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2439179312",
+		"timestamp": 2439179312,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 60
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 42
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2387001714",
+		"timestamp": 2387001714,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 76
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Full Restore",
+				"quantity": 8
+			},
+			{
+				"item": "Focus Band",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2359699561",
+		"timestamp": 2359699561,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "PP Up",
+				"quantity": 10
+			},
+			{
+				"item": "Poison Barb",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2528053407",
+		"timestamp": 2528053407,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 62
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 60
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 18
+			},
+			{
+				"item": "Pearl",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2462622834",
+		"timestamp": 2462622834,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 62
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 58
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2451639349",
+		"timestamp": 2451639349,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 58
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Strawberry Sweet",
+				"quantity": 4
+			},
+			{
+				"item": "Razor Fang",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1924222284",
+		"timestamp": 1924222284,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1917781221",
+		"timestamp": 1917781221,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 68
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Elixir",
+				"quantity": 8
+			},
+			{
+				"item": "Light Clay",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1915571227",
+		"timestamp": 1915571227,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 114
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Rare Bone",
+				"quantity": 16
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1880854442",
+		"timestamp": 1880854442,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 64
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 58
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Pearl",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1866565681",
+		"timestamp": 1866565681,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 76
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 74
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 50
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Big Pearl",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1664640177",
+		"timestamp": 1664640177,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "Max Revive",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1439684452",
+		"timestamp": 1439684452,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Poison Barb",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1415172074",
+		"timestamp": 1415172074,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Pearl String",
+				"quantity": 4
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1412992639",
+		"timestamp": 1412992639,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 64
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 42
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Cracked Pot",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1392583334",
+		"timestamp": 1392583334,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 76
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 58
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Exp. Candy S",
+				"quantity": 22
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1377356013",
+		"timestamp": 1377356013,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 88
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 68
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Rare Bone",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1363430655",
+		"timestamp": 1363430655,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 18
+			},
+			{
+				"item": "Sun Stone",
+				"quantity": 6
+			},
+			{
+				"item": "Focus Band",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2027330280",
+		"timestamp": 2027330280,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 78
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 58
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Exp. Candy S",
+				"quantity": 24
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 24
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1992460523",
+		"timestamp": 1992460523,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 76
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 22
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 20
+			},
+			{
+				"item": "Hyper Potion",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1968574350",
+		"timestamp": 1968574350,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 72
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 16
+			},
+			{
+				"item": "Elixir",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2256210016",
+		"timestamp": 2256210016,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Dragon Scale",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2215438903",
+		"timestamp": 2215438903,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 90
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 60
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Light Clay",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2214356144",
+		"timestamp": 2214356144,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 104
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 22
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2212982075",
+		"timestamp": 2212982075,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Calcium",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2212022370",
+		"timestamp": 2212022370,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 68
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 64
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Stardust",
+				"quantity": 12
+			},
+			{
+				"item": "PP Max",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2200029325",
+		"timestamp": 2200029325,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 78
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 64
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Max Potion",
+				"quantity": 8
+			},
+			{
+				"item": "Sun Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2160010800",
+		"timestamp": 2160010800,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 62
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 18
+			},
+			{
+				"item": "Mystic Water",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-2154966633",
+		"timestamp": 2154966633,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Thunder Stone",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1177718649",
+		"timestamp": 1177718649,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 22
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 14
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 12
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1155440696",
+		"timestamp": 1155440696,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 74
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 68
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Max Revive",
+				"quantity": 8
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1541955602",
+		"timestamp": 1541955602,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 56
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Oval Stone",
+				"quantity": 6
+			},
+			{
+				"item": "Razor Fang",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1539658397",
+		"timestamp": 1539658397,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 76
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Pearl",
+				"quantity": 10
+			},
+			{
+				"item": "Miracle Seed",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1523992876",
+		"timestamp": 1523992876,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 64
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 60
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Air Balloon",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1514282316",
+		"timestamp": 1514282316,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 54
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1501612379",
+		"timestamp": 1501612379,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Max Revive",
+				"quantity": 4
+			},
+			{
+				"item": "Moon Stone",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1490981528",
+		"timestamp": 1490981528,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 68
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 64
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 60
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "Pearl",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1474120070",
+		"timestamp": 1474120070,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 22
+			},
+			{
+				"item": "Magmarizer",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1454017903",
+		"timestamp": 1454017903,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 70
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 66
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 62
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1452172778",
+		"timestamp": 1452172778,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 66
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 12
+			},
+			{
+				"item": "Dubious Disc",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-10-1250763689",
+		"timestamp": 1250763689,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 74
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 56
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 22
+			},
+			{
+				"item": "PP Up",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 10,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2732802762",
+		"timestamp": 2732802762,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "PP Max",
+				"quantity": 18
+			},
+			{
+				"item": "HP Up",
+				"quantity": 4
+			},
+			{
+				"item": "Black Glasses",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2859664251",
+		"timestamp": 2859664251,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "PP Max",
+				"quantity": 18
+			},
+			{
+				"item": "Protein",
+				"quantity": 2
+			},
+			{
+				"item": "Iron",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2510612217",
+		"timestamp": 2510612217,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "PP Max",
+				"quantity": 18
+			},
+			{
+				"item": "Ability Capsule",
+				"quantity": 2
+			},
+			{
+				"item": "Magnet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2007638310",
+		"timestamp": 2007638310,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "PP Max",
+				"quantity": 18
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 12
+			},
+			{
+				"item": "Max Elixir",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2547055383",
+		"timestamp": 2547055383,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "PP Max",
+				"quantity": 18
+			},
+			{
+				"item": "Protector",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1771528614",
+		"timestamp": 1771528614,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "PP Max",
+				"quantity": 18
+			},
+			{
+				"item": "Zinc",
+				"quantity": 6
+			},
+			{
+				"item": "Leaf Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1899477849",
+		"timestamp": 1899477849,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "PP Max",
+				"quantity": 18
+			},
+			{
+				"item": "Honey",
+				"quantity": 14
+			},
+			{
+				"item": "Revive",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1853094662",
+		"timestamp": 1853094662,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "PP Max",
+				"quantity": 18
+			},
+			{
+				"item": "Loaded Dice",
+				"quantity": 4
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1153764646",
+		"timestamp": 1153764646,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "PP Max",
+				"quantity": 18
+			},
+			{
+				"item": "Strawberry Sweet",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2584431456",
+		"timestamp": 2584431456,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1620159729",
+		"timestamp": 1620159729,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Heavy-Duty Boots",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1116689456",
+		"timestamp": 1116689456,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 142
+			},
+			{
+				"item": "Calcium",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2656176905",
+		"timestamp": 2656176905,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Upgrade",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2382234012",
+		"timestamp": 2382234012,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Ribbon Sweet",
+				"quantity": 2
+			},
+			{
+				"item": "Ability Patch",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2246577010",
+		"timestamp": 2246577010,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 134
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2168027019",
+		"timestamp": 2168027019,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 36
+			},
+			{
+				"item": "Loaded Dice",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1238873395",
+		"timestamp": 1238873395,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Big Pearl",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1171409762",
+		"timestamp": 1171409762,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Love Sweet",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1161074371",
+		"timestamp": 1161074371,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2059832076",
+		"timestamp": 2059832076,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Big Pearl",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1355425401",
+		"timestamp": 1355425401,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Water Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2669513710",
+		"timestamp": 2669513710,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 148
+			},
+			{
+				"item": "Honey",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2332425080",
+		"timestamp": 2332425080,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Flower Sweet",
+				"quantity": 4
+			},
+			{
+				"item": "Covert Cloak",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2318569574",
+		"timestamp": 2318569574,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2442824593",
+		"timestamp": 2442824593,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Spell Tag",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2407271395",
+		"timestamp": 2407271395,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Everstone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2405043149",
+		"timestamp": 2405043149,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Revive",
+				"quantity": 4
+			},
+			{
+				"item": "Silk Scarf",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2583899239",
+		"timestamp": 2583899239,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1938578183",
+		"timestamp": 1938578183,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1938066389",
+		"timestamp": 1938066389,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Moon Stone",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1830691016",
+		"timestamp": 1830691016,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Pearl",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1799105524",
+		"timestamp": 1799105524,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 28
+			},
+			{
+				"item": "Max Elixir",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2132473510",
+		"timestamp": 2132473510,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Light Clay",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2104069062",
+		"timestamp": 2104069062,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Rare Bone",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1581706262",
+		"timestamp": 1581706262,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Black Glasses",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2526612421",
+		"timestamp": 2526612421,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 132
+			},
+			{
+				"item": "Iron",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2457647833",
+		"timestamp": 2457647833,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 136
+			},
+			{
+				"item": "Love Sweet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2455478508",
+		"timestamp": 2455478508,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Iron",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2183487865",
+		"timestamp": 2183487865,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Ether",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1156142024",
+		"timestamp": 1156142024,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Mystic Water",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1051233592",
+		"timestamp": 1051233592,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2705180748",
+		"timestamp": 2705180748,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Zinc",
+				"quantity": 4
+			},
+			{
+				"item": "Calcium",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2419526534",
+		"timestamp": 2419526534,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Full Restore",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1944028792",
+		"timestamp": 1944028792,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Focus Band",
+				"quantity": 4
+			},
+			{
+				"item": "Super Potion",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2037369770",
+		"timestamp": 2037369770,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 12
+			},
+			{
+				"item": "Cracked Pot",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2606254987",
+		"timestamp": 2606254987,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 26
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2585110513",
+		"timestamp": 2585110513,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Pearl String",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2854895633",
+		"timestamp": 2854895633,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Stardust",
+				"quantity": 18
+			},
+			{
+				"item": "Calcium",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2308252206",
+		"timestamp": 2308252206,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 12
+			},
+			{
+				"item": "Max Potion",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1432281714",
+		"timestamp": 1432281714,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Safety Goggles",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1841229082",
+		"timestamp": 1841229082,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1808402505",
+		"timestamp": 1808402505,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 132
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 30
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1008478631",
+		"timestamp": 1008478631,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 32
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2048953262",
+		"timestamp": 2048953262,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 140
+			},
+			{
+				"item": "Thunder Stone",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1587759185",
+		"timestamp": 1587759185,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Black Glasses",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1058041443",
+		"timestamp": 1058041443,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 132
+			},
+			{
+				"item": "HP Up",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1051363405",
+		"timestamp": 1051363405,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Water Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Comet Shard",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2725742614",
+		"timestamp": 2725742614,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Big Mushroom",
+				"quantity": 12
+			},
+			{
+				"item": "Cracked Pot",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2701330462",
+		"timestamp": 2701330462,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Light Clay",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-6-2588755981",
+		"timestamp": 2588755981,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 16
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 14
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 6,
+		"raw": "2588755981, 2052-01-13 10:53:01\n122 Electric Tera Shards, 138 total Tera Shards\nx36 Electric Tera Shard\nx18 Electric Tera Shard\nx14 Big Bamboo Shoot\nx34 Electric Tera Shard\nx34 Electric Tera Shard\n--> Print 1 in regular mode to trigger item bonus.\nx16 Rock Tera Shard"
+	},
+	{
+		"id": "item-bonus-5-2518516822",
+		"timestamp": 2518516822,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 16
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2237888679",
+		"timestamp": 2237888679,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Fire Stone",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2236565556",
+		"timestamp": 2236565556,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 140
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2228291807",
+		"timestamp": 2228291807,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2174528937",
+		"timestamp": 2174528937,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 24
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2065057890",
+		"timestamp": 2065057890,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1759893528",
+		"timestamp": 1759893528,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Stardust",
+				"quantity": 14
+			},
+			{
+				"item": "Hyper Potion",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1051133962",
+		"timestamp": 1051133962,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1387448346",
+		"timestamp": 1387448346,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Protein",
+				"quantity": 6
+			},
+			{
+				"item": "Hard Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1300121653",
+		"timestamp": 1300121653,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 138
+			},
+			{
+				"item": "Light Clay",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1269024769",
+		"timestamp": 1269024769,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 138
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-6-2828019509",
+		"timestamp": 2828019509,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Metronome",
+				"quantity": 4
+			},
+			{
+				"item": "Everstone",
+				"quantity": 3
+			}
+		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 6,
+		"raw": "2828019509, 2059-08-13 16:58:29\n124 Electric Tera Shards, 124 total Tera Shards\nx28 Electric Tera Shard\nx36 Electric Tera Shard\nx40 Electric Tera Shard\nx20 Electric Tera Shard\nx4 Metronome\n--> Print 1 in regular mode to trigger ball bonus.\nx3 Everstone"
+	},
+	{
+		"id": "item-bonus-5-953269078",
+		"timestamp": 953269078,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1524647995",
+		"timestamp": 1524647995,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1481859129",
+		"timestamp": 1481859129,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Elixir",
+				"quantity": 8
+			},
+			{
+				"item": "Ether",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2319524923",
+		"timestamp": 2319524923,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 30
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2509380323",
+		"timestamp": 2509380323,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 26
+			},
+			{
+				"item": "Honey",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2082343163",
+		"timestamp": 2082343163,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Calcium",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1141115119",
+		"timestamp": 1141115119,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Stardust",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1080698457",
+		"timestamp": 1080698457,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 142
+			},
+			{
+				"item": "Covert Cloak",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1071941785",
+		"timestamp": 1071941785,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Prism Scale",
+				"quantity": 2
+			},
+			{
+				"item": "Hard Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2363181298",
+		"timestamp": 2363181298,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Mystic Water",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2348765856",
+		"timestamp": 2348765856,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 40
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1287784647",
+		"timestamp": 1287784647,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 22
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1258326250",
+		"timestamp": 1258326250,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2870364356",
+		"timestamp": 2870364356,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Exp. Candy S",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1393068177",
+		"timestamp": 1393068177,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 132
+			},
+			{
+				"item": "Full Restore",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1541671251",
+		"timestamp": 1541671251,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 140
+			},
+			{
+				"item": "Balm Mushroom",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-6-1439517014",
+		"timestamp": 1439517014,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Pearl",
+				"quantity": 16
+			},
+			{
+				"item": "Scope Lens",
+				"quantity": 1
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 6,
+		"raw": "1439517014, 2015-08-14 01:50:14\n126 Ice Tera Shards, 126 total Tera Shards\nx14 Ice Tera Shard\nx16 Pearl\nx38 Ice Tera Shard\nx40 Ice Tera Shard\nx34 Ice Tera Shard\n--> Print 1 in regular mode to trigger item bonus.\nx1 Scope Lens"
+	},
+	{
+		"id": "item-bonus-5-2027235146",
+		"timestamp": 2027235146,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 138
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2609295127",
+		"timestamp": 2609295127,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Leaf Stone",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2608023918",
+		"timestamp": 2608023918,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Big Mushroom",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2567326030",
+		"timestamp": 2567326030,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Metal Alloy",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2524399980",
+		"timestamp": 2524399980,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 140
+			},
+			{
+				"item": "Max Potion",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2476403116",
+		"timestamp": 2476403116,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 136
+			},
+			{
+				"item": "Oval Stone",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2297147709",
+		"timestamp": 2297147709,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Fairy Feather",
+				"quantity": 2
+			},
+			{
+				"item": "Love Sweet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2182007148",
+		"timestamp": 2182007148,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Revive",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2097793352",
+		"timestamp": 2097793352,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Upgrade",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2048676835",
+		"timestamp": 2048676835,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 132
+			},
+			{
+				"item": "Shiny Stone",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2540335638",
+		"timestamp": 2540335638,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Star Piece",
+				"quantity": 12
+			},
+			{
+				"item": "Silver Powder",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2445347281",
+		"timestamp": 2445347281,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Metal Alloy",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-6-2633681163",
+		"timestamp": 2633681163,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Exp. Candy S",
+				"quantity": 16
+			},
+			{
+				"item": "Revive",
+				"quantity": 1
+			}
+		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 6,
+		"raw": "2633681163, 2053-06-16 10:06:03\n128 Fighting Tera Shards, 128 total Tera Shards\nx30 Fighting Tera Shard\nx34 Fighting Tera Shard\nx26 Fighting Tera Shard\nx38 Fighting Tera Shard\nx16 Exp. Candy S\n--> Print 1 in regular mode to trigger ball bonus.\nx1 Revive"
+	},
+	{
+		"id": "item-bonus-5-2703903020",
+		"timestamp": 2703903020,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Silk Scarf",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2002202223",
+		"timestamp": 2002202223,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Flower Sweet",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2298333641",
+		"timestamp": 2298333641,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Big Nugget",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1539066140",
+		"timestamp": 1539066140,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1510682535",
+		"timestamp": 1510682535,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 132
+			},
+			{
+				"item": "Shiny Stone",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2187146130",
+		"timestamp": 2187146130,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Sharp Beak",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1903838643",
+		"timestamp": 1903838643,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Big Nugget",
+				"quantity": 6
+			},
+			{
+				"item": "HP Up",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1859864872",
+		"timestamp": 1859864872,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 34
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1753467170",
+		"timestamp": 1753467170,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 142
+			},
+			{
+				"item": "Flower Sweet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1159121181",
+		"timestamp": 1159121181,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Berry Sweet",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-956721312",
+		"timestamp": 956721312,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 14
+			},
+			{
+				"item": "Fire Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2710692559",
+		"timestamp": 2710692559,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 28
+			},
+			{
+				"item": "Full Restore",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2797579592",
+		"timestamp": 2797579592,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 136
+			},
+			{
+				"item": "Amulet Coin",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1823263110",
+		"timestamp": 1823263110,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Upgrade",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2041396572",
+		"timestamp": 2041396572,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 140
+			},
+			{
+				"item": "Electirizer",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2356611572",
+		"timestamp": 2356611572,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Ability Capsule",
+				"quantity": 6
+			},
+			{
+				"item": "Leftovers",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1142947750",
+		"timestamp": 1142947750,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Prism Scale",
+				"quantity": 4
+			},
+			{
+				"item": "Carbos",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-999483268",
+		"timestamp": 999483268,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 158
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 26
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1312230939",
+		"timestamp": 1312230939,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Ribbon Sweet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1907674699",
+		"timestamp": 1907674699,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Thunder Stone",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1893503950",
+		"timestamp": 1893503950,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Razor Fang",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2094812682",
+		"timestamp": 2094812682,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2330627656",
+		"timestamp": 2330627656,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Light Clay",
+				"quantity": 4
+			},
+			{
+				"item": "Calcium",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2269220407",
+		"timestamp": 2269220407,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1564576166",
+		"timestamp": 1564576166,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Nugget",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1057983288",
+		"timestamp": 1057983288,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1191922477",
+		"timestamp": 1191922477,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Super Potion",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1463321889",
+		"timestamp": 1463321889,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "PP Up",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1046433344",
+		"timestamp": 1046433344,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Elixir",
+				"quantity": 6
+			},
+			{
+				"item": "Light Clay",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-965791359",
+		"timestamp": 965791359,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Stardust",
+				"quantity": 18
+			},
+			{
+				"item": "Reaper Cloth",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2817528876",
+		"timestamp": 2817528876,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 34
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1522609472",
+		"timestamp": 1522609472,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Pearl",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1104902818",
+		"timestamp": 1104902818,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 18
+			},
+			{
+				"item": "Pearl",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1676201511",
+		"timestamp": 1676201511,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Max Potion",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2592942363",
+		"timestamp": 2592942363,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Chipped Pot",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2696220211",
+		"timestamp": 2696220211,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Revive",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2679943379",
+		"timestamp": 2679943379,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Spell Tag",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1580633500",
+		"timestamp": 1580633500,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 128
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1033753885",
+		"timestamp": 1033753885,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Star Piece",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1385276337",
+		"timestamp": 1385276337,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Iron",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1367658125",
+		"timestamp": 1367658125,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 14
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1483534171",
+		"timestamp": 1483534171,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1449120167",
+		"timestamp": 1449120167,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Stardust",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1169875313",
+		"timestamp": 1169875313,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "PP Up",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1623084781",
+		"timestamp": 1623084781,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Comet Shard",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2361729167",
+		"timestamp": 2361729167,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 10
+			},
+			{
+				"item": "Nugget",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2350370970",
+		"timestamp": 2350370970,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Fairy Feather",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2121633467",
+		"timestamp": 2121633467,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Big Nugget",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2057726214",
+		"timestamp": 2057726214,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Rare Bone",
+				"quantity": 16
+			},
+			{
+				"item": "Black Sludge",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2190593713",
+		"timestamp": 2190593713,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Never-Melt Ice",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2157024398",
+		"timestamp": 2157024398,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 20
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1689419199",
+		"timestamp": 1689419199,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Upgrade",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2617649055",
+		"timestamp": 2617649055,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 132
+			},
+			{
+				"item": "Toxic Orb",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2446953213",
+		"timestamp": 2446953213,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Pearl String",
+				"quantity": 8
+			},
+			{
+				"item": "Calcium",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-956911448",
+		"timestamp": 956911448,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Pearl",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1242648345",
+		"timestamp": 1242648345,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Thunder Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2204077851",
+		"timestamp": 2204077851,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2013682705",
+		"timestamp": 2013682705,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 12
+			},
+			{
+				"item": "Cracked Pot",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1991135046",
+		"timestamp": 1991135046,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Full Restore",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1983516513",
+		"timestamp": 1983516513,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Covert Cloak",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2429413229",
+		"timestamp": 2429413229,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2356088686",
+		"timestamp": 2356088686,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 148
+			},
+			{
+				"item": "Big Mushroom",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1389612902",
+		"timestamp": 1389612902,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1743294281",
+		"timestamp": 1743294281,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 24
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1271337664",
+		"timestamp": 1271337664,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 148
+			},
+			{
+				"item": "Magnet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2458109848",
+		"timestamp": 2458109848,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Ether",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2457676724",
+		"timestamp": 2457676724,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Light Clay",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-947785482",
+		"timestamp": 947785482,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Never-Melt Ice",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2801954289",
+		"timestamp": 2801954289,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Stardust",
+				"quantity": 18
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2037190696",
+		"timestamp": 2037190696,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Focus Band",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2196837800",
+		"timestamp": 2196837800,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Flame Orb",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1644974044",
+		"timestamp": 1644974044,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Berry Sweet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1187057629",
+		"timestamp": 1187057629,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 120
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1156042443",
+		"timestamp": 1156042443,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 24
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2489095602",
+		"timestamp": 2489095602,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Full Heal",
+				"quantity": 10
+			},
+			{
+				"item": "Razor Fang",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2678724089",
+		"timestamp": 2678724089,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Hyper Potion",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1874612165",
+		"timestamp": 1874612165,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Silk Scarf",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2427473708",
+		"timestamp": 2427473708,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Hyper Potion",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2420066926",
+		"timestamp": 2420066926,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Star Piece",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1016054814",
+		"timestamp": 1016054814,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 10
+			},
+			{
+				"item": "Prism Scale",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2745886193",
+		"timestamp": 2745886193,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 136
+			},
+			{
+				"item": "Honey",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1074619816",
+		"timestamp": 1074619816,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Prism Scale",
+				"quantity": 4
+			},
+			{
+				"item": "Metal Coat",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1148357706",
+		"timestamp": 1148357706,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Hyper Potion",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1509904271",
+		"timestamp": 1509904271,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Magnet",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1486315873",
+		"timestamp": 1486315873,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2499514255",
+		"timestamp": 2499514255,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 20
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2470675453",
+		"timestamp": 2470675453,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Rock Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Iron",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1770458141",
+		"timestamp": 1770458141,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 146
+			},
+			{
+				"item": "Sun Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1747034277",
+		"timestamp": 1747034277,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 140
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1137372616",
+		"timestamp": 1137372616,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 140
+			},
+			{
+				"item": "Never-Melt Ice",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1151922967",
+		"timestamp": 1151922967,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Black Belt",
+				"quantity": 2
+			},
+			{
+				"item": "Sun Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2750606799",
+		"timestamp": 2750606799,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1380099464",
+		"timestamp": 1380099464,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 12
+			},
+			{
+				"item": "Amulet Coin",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1376046150",
+		"timestamp": 1376046150,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 136
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 22
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2303085646",
+		"timestamp": 2303085646,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Big Pearl",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1599720513",
+		"timestamp": 1599720513,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1869110240",
+		"timestamp": 1869110240,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Pearl",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2086919123",
+		"timestamp": 2086919123,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Pearl",
+				"quantity": 18
+			},
+			{
+				"item": "Bottle Cap",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2155674309",
+		"timestamp": 2155674309,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 136
+			},
+			{
+				"item": "Ability Patch",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-976792228",
+		"timestamp": 976792228,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Exp. Candy S",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1955564749",
+		"timestamp": 1955564749,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Max Revive",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1530334263",
+		"timestamp": 1530334263,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Fire Stone",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1502350587",
+		"timestamp": 1502350587,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 128
+			},
+			{
+				"item": "Love Sweet",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1604865236",
+		"timestamp": 1604865236,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 144
+			},
+			{
+				"item": "Big Nugget",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1573328637",
+		"timestamp": 1573328637,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Pearl",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1558468345",
+		"timestamp": 1558468345,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 124
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2774764213",
+		"timestamp": 2774764213,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 14
+			},
+			{
+				"item": "Comet Shard",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1422085327",
+		"timestamp": 1422085327,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Exp. Candy S",
+				"quantity": 28
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1888488486",
+		"timestamp": 1888488486,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 20
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-997477611",
+		"timestamp": 997477611,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Hard Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2230847277",
+		"timestamp": 2230847277,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Max Revive",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2690535912",
+		"timestamp": 2690535912,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2603718252",
+		"timestamp": 2603718252,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Love Sweet",
+				"quantity": 4
+			},
+			{
+				"item": "Full Restore",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2537180413",
+		"timestamp": 2537180413,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Prism Scale",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2491845884",
+		"timestamp": 2491845884,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Grass Tera Shard",
+				"quantity": 18
+			},
+			{
+				"item": "Air Balloon",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2471044834",
+		"timestamp": 2471044834,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2448272651",
+		"timestamp": 2448272651,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1877895094",
+		"timestamp": 1877895094,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Sharp Beak",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2210918320",
+		"timestamp": 2210918320,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 138
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2166317598",
+		"timestamp": 2166317598,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 16
+			},
+			{
+				"item": "Black Belt",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1553928549",
+		"timestamp": 1553928549,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 146
+			},
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 26
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1444094289",
+		"timestamp": 1444094289,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 144
+			},
+			{
+				"item": "Thunder Stone",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1506731155",
+		"timestamp": 1506731155,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Honey",
+				"quantity": 20
+			},
+			{
+				"item": "Big Mushroom",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1025960105",
+		"timestamp": 1025960105,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Flower Sweet",
+				"quantity": 4
+			},
+			{
+				"item": "Flame Orb",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2127107507",
+		"timestamp": 2127107507,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2073562240",
+		"timestamp": 2073562240,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Chipped Pot",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1766067369",
+		"timestamp": 1766067369,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Berry Sweet",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1754647903",
+		"timestamp": 1754647903,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Air Balloon",
+				"quantity": 4
+			},
+			{
+				"item": "Strawberry Sweet",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2382895052",
+		"timestamp": 2382895052,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 130
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2526553212",
+		"timestamp": 2526553212,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Steel Tera Shard",
+				"quantity": 138
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2427999096",
+		"timestamp": 2427999096,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 26
+			},
+			{
+				"item": "Safety Goggles",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2106335688",
+		"timestamp": 2106335688,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 138
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 32
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2224344371",
+		"timestamp": 2224344371,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Max Elixir",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2222214524",
+		"timestamp": 2222214524,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 132
+			},
+			{
+				"item": "Black Sludge",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2183028974",
+		"timestamp": 2183028974,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Water Tera Shard",
+				"quantity": 14
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2160162667",
+		"timestamp": 2160162667,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Safety Goggles",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1343229233",
+		"timestamp": 1343229233,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 10
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1033265849",
+		"timestamp": 1033265849,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Charcoal",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-6-1018932514",
+		"timestamp": 1018932514,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 126
+			},
+			{
+				"item": "Never-Melt Ice",
+				"quantity": 4
+			},
+			{
+				"item": "Iron",
+				"quantity": 1
+			}
+		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 6,
+		"raw": "1018932514, 2002-04-16 04:48:34\n126 Fairy Tera Shards, 126 total Tera Shards\nx4 Never-Melt Ice\nx40 Fairy Tera Shard\nx38 Fairy Tera Shard\nx14 Fairy Tera Shard\nx34 Fairy Tera Shard\n--> Print 1 in regular mode to trigger ball bonus.\nx1 Iron"
+	},
+	{
+		"id": "item-bonus-5-972579344",
+		"timestamp": 972579344,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Light Clay",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1378340221",
+		"timestamp": 1378340221,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 122
+			},
+			{
+				"item": "Star Piece",
+				"quantity": 14
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2770242877",
+		"timestamp": 2770242877,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 14
+			},
+			{
+				"item": "Elixir",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1221798450",
+		"timestamp": 1221798450,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 134
+			},
+			{
+				"item": "Full Heal",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1154977048",
+		"timestamp": 1154977048,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Leftovers",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1717943780",
+		"timestamp": 1717943780,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 120
+			},
+			{
+				"item": "Metal Alloy",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-6-2683464036",
+		"timestamp": 2683464036,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 140
+			},
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 18
+			},
+			{
+				"item": "Hyper Potion",
+				"quantity": 3
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 6,
+		"raw": "2683464036, 2055-01-13 14:40:36\n140 Fairy Tera Shards, 140 total Tera Shards\nx28 Fairy Tera Shard\nx18 Exp. Candy XS\nx34 Fairy Tera Shard\nx38 Fairy Tera Shard\nx40 Fairy Tera Shard\n--> Print 1 in regular mode to trigger item bonus.\nx3 Hyper Potion"
+	},
+	{
+		"id": "item-bonus-5-2827154708",
+		"timestamp": 2827154708,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 4
+			},
+			{
+				"item": "Masterpiece Teacup",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2693511264",
+		"timestamp": 2693511264,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 16
+			},
+			{
+				"item": "Scope Lens",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2681726661",
+		"timestamp": 2681726661,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 86
+			},
+			{
+				"item": "Silver Powder",
+				"quantity": 4
+			},
+			{
+				"item": "Metronome",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2606594144",
+		"timestamp": 2606594144,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 86
+			},
+			{
+				"item": "Iron",
+				"quantity": 4
+			},
+			{
+				"item": "Revive",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2565435020",
+		"timestamp": 2565435020,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Zinc",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2537583717",
+		"timestamp": 2537583717,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 84
+			},
+			{
+				"item": "Big Pearl",
+				"quantity": 8
+			},
+			{
+				"item": "Gold Bottle Cap",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2492192472",
+		"timestamp": 2492192472,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Hyper Potion",
+				"quantity": 8
+			},
+			{
+				"item": "Elixir",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2487021710",
+		"timestamp": 2487021710,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Poison Tera Shard",
+				"quantity": 14
+			},
+			{
+				"item": "Charcoal",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2083954082",
+		"timestamp": 2083954082,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 84
+			},
+			{
+				"item": "Fire Stone",
+				"quantity": 2
+			},
+			{
+				"item": "Star Sweet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2038376319",
+		"timestamp": 2038376319,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Soft Sand",
+				"quantity": 4
+			},
+			{
+				"item": "Clover Sweet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2005325791",
+		"timestamp": 2005325791,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 10
+			},
+			{
+				"item": "Iron",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1992058210",
+		"timestamp": 1992058210,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 84
+			},
+			{
+				"item": "Rare Bone",
+				"quantity": 18
+			},
+			{
+				"item": "Calcium",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1986476055",
+		"timestamp": 1986476055,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 88
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 14
+			},
+			{
+				"item": "HP Up",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1983592552",
+		"timestamp": 1983592552,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 84
+			},
+			{
+				"item": "Fairy Feather",
+				"quantity": 2
+			},
+			{
+				"item": "Revive",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1603966677",
+		"timestamp": 1603966677,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 62
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1578694664",
+		"timestamp": 1578694664,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Nugget",
+				"quantity": 14
+			},
+			{
+				"item": "Max Elixir",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2857676088",
+		"timestamp": 2857676088,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 10
+			},
+			{
+				"item": "Hyper Potion",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1725993511",
+		"timestamp": 1725993511,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Honey",
+				"quantity": 18
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 16
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1692448824",
+		"timestamp": 1692448824,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Stardust",
+				"quantity": 12
+			},
+			{
+				"item": "Razor Fang",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1675467171",
+		"timestamp": 1675467171,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 84
+			},
+			{
+				"item": "Big Nugget",
+				"quantity": 6
+			},
+			{
+				"item": "Black Glasses",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2359105810",
+		"timestamp": 2359105810,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 26
+			},
+			{
+				"item": "Big Mushroom",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2234513423",
+		"timestamp": 2234513423,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 88
+			},
+			{
+				"item": "Dawn Stone",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2210702733",
+		"timestamp": 2210702733,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 12
+			},
+			{
+				"item": "Thunder Stone",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2192304086",
+		"timestamp": 2192304086,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 20
+			},
+			{
+				"item": "Calcium",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2188748328",
+		"timestamp": 2188748328,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Covert Cloak",
+				"quantity": 2
+			},
+			{
+				"item": "Moon Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2163538108",
+		"timestamp": 2163538108,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 90
+			},
+			{
+				"item": "Moon Stone",
+				"quantity": 2
+			},
+			{
+				"item": "Toxic Orb",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2162708030",
+		"timestamp": 2162708030,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 12
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1837613881",
+		"timestamp": 1837613881,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Iron",
+				"quantity": 4
+			},
+			{
+				"item": "Max Revive",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1834783845",
+		"timestamp": 1834783845,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Iron",
+				"quantity": 6
+			},
+			{
+				"item": "Prism Scale",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1790924558",
+		"timestamp": 1790924558,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 86
+			},
+			{
+				"item": "Prism Scale",
+				"quantity": 4
+			},
+			{
+				"item": "PP Up",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1767154680",
+		"timestamp": 1767154680,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 84
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 12
+			},
+			{
+				"item": "Protector",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1757229807",
+		"timestamp": 1757229807,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 88
+			},
+			{
+				"item": "Hard Stone",
+				"quantity": 2
+			},
+			{
+				"item": "Gold Bottle Cap",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1918056511",
+		"timestamp": 1918056511,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "HP Up",
+				"quantity": 6
+			},
+			{
+				"item": "Metal Alloy",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1906093676",
+		"timestamp": 1906093676,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1880587034",
+		"timestamp": 1880587034,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 20
+			},
+			{
+				"item": "Metal Coat",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1857599585",
+		"timestamp": 1857599585,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Magnet",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1097875268",
+		"timestamp": 1097875268,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Razor Claw",
+				"quantity": 4
+			},
+			{
+				"item": "Black Belt",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1097529370",
+		"timestamp": 1097529370,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Pearl",
+				"quantity": 18
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1052211202",
+		"timestamp": 1052211202,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 88
+			},
+			{
+				"item": "Pearl String",
+				"quantity": 4
+			},
+			{
+				"item": "Max Potion",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2346609407",
+		"timestamp": 2346609407,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 114
+			},
+			{
+				"item": "Covert Cloak",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2274909116",
+		"timestamp": 2274909116,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 86
+			},
+			{
+				"item": "Pearl",
+				"quantity": 20
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-6-2267129267",
+		"timestamp": 2267129267,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 88
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 20
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 19
+			},
+			{
+				"item": "Magnet",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "*",
+		"printCount": 6,
+		"raw": "2267129267, 2041-11-03 22:07:47\n88 Stellar Tera Shards, 107 total Tera Shards\nx30 Stellar Tera Shard\nx28 Stellar Tera Shard\nx30 Stellar Tera Shard\nx2 Magnet\nx20 Tiny Bamboo Shoot\n--> Print 1 in regular mode to trigger item bonus.\nx19 Psychic Tera Shard"
+	},
+	{
+		"id": "item-bonus-5-2264545393",
+		"timestamp": 2264545393,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Elixir",
+				"quantity": 6
+			},
+			{
+				"item": "Covert Cloak",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2260429466",
+		"timestamp": 2260429466,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Ether",
+				"quantity": 6
+			},
+			{
+				"item": "Metronome",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2258778125",
+		"timestamp": 2258778125,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 12
+			},
+			{
+				"item": "Star Piece",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2257196250",
+		"timestamp": 2257196250,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Shiny Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-2249509545",
+		"timestamp": 2249509545,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 88
+			},
+			{
+				"item": "Stardust",
+				"quantity": 10
+			},
+			{
+				"item": "Comet Shard",
+				"quantity": 8
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1040229046",
+		"timestamp": 1040229046,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Fire Tera Shard",
+				"quantity": 22
+			},
+			{
+				"item": "Protein",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-981321565",
+		"timestamp": 981321565,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 16
+			},
+			{
+				"item": "Revive",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-952940567",
+		"timestamp": 952940567,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Flame Orb",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1190836246",
+		"timestamp": 1190836246,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 10
+			},
+			{
+				"item": "Twisted Spoon",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1188343159",
+		"timestamp": 1188343159,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 88
+			},
+			{
+				"item": "Full Heal",
+				"quantity": 10
+			},
+			{
+				"item": "Protein",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1165654034",
+		"timestamp": 1165654034,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 88
+			},
+			{
+				"item": "Max Revive",
+				"quantity": 6
+			},
+			{
+				"item": "Clover Sweet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1157298193",
+		"timestamp": 1157298193,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 84
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 18
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1527527524",
+		"timestamp": 1527527524,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 86
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 30
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1517087269",
+		"timestamp": 1517087269,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Max Elixir",
+				"quantity": 8
+			},
+			{
+				"item": "Leaf Stone",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1474554249",
+		"timestamp": 1474554249,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 12
+			},
+			{
+				"item": "Never-Melt Ice",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1457223782",
+		"timestamp": 1457223782,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "HP Up",
+				"quantity": 6
+			},
+			{
+				"item": "Dragon Fang",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1451181816",
+		"timestamp": 1451181816,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Full Heal",
+				"quantity": 6
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1394712799",
+		"timestamp": 1394712799,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 80
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 16
+			},
+			{
+				"item": "Prism Scale",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1324024375",
+		"timestamp": 1324024375,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 84
+			},
+			{
+				"item": "Berry Sweet",
+				"quantity": 4
+			},
+			{
+				"item": "Clover Sweet",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1318250692",
+		"timestamp": 1318250692,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Carbos",
+				"quantity": 4
+			},
+			{
+				"item": "Fire Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	},
+	{
+		"id": "item-bonus-5-1260042260",
+		"timestamp": 1260042260,
+		"printType": "item-bonus",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 82
+			},
+			{
+				"item": "Exp. Candy S",
+				"quantity": 10
+			},
+			{
+				"item": "Upgrade",
+				"quantity": 4
+			}
+		],
+		"triggers": "",
+		"triggers2": "",
+		"printCount": 5,
+		"raw": ""
+	}
+]
