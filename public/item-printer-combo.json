@@ -3838,6 +3838,773 @@
 		"raw": "1448700338, 2015-11-28 08:45:38\n--> Print 1 in regular mode.\nx2 Dusk Stone\n--> Trigger ball bonus, then print 10.\nx5 Poké Ball\nx1 Fast Ball\nx1 Fast Ball\nx1 Level Ball\nx1 Friend Ball\nx1 Level Ball\nx1 Moon Ball\nx1 Lure Ball\nx1 Love Ball\nx1 Master Ball"
 	},
 	{
+		"id": "combo-11-2537199023",
+		"timestamp": 2537199023,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Fairy Tera Shard",
+				"quantity": 40
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 30
+			},
+			{
+				"item": "Fighting Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Big Mushroom",
+				"quantity": 14
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 12
+			},
+			{
+				"item": "Calcium",
+				"quantity": 6
+			},
+			{
+				"item": "Max Revive",
+				"quantity": 4
+			},
+			{
+				"item": "HP Up",
+				"quantity": 4
+			},
+			{
+				"item": "Strawberry Sweet",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "0/10",
+		"printCount": 11,
+		"raw": "2537199023, 2050-05-26 17:30:23\n900000 exp\n--> Print 1 in regular mode.\nx2 Strawberry Sweet\n--> Trigger item bonus, then print 10.\nx20 Fighting Tera Shard\nx40 Fairy Tera Shard\nx14 Big Mushroom\nx6 Calcium\nx10 Exp. Candy XL\nx12 Tiny Mushroom\nx10 Exp. Candy XL\nx4 Max Revive\nx4 HP Up\nx10 Exp. Candy XL"
+	},
+	{
+		"id": "combo-11-2660392370",
+		"timestamp": 2660392370,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 30
+			},
+			{
+				"item": "Pearl",
+				"quantity": 20
+			},
+			{
+				"item": "Honey",
+				"quantity": 18
+			},
+			{
+				"item": "Stardust",
+				"quantity": 12
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 5
+			},
+			{
+				"item": "Berry Sweet",
+				"quantity": 4
+			},
+			{
+				"item": "Magmarizer",
+				"quantity": 4
+			},
+			{
+				"item": "Fairy Feather",
+				"quantity": 4
+			},
+			{
+				"item": "Loaded Dice",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "0/10",
+		"printCount": 11,
+		"raw": "2660392370, 2054-04-21 13:52:50\n900000 exp\n--> Print 1 in regular mode.\nx5 Pretty Feather\n--> Trigger item bonus, then print 10.\nx18 Honey\nx20 Pearl\nx10 Exp. Candy XL\nx4 Berry Sweet\nx4 Magmarizer\nx2 Loaded Dice\nx12 Stardust\nx10 Exp. Candy XL\nx4 Fairy Feather\nx10 Exp. Candy XL"
+	},
+	{
+		"id": "combo-11-2040426929",
+		"timestamp": 2040426929,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 28
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 26
+			},
+			{
+				"item": "Masterpiece Teacup",
+				"quantity": 4
+			},
+			{
+				"item": "Max Revive",
+				"quantity": 4
+			},
+			{
+				"item": "Toxic Orb",
+				"quantity": 4
+			},
+			{
+				"item": "Water Stone",
+				"quantity": 4
+			},
+			{
+				"item": "Scope Lens",
+				"quantity": 2
+			},
+			{
+				"item": "Heavy-Duty Boots",
+				"quantity": 2
+			},
+			{
+				"item": "Safety Goggles",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "0/10",
+		"printCount": 11,
+		"raw": "2040426929, 2034-08-29 01:15:29\n918000 exp\n--> Print 1 in regular mode.\nx2 Scope Lens\n--> Trigger item bonus, then print 10.\nx4 Masterpiece Teacup\nx4 Max Revive\nx2 Heavy-Duty Boots\nx10 Exp. Candy XL\nx26 Exp. Candy M\nx4 Toxic Orb\nx2 Safety Goggles\nx8 Exp. Candy XL\nx10 Exp. Candy XL\nx4 Water Stone"
+	},
+	{
+		"id": "combo-11-1117989286",
+		"timestamp": 1117989286,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy L",
+				"quantity": 30
+			},
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 22
+			},
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 20
+			},
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 20
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 18
+			},
+			{
+				"item": "Tiny Bamboo Shoot",
+				"quantity": 14
+			},
+			{
+				"item": "Max Ether",
+				"quantity": 3
+			},
+			{
+				"item": "Razor Fang",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "0/10",
+		"printCount": 11,
+		"raw": "1117989286, 2005-06-05 16:34:46\n902000 exp\n--> Print 1 in regular mode.\nx3 Max Ether\n--> Trigger item bonus, then print 10.\nx20 Exp. Candy XS\nx18 Pretty Feather\nx22 Bug Tera Shard\nx10 Exp. Candy L\nx20 Dragon Tera Shard\nx10 Exp. Candy XL\nx14 Tiny Bamboo Shoot\nx10 Exp. Candy XL\nx20 Exp. Candy L\nx2 Razor Fang"
+	},
+	{
+		"id": "combo-12-2560903597",
+		"timestamp": 2560903597,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 32
+			},
+			{
+				"item": "Ice Tera Shard",
+				"quantity": 18
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 15
+			},
+			{
+				"item": "Big Bamboo Shoot",
+				"quantity": 12
+			},
+			{
+				"item": "Ether",
+				"quantity": 8
+			},
+			{
+				"item": "Flower Sweet",
+				"quantity": 4
+			},
+			{
+				"item": "Metal Alloy",
+				"quantity": 4
+			},
+			{
+				"item": "Twisted Spoon",
+				"quantity": 2
+			},
+			{
+				"item": "Calcium",
+				"quantity": 2
+			}
+		],
+		"triggers": "ball-lotto",
+		"triggers2": "*",
+		"printCount": 12,
+		"raw": "2560903597, 2051-02-25 02:06:37\n960000 exp\n--> Print 1 in regular mode.\nx15 Ground Tera Shard\n--> Trigger item bonus, then print 10.\nx12 Big Bamboo Shoot\nx4 Flower Sweet\nx8 Exp. Candy XL\nx2 Twisted Spoon\nx8 Exp. Candy XL\nx10 Exp. Candy XL\nx4 Metal Alloy\nx2 Calcium\nx8 Ether\nx6 Exp. Candy XL\n--> Print 1 in regular mode to trigger ball bonus.\nx18 Ice Tera Shard"
+	},
+	{
+		"id": "combo-11-1714758069",
+		"timestamp": 1714758069,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 28
+			},
+			{
+				"item": "Exp. Candy M",
+				"quantity": 20
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 19
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 18
+			},
+			{
+				"item": "Hard Stone",
+				"quantity": 4
+			},
+			{
+				"item": "Leftovers",
+				"quantity": 4
+			},
+			{
+				"item": "Never-Melt Ice",
+				"quantity": 2
+			},
+			{
+				"item": "Mystic Water",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "0/10",
+		"printCount": 11,
+		"raw": "1714758069, 2024-05-03 17:41:09\n900000 exp\n--> Print 1 in regular mode.\nx19 Psychic Tera Shard\n--> Trigger item bonus, then print 10.\nx30 Ghost Tera Shard\nx20 Exp. Candy M\nx2 Never-Melt Ice\nx10 Exp. Candy XL\nx2 Mystic Water\nx4 Hard Stone\nx10 Exp. Candy XL\nx8 Exp. Candy XL\nx18 Pretty Feather\nx4 Leftovers"
+	},
+	{
+		"id": "combo-11-2081416622",
+		"timestamp": 2081416622,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 30
+			},
+			{
+				"item": "Prism Scale",
+				"quantity": 8
+			},
+			{
+				"item": "Stardust",
+				"quantity": 6
+			},
+			{
+				"item": "Oval Stone",
+				"quantity": 4
+			},
+			{
+				"item": "Electirizer",
+				"quantity": 4
+			},
+			{
+				"item": "Amulet Coin",
+				"quantity": 2
+			},
+			{
+				"item": "Silk Scarf",
+				"quantity": 2
+			},
+			{
+				"item": "Miracle Seed",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "0/10",
+		"printCount": 11,
+		"raw": "2081416622, 2035-12-16 11:17:02\n900000 exp\n--> Print 1 in regular mode.\nx6 Stardust\n--> Trigger item bonus, then print 10.\nx4 Prism Scale\nx4 Oval Stone\nx10 Exp. Candy XL\nx4 Electirizer\nx2 Amulet Coin\nx4 Prism Scale\nx2 Silk Scarf\nx10 Exp. Candy XL\nx2 Miracle Seed\nx10 Exp. Candy XL"
+	},
+	{
+		"id": "combo-11-1481488823",
+		"timestamp": 1481488823,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Ghost Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 30
+			},
+			{
+				"item": "Normal Tera Shard",
+				"quantity": 20
+			},
+			{
+				"item": "Exp. Candy XS",
+				"quantity": 14
+			},
+			{
+				"item": "Psychic Tera Shard",
+				"quantity": 10
+			},
+			{
+				"item": "Upgrade",
+				"quantity": 4
+			},
+			{
+				"item": "Black Glasses",
+				"quantity": 4
+			},
+			{
+				"item": "Shiny Stone",
+				"quantity": 3
+			},
+			{
+				"item": "Silk Scarf",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "0/10",
+		"printCount": 11,
+		"raw": "1481488823, 2016-12-11 20:40:23\n901400 exp\n--> Print 1 in regular mode.\nx3 Shiny Stone\n--> Trigger item bonus, then print 10.\nx14 Exp. Candy XS\nx2 Silk Scarf\nx4 Upgrade\nx10 Exp. Candy XL\nx10 Psychic Tera Shard\nx10 Exp. Candy XL\nx34 Ghost Tera Shard\nx10 Exp. Candy XL\nx4 Black Glasses\nx20 Normal Tera Shard"
+	},
+	{
+		"id": "combo-11-1379567021",
+		"timestamp": 1379567021,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 30
+			},
+			{
+				"item": "Exp. Candy S",
+				"quantity": 14
+			},
+			{
+				"item": "Protein",
+				"quantity": 10
+			},
+			{
+				"item": "Max Elixir",
+				"quantity": 8
+			},
+			{
+				"item": "Water Stone",
+				"quantity": 6
+			},
+			{
+				"item": "Big Nugget",
+				"quantity": 5
+			},
+			{
+				"item": "Max Potion",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "0/10",
+		"printCount": 11,
+		"raw": "1379567021, 2013-09-19 05:03:41\n911200 exp\n--> Print 1 in regular mode.\nx5 Big Nugget\n--> Trigger item bonus, then print 10.\nx6 Exp. Candy XL\nx8 Max Elixir\nx10 Exp. Candy XL\nx6 Water Stone\nx8 Exp. Candy XL\nx4 Protein\nx14 Exp. Candy S\nx6 Exp. Candy XL\nx6 Protein\nx2 Max Potion"
+	},
+	{
+		"id": "combo-11-1876801958",
+		"timestamp": 1876801958,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Dragon Tera Shard",
+				"quantity": 38
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 30
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 24
+			},
+			{
+				"item": "Rare Bone",
+				"quantity": 14
+			},
+			{
+				"item": "Comet Shard",
+				"quantity": 4
+			},
+			{
+				"item": "Covert Cloak",
+				"quantity": 4
+			},
+			{
+				"item": "Dusk Stone",
+				"quantity": 3
+			},
+			{
+				"item": "Razor Claw",
+				"quantity": 2
+			},
+			{
+				"item": "Air Balloon",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "0/10",
+		"printCount": 11,
+		"raw": "1876801958, 2029-06-22 05:52:38\n900000 exp\n--> Print 1 in regular mode.\nx3 Dusk Stone\n--> Trigger item bonus, then print 10.\nx10 Exp. Candy XL\nx10 Exp. Candy XL\nx14 Rare Bone\nx2 Razor Claw\nx38 Dragon Tera Shard\nx4 Comet Shard\nx24 Flying Tera Shard\nx4 Covert Cloak\nx10 Exp. Candy XL\nx2 Air Balloon"
+	},
+	{
+		"id": "combo-6-1944619430",
+		"timestamp": 1944619430,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Electric Tera Shard",
+				"quantity": 32
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 20
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 16
+			},
+			{
+				"item": "Ground Tera Shard",
+				"quantity": 12
+			},
+			{
+				"item": "Leaf Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "1944619430, 2031-08-16 04:03:50\n760000 exp\n--> Print 1 in regular mode.\nx12 Ground Tera Shard\n--> Trigger item bonus, then print 5.\nx10 Exp. Candy XL\nx16 Exp. Candy L\nx32 Electric Tera Shard\nx10 Exp. Candy XL\nx2 Leaf Stone"
+	},
+	{
+		"id": "combo-6-1937324467",
+		"timestamp": 1937324467,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 20
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 20
+			},
+			{
+				"item": "Dark Tera Shard",
+				"quantity": 14
+			},
+			{
+				"item": "Calcium",
+				"quantity": 2
+			},
+			{
+				"item": "Shiny Stone",
+				"quantity": 1
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "1937324467, 2031-05-23 17:41:07\n800000 exp\n--> Print 1 in regular mode.\nx1 Shiny Stone\n--> Trigger item bonus, then print 5.\nx14 Dark Tera Shard\nx10 Exp. Candy XL\nx10 Exp. Candy XL\nx20 Exp. Candy L\nx2 Calcium"
+	},
+	{
+		"id": "combo-6-2032596405",
+		"timestamp": 2032596405,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 20
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 20
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 18
+			},
+			{
+				"item": "Star Piece",
+				"quantity": 12
+			},
+			{
+				"item": "Nugget",
+				"quantity": 3
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "2032596405, 2034-05-30 10:06:45\n800000 exp\n--> Print 1 in regular mode.\nx3 Nugget\n--> Trigger item bonus, then print 5.\nx18 Pretty Feather\nx10 Exp. Candy XL\nx20 Exp. Candy L\nx10 Exp. Candy XL\nx12 Star Piece"
+	},
+	{
+		"id": "combo-6-2691258789",
+		"timestamp": 2691258789,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 28
+			},
+			{
+				"item": "Exp. Candy S",
+				"quantity": 16
+			},
+			{
+				"item": "Rare Bone",
+				"quantity": 9
+			},
+			{
+				"item": "Cracked Pot",
+				"quantity": 4
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "2691258789, 2055-04-13 19:53:09\n852800 exp\n--> Print 1 in regular mode.\nx9 Rare Bone\n--> Trigger item bonus, then print 5.\nx16 Exp. Candy S\nx8 Exp. Candy XL\nx10 Exp. Candy XL\nx4 Cracked Pot\nx10 Exp. Candy XL"
+	},
+	{
+		"id": "combo-6-2422651309",
+		"timestamp": 2422651309,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 26
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 12
+			},
+			{
+				"item": "Love Sweet",
+				"quantity": 4
+			},
+			{
+				"item": "Dusk Stone",
+				"quantity": 1
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "2422651309, 2046-10-08 22:41:49\n780000 exp\n--> Print 1 in regular mode.\nx1 Dusk Stone\n--> Trigger item bonus, then print 5.\nx10 Exp. Candy XL\nx6 Exp. Candy XL\nx10 Exp. Candy XL\nx12 Pretty Feather\nx4 Love Sweet"
+	},
+	{
+		"id": "combo-6-2377831862",
+		"timestamp": 2377831862,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Stellar Tera Shard",
+				"quantity": 30
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 26
+			},
+			{
+				"item": "Flying Tera Shard",
+				"quantity": 6
+			},
+			{
+				"item": "Ice Stone",
+				"quantity": 6
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "2377831862, 2045-05-08 04:51:02\n780000 exp\n--> Print 1 in regular mode.\nx6 Flying Tera Shard\n--> Trigger item bonus, then print 5.\nx8 Exp. Candy XL\nx8 Exp. Candy XL\nx30 Stellar Tera Shard\nx6 Ice Stone\nx10 Exp. Candy XL"
+	},
+	{
+		"id": "combo-6-2603858344",
+		"timestamp": 2603858344,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 26
+			},
+			{
+				"item": "Pearl",
+				"quantity": 12
+			},
+			{
+				"item": "Super Potion",
+				"quantity": 10
+			},
+			{
+				"item": "Dusk Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "2603858344, 2052-07-06 05:59:04\n780000 exp\n--> Print 1 in regular mode.\nx2 Dusk Stone\n--> Trigger item bonus, then print 5.\nx6 Exp. Candy XL\nx10 Exp. Candy XL\nx12 Pearl\nx10 Super Potion\nx10 Exp. Candy XL"
+	},
+	{
+		"id": "combo-6-2558731703",
+		"timestamp": 2558731703,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 26
+			},
+			{
+				"item": "HP Up",
+				"quantity": 6
+			},
+			{
+				"item": "Super Potion",
+				"quantity": 4
+			},
+			{
+				"item": "Ice Stone",
+				"quantity": 2
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "2558731703, 2051-01-30 22:48:23\n780000 exp\n--> Print 1 in regular mode.\nx4 Super Potion\n--> Trigger item bonus, then print 5.\nx10 Exp. Candy XL\nx8 Exp. Candy XL\nx8 Exp. Candy XL\nx6 HP Up\nx2 Ice Stone"
+	},
+	{
+		"id": "combo-6-1391838641",
+		"timestamp": 1391838641,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 20
+			},
+			{
+				"item": "Exp. Candy L",
+				"quantity": 18
+			},
+			{
+				"item": "Big Nugget",
+				"quantity": 5
+			},
+			{
+				"item": "Never-Melt Ice",
+				"quantity": 4
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "1391838641, 2014-02-08 05:50:41\n780000 exp\n--> Print 1 in regular mode.\nx5 Big Nugget\n--> Trigger item bonus, then print 5.\nx4 Never-Melt Ice\nx10 Exp. Candy L\nx10 Exp. Candy XL\nx10 Exp. Candy XL\nx8 Exp. Candy L"
+	},
+	{
+		"id": "combo-6-1365882280",
+		"timestamp": 1365882280,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Bug Tera Shard",
+				"quantity": 34
+			},
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 26
+			},
+			{
+				"item": "Revive",
+				"quantity": 4
+			},
+			{
+				"item": "Nugget",
+				"quantity": 3
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "1365882280, 2013-04-13 19:44:40\n780000 exp\n--> Print 1 in regular mode.\nx3 Nugget\n--> Trigger item bonus, then print 5.\nx4 Revive\nx10 Exp. Candy XL\nx8 Exp. Candy XL\nx34 Bug Tera Shard\nx8 Exp. Candy XL"
+	},
+	{
+		"id": "combo-6-1350753707",
+		"timestamp": 1350753707,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "Exp. Candy XL",
+				"quantity": 28
+			},
+			{
+				"item": "Tiny Mushroom",
+				"quantity": 20
+			},
+			{
+				"item": "Pretty Feather",
+				"quantity": 10
+			},
+			{
+				"item": "Poison Barb",
+				"quantity": 4
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "1350753707, 2012-10-20 17:21:47\n840000 exp\n--> Print 1 in regular mode.\nx10 Pretty Feather\n--> Trigger item bonus, then print 5.\nx4 Poison Barb\nx10 Exp. Candy XL\nx20 Tiny Mushroom\nx10 Exp. Candy XL\nx8 Exp. Candy XL"
+	},
+	{
 		"id": "combo-6-1457307058",
 		"timestamp": 1457307058,
 		"printType": "combo",
@@ -6104,773 +6871,6 @@
 		"raw": "1068427699, 2003-11-10 01:28:19\n--> Print 1 in regular mode.\nx5 Electric Tera Shard\n--> Trigger ball bonus, then print 5.\nx1 Beast Ball\nx1 Beast Ball\nx1 Beast Ball\nx5 Poké Ball\nx1 Beast Ball"
 	},
 	{
-		"id": "combo-11-2537199023",
-		"timestamp": 2537199023,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Fairy Tera Shard",
-				"quantity": 40
-			},
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 30
-			},
-			{
-				"item": "Fighting Tera Shard",
-				"quantity": 20
-			},
-			{
-				"item": "Big Mushroom",
-				"quantity": 14
-			},
-			{
-				"item": "Tiny Mushroom",
-				"quantity": 12
-			},
-			{
-				"item": "Calcium",
-				"quantity": 6
-			},
-			{
-				"item": "Max Revive",
-				"quantity": 4
-			},
-			{
-				"item": "HP Up",
-				"quantity": 4
-			},
-			{
-				"item": "Strawberry Sweet",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "0/10",
-		"printCount": 11,
-		"raw": "2537199023, 2050-05-26 17:30:23\n900000 exp\n--> Print 1 in regular mode.\nx2 Strawberry Sweet\n--> Trigger item bonus, then print 10.\nx20 Fighting Tera Shard\nx40 Fairy Tera Shard\nx14 Big Mushroom\nx6 Calcium\nx10 Exp. Candy XL\nx12 Tiny Mushroom\nx10 Exp. Candy XL\nx4 Max Revive\nx4 HP Up\nx10 Exp. Candy XL"
-	},
-	{
-		"id": "combo-11-2660392370",
-		"timestamp": 2660392370,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 30
-			},
-			{
-				"item": "Pearl",
-				"quantity": 20
-			},
-			{
-				"item": "Honey",
-				"quantity": 18
-			},
-			{
-				"item": "Stardust",
-				"quantity": 12
-			},
-			{
-				"item": "Pretty Feather",
-				"quantity": 5
-			},
-			{
-				"item": "Berry Sweet",
-				"quantity": 4
-			},
-			{
-				"item": "Magmarizer",
-				"quantity": 4
-			},
-			{
-				"item": "Fairy Feather",
-				"quantity": 4
-			},
-			{
-				"item": "Loaded Dice",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "0/10",
-		"printCount": 11,
-		"raw": "2660392370, 2054-04-21 13:52:50\n900000 exp\n--> Print 1 in regular mode.\nx5 Pretty Feather\n--> Trigger item bonus, then print 10.\nx18 Honey\nx20 Pearl\nx10 Exp. Candy XL\nx4 Berry Sweet\nx4 Magmarizer\nx2 Loaded Dice\nx12 Stardust\nx10 Exp. Candy XL\nx4 Fairy Feather\nx10 Exp. Candy XL"
-	},
-	{
-		"id": "combo-11-2040426929",
-		"timestamp": 2040426929,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 28
-			},
-			{
-				"item": "Exp. Candy M",
-				"quantity": 26
-			},
-			{
-				"item": "Masterpiece Teacup",
-				"quantity": 4
-			},
-			{
-				"item": "Max Revive",
-				"quantity": 4
-			},
-			{
-				"item": "Toxic Orb",
-				"quantity": 4
-			},
-			{
-				"item": "Water Stone",
-				"quantity": 4
-			},
-			{
-				"item": "Scope Lens",
-				"quantity": 2
-			},
-			{
-				"item": "Heavy-Duty Boots",
-				"quantity": 2
-			},
-			{
-				"item": "Safety Goggles",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "0/10",
-		"printCount": 11,
-		"raw": "2040426929, 2034-08-29 01:15:29\n918000 exp\n--> Print 1 in regular mode.\nx2 Scope Lens\n--> Trigger item bonus, then print 10.\nx4 Masterpiece Teacup\nx4 Max Revive\nx2 Heavy-Duty Boots\nx10 Exp. Candy XL\nx26 Exp. Candy M\nx4 Toxic Orb\nx2 Safety Goggles\nx8 Exp. Candy XL\nx10 Exp. Candy XL\nx4 Water Stone"
-	},
-	{
-		"id": "combo-11-1117989286",
-		"timestamp": 1117989286,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy L",
-				"quantity": 30
-			},
-			{
-				"item": "Bug Tera Shard",
-				"quantity": 22
-			},
-			{
-				"item": "Exp. Candy XS",
-				"quantity": 20
-			},
-			{
-				"item": "Dragon Tera Shard",
-				"quantity": 20
-			},
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 20
-			},
-			{
-				"item": "Pretty Feather",
-				"quantity": 18
-			},
-			{
-				"item": "Tiny Bamboo Shoot",
-				"quantity": 14
-			},
-			{
-				"item": "Max Ether",
-				"quantity": 3
-			},
-			{
-				"item": "Razor Fang",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "0/10",
-		"printCount": 11,
-		"raw": "1117989286, 2005-06-05 16:34:46\n902000 exp\n--> Print 1 in regular mode.\nx3 Max Ether\n--> Trigger item bonus, then print 10.\nx20 Exp. Candy XS\nx18 Pretty Feather\nx22 Bug Tera Shard\nx10 Exp. Candy L\nx20 Dragon Tera Shard\nx10 Exp. Candy XL\nx14 Tiny Bamboo Shoot\nx10 Exp. Candy XL\nx20 Exp. Candy L\nx2 Razor Fang"
-	},
-	{
-		"id": "combo-12-2560903597",
-		"timestamp": 2560903597,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 32
-			},
-			{
-				"item": "Ice Tera Shard",
-				"quantity": 18
-			},
-			{
-				"item": "Ground Tera Shard",
-				"quantity": 15
-			},
-			{
-				"item": "Big Bamboo Shoot",
-				"quantity": 12
-			},
-			{
-				"item": "Ether",
-				"quantity": 8
-			},
-			{
-				"item": "Flower Sweet",
-				"quantity": 4
-			},
-			{
-				"item": "Metal Alloy",
-				"quantity": 4
-			},
-			{
-				"item": "Twisted Spoon",
-				"quantity": 2
-			},
-			{
-				"item": "Calcium",
-				"quantity": 2
-			}
-		],
-		"triggers": "ball-lotto",
-		"triggers2": "*",
-		"printCount": 12,
-		"raw": "2560903597, 2051-02-25 02:06:37\n960000 exp\n--> Print 1 in regular mode.\nx15 Ground Tera Shard\n--> Trigger item bonus, then print 10.\nx12 Big Bamboo Shoot\nx4 Flower Sweet\nx8 Exp. Candy XL\nx2 Twisted Spoon\nx8 Exp. Candy XL\nx10 Exp. Candy XL\nx4 Metal Alloy\nx2 Calcium\nx8 Ether\nx6 Exp. Candy XL\n--> Print 1 in regular mode to trigger ball bonus.\nx18 Ice Tera Shard"
-	},
-	{
-		"id": "combo-11-1714758069",
-		"timestamp": 1714758069,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Ghost Tera Shard",
-				"quantity": 30
-			},
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 28
-			},
-			{
-				"item": "Exp. Candy M",
-				"quantity": 20
-			},
-			{
-				"item": "Psychic Tera Shard",
-				"quantity": 19
-			},
-			{
-				"item": "Pretty Feather",
-				"quantity": 18
-			},
-			{
-				"item": "Hard Stone",
-				"quantity": 4
-			},
-			{
-				"item": "Leftovers",
-				"quantity": 4
-			},
-			{
-				"item": "Never-Melt Ice",
-				"quantity": 2
-			},
-			{
-				"item": "Mystic Water",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "0/10",
-		"printCount": 11,
-		"raw": "1714758069, 2024-05-03 17:41:09\n900000 exp\n--> Print 1 in regular mode.\nx19 Psychic Tera Shard\n--> Trigger item bonus, then print 10.\nx30 Ghost Tera Shard\nx20 Exp. Candy M\nx2 Never-Melt Ice\nx10 Exp. Candy XL\nx2 Mystic Water\nx4 Hard Stone\nx10 Exp. Candy XL\nx8 Exp. Candy XL\nx18 Pretty Feather\nx4 Leftovers"
-	},
-	{
-		"id": "combo-11-2081416622",
-		"timestamp": 2081416622,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 30
-			},
-			{
-				"item": "Prism Scale",
-				"quantity": 8
-			},
-			{
-				"item": "Stardust",
-				"quantity": 6
-			},
-			{
-				"item": "Oval Stone",
-				"quantity": 4
-			},
-			{
-				"item": "Electirizer",
-				"quantity": 4
-			},
-			{
-				"item": "Amulet Coin",
-				"quantity": 2
-			},
-			{
-				"item": "Silk Scarf",
-				"quantity": 2
-			},
-			{
-				"item": "Miracle Seed",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "0/10",
-		"printCount": 11,
-		"raw": "2081416622, 2035-12-16 11:17:02\n900000 exp\n--> Print 1 in regular mode.\nx6 Stardust\n--> Trigger item bonus, then print 10.\nx4 Prism Scale\nx4 Oval Stone\nx10 Exp. Candy XL\nx4 Electirizer\nx2 Amulet Coin\nx4 Prism Scale\nx2 Silk Scarf\nx10 Exp. Candy XL\nx2 Miracle Seed\nx10 Exp. Candy XL"
-	},
-	{
-		"id": "combo-11-1481488823",
-		"timestamp": 1481488823,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Ghost Tera Shard",
-				"quantity": 34
-			},
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 30
-			},
-			{
-				"item": "Normal Tera Shard",
-				"quantity": 20
-			},
-			{
-				"item": "Exp. Candy XS",
-				"quantity": 14
-			},
-			{
-				"item": "Psychic Tera Shard",
-				"quantity": 10
-			},
-			{
-				"item": "Upgrade",
-				"quantity": 4
-			},
-			{
-				"item": "Black Glasses",
-				"quantity": 4
-			},
-			{
-				"item": "Shiny Stone",
-				"quantity": 3
-			},
-			{
-				"item": "Silk Scarf",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "0/10",
-		"printCount": 11,
-		"raw": "1481488823, 2016-12-11 20:40:23\n901400 exp\n--> Print 1 in regular mode.\nx3 Shiny Stone\n--> Trigger item bonus, then print 10.\nx14 Exp. Candy XS\nx2 Silk Scarf\nx4 Upgrade\nx10 Exp. Candy XL\nx10 Psychic Tera Shard\nx10 Exp. Candy XL\nx34 Ghost Tera Shard\nx10 Exp. Candy XL\nx4 Black Glasses\nx20 Normal Tera Shard"
-	},
-	{
-		"id": "combo-11-1379567021",
-		"timestamp": 1379567021,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 30
-			},
-			{
-				"item": "Exp. Candy S",
-				"quantity": 14
-			},
-			{
-				"item": "Protein",
-				"quantity": 10
-			},
-			{
-				"item": "Max Elixir",
-				"quantity": 8
-			},
-			{
-				"item": "Water Stone",
-				"quantity": 6
-			},
-			{
-				"item": "Big Nugget",
-				"quantity": 5
-			},
-			{
-				"item": "Max Potion",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "0/10",
-		"printCount": 11,
-		"raw": "1379567021, 2013-09-19 05:03:41\n911200 exp\n--> Print 1 in regular mode.\nx5 Big Nugget\n--> Trigger item bonus, then print 10.\nx6 Exp. Candy XL\nx8 Max Elixir\nx10 Exp. Candy XL\nx6 Water Stone\nx8 Exp. Candy XL\nx4 Protein\nx14 Exp. Candy S\nx6 Exp. Candy XL\nx6 Protein\nx2 Max Potion"
-	},
-	{
-		"id": "combo-11-1876801958",
-		"timestamp": 1876801958,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Dragon Tera Shard",
-				"quantity": 38
-			},
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 30
-			},
-			{
-				"item": "Flying Tera Shard",
-				"quantity": 24
-			},
-			{
-				"item": "Rare Bone",
-				"quantity": 14
-			},
-			{
-				"item": "Comet Shard",
-				"quantity": 4
-			},
-			{
-				"item": "Covert Cloak",
-				"quantity": 4
-			},
-			{
-				"item": "Dusk Stone",
-				"quantity": 3
-			},
-			{
-				"item": "Razor Claw",
-				"quantity": 2
-			},
-			{
-				"item": "Air Balloon",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "0/10",
-		"printCount": 11,
-		"raw": "1876801958, 2029-06-22 05:52:38\n900000 exp\n--> Print 1 in regular mode.\nx3 Dusk Stone\n--> Trigger item bonus, then print 10.\nx10 Exp. Candy XL\nx10 Exp. Candy XL\nx14 Rare Bone\nx2 Razor Claw\nx38 Dragon Tera Shard\nx4 Comet Shard\nx24 Flying Tera Shard\nx4 Covert Cloak\nx10 Exp. Candy XL\nx2 Air Balloon"
-	},
-	{
-		"id": "combo-6-1944619430",
-		"timestamp": 1944619430,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Electric Tera Shard",
-				"quantity": 32
-			},
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 20
-			},
-			{
-				"item": "Exp. Candy L",
-				"quantity": 16
-			},
-			{
-				"item": "Ground Tera Shard",
-				"quantity": 12
-			},
-			{
-				"item": "Leaf Stone",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "1944619430, 2031-08-16 04:03:50\n760000 exp\n--> Print 1 in regular mode.\nx12 Ground Tera Shard\n--> Trigger item bonus, then print 5.\nx10 Exp. Candy XL\nx16 Exp. Candy L\nx32 Electric Tera Shard\nx10 Exp. Candy XL\nx2 Leaf Stone"
-	},
-	{
-		"id": "combo-6-1937324467",
-		"timestamp": 1937324467,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 20
-			},
-			{
-				"item": "Exp. Candy L",
-				"quantity": 20
-			},
-			{
-				"item": "Dark Tera Shard",
-				"quantity": 14
-			},
-			{
-				"item": "Calcium",
-				"quantity": 2
-			},
-			{
-				"item": "Shiny Stone",
-				"quantity": 1
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "1937324467, 2031-05-23 17:41:07\n800000 exp\n--> Print 1 in regular mode.\nx1 Shiny Stone\n--> Trigger item bonus, then print 5.\nx14 Dark Tera Shard\nx10 Exp. Candy XL\nx10 Exp. Candy XL\nx20 Exp. Candy L\nx2 Calcium"
-	},
-	{
-		"id": "combo-6-2032596405",
-		"timestamp": 2032596405,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 20
-			},
-			{
-				"item": "Exp. Candy L",
-				"quantity": 20
-			},
-			{
-				"item": "Pretty Feather",
-				"quantity": 18
-			},
-			{
-				"item": "Star Piece",
-				"quantity": 12
-			},
-			{
-				"item": "Nugget",
-				"quantity": 3
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "2032596405, 2034-05-30 10:06:45\n800000 exp\n--> Print 1 in regular mode.\nx3 Nugget\n--> Trigger item bonus, then print 5.\nx18 Pretty Feather\nx10 Exp. Candy XL\nx20 Exp. Candy L\nx10 Exp. Candy XL\nx12 Star Piece"
-	},
-	{
-		"id": "combo-6-2691258789",
-		"timestamp": 2691258789,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 28
-			},
-			{
-				"item": "Exp. Candy S",
-				"quantity": 16
-			},
-			{
-				"item": "Rare Bone",
-				"quantity": 9
-			},
-			{
-				"item": "Cracked Pot",
-				"quantity": 4
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "2691258789, 2055-04-13 19:53:09\n852800 exp\n--> Print 1 in regular mode.\nx9 Rare Bone\n--> Trigger item bonus, then print 5.\nx16 Exp. Candy S\nx8 Exp. Candy XL\nx10 Exp. Candy XL\nx4 Cracked Pot\nx10 Exp. Candy XL"
-	},
-	{
-		"id": "combo-6-2422651309",
-		"timestamp": 2422651309,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 26
-			},
-			{
-				"item": "Pretty Feather",
-				"quantity": 12
-			},
-			{
-				"item": "Love Sweet",
-				"quantity": 4
-			},
-			{
-				"item": "Dusk Stone",
-				"quantity": 1
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "2422651309, 2046-10-08 22:41:49\n780000 exp\n--> Print 1 in regular mode.\nx1 Dusk Stone\n--> Trigger item bonus, then print 5.\nx10 Exp. Candy XL\nx6 Exp. Candy XL\nx10 Exp. Candy XL\nx12 Pretty Feather\nx4 Love Sweet"
-	},
-	{
-		"id": "combo-6-2377831862",
-		"timestamp": 2377831862,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Stellar Tera Shard",
-				"quantity": 30
-			},
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 26
-			},
-			{
-				"item": "Flying Tera Shard",
-				"quantity": 6
-			},
-			{
-				"item": "Ice Stone",
-				"quantity": 6
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "2377831862, 2045-05-08 04:51:02\n780000 exp\n--> Print 1 in regular mode.\nx6 Flying Tera Shard\n--> Trigger item bonus, then print 5.\nx8 Exp. Candy XL\nx8 Exp. Candy XL\nx30 Stellar Tera Shard\nx6 Ice Stone\nx10 Exp. Candy XL"
-	},
-	{
-		"id": "combo-6-2603858344",
-		"timestamp": 2603858344,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 26
-			},
-			{
-				"item": "Pearl",
-				"quantity": 12
-			},
-			{
-				"item": "Super Potion",
-				"quantity": 10
-			},
-			{
-				"item": "Dusk Stone",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "2603858344, 2052-07-06 05:59:04\n780000 exp\n--> Print 1 in regular mode.\nx2 Dusk Stone\n--> Trigger item bonus, then print 5.\nx6 Exp. Candy XL\nx10 Exp. Candy XL\nx12 Pearl\nx10 Super Potion\nx10 Exp. Candy XL"
-	},
-	{
-		"id": "combo-6-2558731703",
-		"timestamp": 2558731703,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 26
-			},
-			{
-				"item": "HP Up",
-				"quantity": 6
-			},
-			{
-				"item": "Super Potion",
-				"quantity": 4
-			},
-			{
-				"item": "Ice Stone",
-				"quantity": 2
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "2558731703, 2051-01-30 22:48:23\n780000 exp\n--> Print 1 in regular mode.\nx4 Super Potion\n--> Trigger item bonus, then print 5.\nx10 Exp. Candy XL\nx8 Exp. Candy XL\nx8 Exp. Candy XL\nx6 HP Up\nx2 Ice Stone"
-	},
-	{
-		"id": "combo-6-1391838641",
-		"timestamp": 1391838641,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 20
-			},
-			{
-				"item": "Exp. Candy L",
-				"quantity": 18
-			},
-			{
-				"item": "Big Nugget",
-				"quantity": 5
-			},
-			{
-				"item": "Never-Melt Ice",
-				"quantity": 4
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "1391838641, 2014-02-08 05:50:41\n780000 exp\n--> Print 1 in regular mode.\nx5 Big Nugget\n--> Trigger item bonus, then print 5.\nx4 Never-Melt Ice\nx10 Exp. Candy L\nx10 Exp. Candy XL\nx10 Exp. Candy XL\nx8 Exp. Candy L"
-	},
-	{
-		"id": "combo-6-1365882280",
-		"timestamp": 1365882280,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Bug Tera Shard",
-				"quantity": 34
-			},
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 26
-			},
-			{
-				"item": "Revive",
-				"quantity": 4
-			},
-			{
-				"item": "Nugget",
-				"quantity": 3
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "1365882280, 2013-04-13 19:44:40\n780000 exp\n--> Print 1 in regular mode.\nx3 Nugget\n--> Trigger item bonus, then print 5.\nx4 Revive\nx10 Exp. Candy XL\nx8 Exp. Candy XL\nx34 Bug Tera Shard\nx8 Exp. Candy XL"
-	},
-	{
-		"id": "combo-6-1350753707",
-		"timestamp": 1350753707,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "Exp. Candy XL",
-				"quantity": 28
-			},
-			{
-				"item": "Tiny Mushroom",
-				"quantity": 20
-			},
-			{
-				"item": "Pretty Feather",
-				"quantity": 10
-			},
-			{
-				"item": "Poison Barb",
-				"quantity": 4
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "1350753707, 2012-10-20 17:21:47\n840000 exp\n--> Print 1 in regular mode.\nx10 Pretty Feather\n--> Trigger item bonus, then print 5.\nx4 Poison Barb\nx10 Exp. Candy XL\nx20 Tiny Mushroom\nx10 Exp. Candy XL\nx8 Exp. Candy XL"
-	},
-	{
 		"id": "combo-6-2800934317",
 		"timestamp": 2800934317,
 		"printType": "combo",
@@ -7139,33 +7139,6 @@
 		"triggers2": "5/10",
 		"printCount": 6,
 		"raw": "1259828656, 2009-12-03 08:24:16\n12 Gold Bottle Caps\n--> Print 1 in regular mode.\nx6 Nugget\n--> Trigger item bonus, then print 5.\nx4 Gold Bottle Cap\nx4 Gold Bottle Cap\nx28 Steel Tera Shard\nx4 Gold Bottle Cap\nx6 PP Up"
-	},
-	{
-		"id": "combo-6-1783977393",
-		"timestamp": 1783977393,
-		"printType": "combo",
-		"itemList": [
-			{
-				"item": "PP Max",
-				"quantity": 18
-			},
-			{
-				"item": "Honey",
-				"quantity": 8
-			},
-			{
-				"item": "Black Belt",
-				"quantity": 4
-			},
-			{
-				"item": "Flame Orb",
-				"quantity": 4
-			}
-		],
-		"triggers": "item-bonus",
-		"triggers2": "5/10",
-		"printCount": 6,
-		"raw": "1783977393, 2026-07-13 21:16:33\n18 total PP Max\n--> Print 1 in regular mode.\nx8 Honey\n--> Trigger item bonus, then print 5.\nx4 Black Belt\nx6 PP Max\nx6 PP Max\nx4 Flame Orb\nx6 PP Max"
 	},
 	{
 		"id": "combo-11-2434842021",
@@ -9397,6 +9370,33 @@
 		"triggers2": "0/10",
 		"printCount": 11,
 		"raw": "1547577782, 2019-01-15 18:43:02\n258 total Tera Shards\n--> Print 1 in regular mode.\nx1 Hard Stone\n--> Trigger item bonus, then print 10.\nx18 Tiny Mushroom\nx18 Rare Bone\nx22 Poison Tera Shard\nx26 Poison Tera Shard\nx36 Rock Tera Shard\nx36 Fairy Tera Shard\nx30 Rock Tera Shard\nx32 Ice Tera Shard\nx36 Fire Tera Shard\nx40 Ground Tera Shard"
+	},
+	{
+		"id": "combo-6-1783977393",
+		"timestamp": 1783977393,
+		"printType": "combo",
+		"itemList": [
+			{
+				"item": "PP Max",
+				"quantity": 18
+			},
+			{
+				"item": "Honey",
+				"quantity": 8
+			},
+			{
+				"item": "Black Belt",
+				"quantity": 4
+			},
+			{
+				"item": "Flame Orb",
+				"quantity": 4
+			}
+		],
+		"triggers": "item-bonus",
+		"triggers2": "5/10",
+		"printCount": 6,
+		"raw": "1783977393, 2026-07-13 21:16:33\n18 total PP Max\n--> Print 1 in regular mode.\nx8 Honey\n--> Trigger item bonus, then print 5.\nx4 Black Belt\nx6 PP Max\nx6 PP Max\nx4 Flame Orb\nx6 PP Max"
 	},
 	{
 		"id": "combo-6-2306824632",

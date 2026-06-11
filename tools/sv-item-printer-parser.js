@@ -113,7 +113,7 @@ function parseSeed(seedString, printType) {
 		timestamp: parseInt(seed, 10),
 		printType,
 		itemList: Object.values(itemMap).sort((a, b) => b.quantity - a.quantity),
-		raw: seedString,
+		raw: lastArrow ? seedString : "",
 		triggers,
 		triggers2,
 		printCount,
